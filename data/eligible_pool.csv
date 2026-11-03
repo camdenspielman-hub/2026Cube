@@ -2,7 +2,7 @@ name,mana_cost,type_line,color_identity,rarity,set,collector_number,eligibility,
 Aberrant Return,{4}{B}{B},Sorcery,B,rare,ecc,7,new card in supplemental product,ecc,
 Abundant Countryside,,Land,C,rare,ecc,22,new card in supplemental product,ecc,
 "Ashling, the Limitless",{2}{R},Legendary Creature — Elemental Sorcerer,BGRUW,mythic,ecc,1,new card in supplemental product,ecc,
-"Auntie Ool, Cursewretch",{1}{B}{R}{G},Legendary Creature — Goblin Warlock,BGR,mythic,ecc,2,new card in supplemental product,ecc,yes
+"Auntie Ool, Cursewretch",{1}{B}{R}{G},Legendary Creature — Goblin Warlock,BGR,mythic,ecc,2,new card in supplemental product,ecc,
 Belonging,{5}{W},Creature — Elemental Incarnation,W,rare,ecc,5,new card in supplemental product,ecc,
 Dread Tiller,{1}{B}{G},Artifact Creature — Scarecrow,BG,rare,ecc,20,new card in supplemental product,ecc,yes
 Elemental Spectacle,{5}{G},Sorcery,G,rare,ecc,15,new card in supplemental product,ecc,
@@ -37,7 +37,7 @@ Barbed Bloodletter,{1}{B},Artifact — Equipment,B,common,ecl,86,main-set printi
 Bark of Doran,{1}{W},Artifact — Equipment,W,uncommon,ecl,6,main-set printing,ecl,
 Bile-Vial Boggart,{B},Creature — Goblin Assassin,B,common,ecl,87,main-set printing,ecl,
 Bitterbloom Bearer,{B}{B},Creature — Faerie Rogue,B,mythic,ecl,88,main-set printing,ecl pecl,yes
-Blight Rot,{2}{B},Instant,B,common,ecl,89,main-set printing,ecl,
+Blight Rot,{2}{B},Instant,B,common,ecl,89,main-set printing,ecl,yes
 Blighted Blackthorn,{4}{B},Creature — Treefolk Warlock,B,common,ecl,90,main-set printing,ecl,
 Blood Crypt,,Land — Swamp Mountain,BR,rare,ecl,262,main-set printing,ecl pecl trk,yes
 Bloodline Bidding,{6}{B}{B},Sorcery,B,rare,ecl,91,main-set printing,ecl pecl,
@@ -69,12 +69,12 @@ Champions of the Shoal,{3}{U},Creature — Merfolk Soldier,U,rare,ecl,46,main-se
 Changeling Wayfinder,{3},Creature — Shapeshifter,C,common,ecl,1,main-set printing,ecl,
 Chaos Spewer,{2}{B/R},Creature — Goblin Warlock,BR,common,ecl,210,main-set printing,ecl,
 Chitinous Graspling,{3}{G/U},Creature — Shapeshifter,GU,common,ecl,211,main-set printing,ecl,
-Chomping Changeling,{2}{G},Creature — Shapeshifter,G,uncommon,ecl,172,main-set printing,ecl,yes
+Chomping Changeling,{2}{G},Creature — Shapeshifter,G,uncommon,ecl,172,main-set printing,ecl,
 Chronicle of Victory,{6},Legendary Artifact,C,mythic,ecl,253,main-set printing,ecl pecl,
 Cinder Strike,{R},Sorcery,R,common,ecl,131,main-set printing,ecl,yes
 Clachan Festival,{2}{W},Kindred Enchantment — Kithkin,W,uncommon,ecl,10,main-set printing,ecl,
 Collective Inferno,{3}{R}{R},Enchantment,R,rare,ecl,132,main-set printing,ecl pecl,
-Creakwood Safewright,{1}{B},Creature — Elf Warrior,B,uncommon,ecl,96,main-set printing,ecl,yes
+Creakwood Safewright,{1}{B},Creature — Elf Warrior,B,uncommon,ecl,96,main-set printing,ecl,
 Crib Swap,{2}{W},Kindred Instant — Shapeshifter,W,uncommon,ecl,11,main-set printing,ecl,yes
 Crossroads Watcher,{2}{G},Creature — Kithkin Ranger,G,common,ecl,173,main-set printing,ecl,
 Curious Colossus,{5}{W}{W},Creature — Giant Warrior,W,mythic,ecl,12,main-set printing,ecl pecl,yes
@@ -106,18 +106,18 @@ End-Blaze Epiphany,{X}{R},Instant,R,rare,ecl,134,main-set printing,ecl pecl,yes
 Enraged Flamecaster,{2}{R},Creature — Elemental Sorcerer,R,common,ecl,135,main-set printing,ecl,
 Evershrike's Gift,{W},Enchantment — Aura,W,uncommon,ecl,15,main-set printing,ecl,
 Evolving Wilds,,Land,C,common,ecl,264,main-set printing,ecl msc tmc trc,
-Explosive Prodigy,{1}{R},Creature — Elemental Sorcerer,R,uncommon,ecl,136,main-set printing,ecl,
+Explosive Prodigy,{1}{R},Creature — Elemental Sorcerer,R,uncommon,ecl,136,main-set printing,ecl,yes
 Feed the Flames,{3}{R},Instant,R,common,ecl,137,main-set printing,ecl,
 Feisty Spikeling,{1}{R/W},Creature — Shapeshifter,RW,common,ecl,223,main-set printing,ecl,
 Figure of Fable,{G/W},Creature — Kithkin,GW,rare,ecl,224,main-set printing,ecl pecl,yes
-Firdoch Core,{3},Kindred Artifact — Shapeshifter,C,common,ecl,255,main-set printing,ecl,yes
+Firdoch Core,{3},Kindred Artifact — Shapeshifter,C,common,ecl,255,main-set printing,ecl,
 Flame-Chain Mauler,{1}{R},Creature — Elemental Warrior,R,common,ecl,138,main-set printing,ecl,
 Flamebraider,{1}{R},Creature — Elemental Bard,R,uncommon,ecl,139,main-set printing,ecl,
 Flamekin Gildweaver,{3}{R},Creature — Elemental Sorcerer,R,common,ecl,140,main-set printing,ecl,
 Flaring Cinder,{1}{U/R}{U/R},Creature — Elemental Sorcerer,RU,common,ecl,225,main-set printing,ecl,
 Flitterwing Nuisance,{U},Creature — Faerie Rogue,U,rare,ecl,48,main-set printing,ecl pecl,
 Flock Impostor,{2}{W},Creature — Shapeshifter,W,uncommon,ecl,16,main-set printing,ecl,
-Foraging Wickermaw,{2},Artifact Creature — Scarecrow,C,common,ecl,256,main-set printing,ecl,yes
+Foraging Wickermaw,{2},Artifact Creature — Scarecrow,C,common,ecl,256,main-set printing,ecl,
 Formidable Speaker,{2}{G},Creature — Elf Druid,G,rare,ecl,176,main-set printing,ecl pecl,yes
 Gallant Fowlknight,{3}{W},Creature — Kithkin Knight,W,common,ecl,17,main-set printing,ecl,
 Gangly Stompling,{2}{R/G},Creature — Shapeshifter,GR,common,ecl,226,main-set printing,ecl,
@@ -127,7 +127,7 @@ Gilt-Leaf's Embrace,{2}{G},Enchantment — Aura,G,common,ecl,177,main-set printi
 Glamer Gifter,{1}{U},Creature — Faerie Wizard,U,uncommon,ecl,49,main-set printing,ecl,
 Glamermite,{2}{U},Creature — Faerie Rogue,U,common,ecl,50,main-set printing,ecl,
 Glen Elendra Guardian,{2}{U},Creature — Faerie Wizard,U,rare,ecl,51,main-set printing,ecl pecl,yes
-Glen Elendra's Answer,{2}{U}{U},Instant,U,mythic,ecl,52,main-set printing,ecl pecl,
+Glen Elendra's Answer,{2}{U}{U},Instant,U,mythic,ecl,52,main-set printing,ecl pecl,yes
 Glister Bairn,{2}{G/U}{G/U}{G/U},Creature — Ouphe,GU,uncommon,ecl,227,main-set printing,ecl,
 Gloom Ripper,{3}{B}{B},Creature — Elf Assassin,B,rare,ecl,102,main-set printing,ecl pecl,
 Gnarlbark Elm,{2}{B},Creature — Treefolk Warlock,B,uncommon,ecl,103,main-set printing,ecl,
@@ -143,7 +143,7 @@ Grub's Command,{3}{B}{R},Kindred Sorcery — Goblin,BR,rare,ecl,228,main-set pri
 Gutsplitter Gang,{3}{B},Creature — Goblin Berserker,B,uncommon,ecl,106,main-set printing,ecl,
 Hallowed Fountain,,Land — Plains Island,UW,rare,ecl,265,main-set printing,ecl pecl trk,yes
 Harmonized Crescendo,{4}{U}{U},Instant,U,rare,ecl,54,main-set printing,ecl pecl,
-Heirloom Auntie,{2}{B},Creature — Goblin Warlock,B,common,ecl,107,main-set printing,ecl,
+Heirloom Auntie,{2}{B},Creature — Goblin Warlock,B,common,ecl,107,main-set printing,ecl,yes
 Hexing Squelcher,{1}{R},Creature — Goblin Sorcerer,R,rare,ecl,145,main-set printing,ecl pecl,
 High Perfect Morcant,{2}{B}{G},Legendary Creature — Elf Noble,BG,rare,ecl,229,main-set printing,ecl pecl,yes
 Hovel Hurler,{3}{R/W}{R/W},Creature — Giant Warrior,RW,uncommon,ecl,230,main-set printing,ecl,
@@ -172,7 +172,7 @@ Lys Alana Informant,{1}{G},Creature — Elf Scout,G,common,ecl,181,main-set prin
 Meanders Guide,{2}{W},Creature — Merfolk Scout,W,uncommon,ecl,25,main-set printing,ecl,
 Meek Attack,{2}{R},Enchantment,R,mythic,ecl,151,main-set printing,ecl pecl,
 Merrow Skyswimmer,{3}{W/U}{W/U},Creature — Merfolk Soldier,UW,common,ecl,234,main-set printing,ecl,
-Midnight Tilling,{1}{G},Instant,G,common,ecl,182,main-set printing,ecl,yes
+Midnight Tilling,{1}{G},Instant,G,common,ecl,182,main-set printing,ecl,
 Mirrorform,{4}{U}{U},Instant,U,mythic,ecl,59,main-set printing,ecl pecl,
 Mirrormind Crown,{4},Artifact — Equipment,C,rare,ecl,258,main-set printing,ecl pecl,
 Mischievous Sneakling,{1}{U/B},Creature — Shapeshifter,BU,common,ecl,235,main-set printing,ecl,
@@ -187,7 +187,7 @@ Morningtide's Light,{3}{W},Sorcery,W,mythic,ecl,27,main-set printing,ecl pecl,
 Mornsong Aria,{1}{B}{B},Legendary Enchantment,B,rare,ecl,111,main-set printing,ecl pecl,
 Mudbutton Cursetosser,{B},Creature — Goblin Warlock,B,uncommon,ecl,112,main-set printing,ecl,
 Mutable Explorer,{2}{G},Creature — Shapeshifter,G,rare,ecl,186,main-set printing,ecl pecl,yes
-Nameless Inversion,{1}{B},Kindred Instant — Shapeshifter,B,uncommon,ecl,113,main-set printing,ecl,yes
+Nameless Inversion,{1}{B},Kindred Instant — Shapeshifter,B,uncommon,ecl,113,main-set printing,ecl,
 Nightmare Sower,{3}{B},Creature — Faerie Assassin,B,uncommon,ecl,114,main-set printing,ecl,
 Noggle Robber,{1}{R/G}{R/G},Creature — Noggle Rogue,GR,uncommon,ecl,237,main-set printing,ecl,yes
 Noggle the Mind,{1}{U},Enchantment — Aura,U,uncommon,ecl,60,main-set printing,ecl,yes
@@ -209,8 +209,8 @@ Raiding Schemes,{3}{R}{G},Enchantment,GR,rare,ecl,239,main-set printing,ecl pecl
 Reaping Willow,{1}{W/B}{W/B}{W/B},Creature — Treefolk Cleric,BW,uncommon,ecl,240,main-set printing,ecl,
 Reckless Ransacking,{1}{R},Instant,R,common,ecl,152,main-set printing,ecl,
 Reluctant Dounguard,{2}{W},Creature — Kithkin Soldier,W,common,ecl,31,main-set printing,ecl,
-Requiting Hex,{B},Instant,B,uncommon,ecl,116,main-set printing,ecl,
-Retched Wretch,{2}{B},Creature — Goblin,B,uncommon,ecl,117,main-set printing,ecl,yes
+Requiting Hex,{B},Instant,B,uncommon,ecl,116,main-set printing,ecl,yes
+Retched Wretch,{2}{B},Creature — Goblin,B,uncommon,ecl,117,main-set printing,ecl,
 "Rhys, the Evermore",{1}{W},Legendary Creature — Elf Warrior,W,rare,ecl,32,main-set printing,ecl pecl,yes
 Rime Chill,{6}{U},Instant,U,uncommon,ecl,64,main-set printing,ecl,
 Rimefire Torque,{1}{U},Artifact,U,rare,ecl,65,main-set printing,ecl pecl,
@@ -235,10 +235,10 @@ Silvergill Mentor,{1}{U},Creature — Merfolk Wizard,U,uncommon,ecl,69,main-set 
 Silvergill Peddler,{2}{U},Creature — Merfolk Citizen,U,common,ecl,70,main-set printing,ecl,
 Sizzling Changeling,{2}{R},Creature — Shapeshifter,R,uncommon,ecl,155,main-set printing,ecl,
 Slumbering Walker,{3}{W}{W},Creature — Giant Warrior,W,rare,ecl,35,main-set printing,ecl pecl,
-Soul Immolation,{3}{R}{R},Sorcery,R,mythic,ecl,156,main-set printing,ecl pecl,
+Soul Immolation,{3}{R}{R},Sorcery,R,mythic,ecl,156,main-set printing,ecl pecl,yes
 Soulbright Seeker,{R},Creature — Elemental Sorcerer,R,uncommon,ecl,157,main-set printing,ecl,
 Sourbread Auntie,{2}{R}{R},Creature — Goblin Warrior,R,uncommon,ecl,158,main-set printing,ecl,
-Spell Snare,{U},Instant,U,uncommon,ecl,71,main-set printing,ecl,yes
+Spell Snare,{U},Instant,U,uncommon,ecl,71,main-set printing,ecl,
 Spinerock Tyrant,{3}{R}{R},Creature — Dragon,R,mythic,ecl,159,main-set printing,ecl pecl,yes
 Spiral into Solitude,{1}{W},Enchantment — Aura,W,common,ecl,36,main-set printing,ecl,
 Springleaf Drum,{1},Artifact,C,uncommon,ecl,260,main-set printing,ecl,
@@ -299,7 +299,7 @@ Ajani Unrelenting,{4}{R}{R},Legendary Planeswalker — Ajani,R,mythic,fra,242,ma
 Ajani's Anguish,{X}{R},Enchantment,R,rare,fra,72,main-set printing,fra pfra,
 Apex Witchstalker,{4}{B}{B},Creature — Wolf,B,common,fra,48,main-set printing,fra,
 Arcane Amphisbaena,{1}{G},Creature — Snake,G,common,fra,97,main-set printing,fra,
-Archive Arbiter,{6},Artifact Creature — Sphinx,C,uncommon,fra,167,main-set printing,fra,yes
+Archive Arbiter,{6},Artifact Creature — Sphinx,C,uncommon,fra,167,main-set printing,fra,
 "Arni, Humble Scribe",{2}{U},Legendary Creature — Human Wizard,U,uncommon,fra,211,main-set printing,fra,
 "Arni, Renowned Champion",{3}{R},Legendary Creature — Human Berserker,R,uncommon,fra,243,main-set printing,fra,
 Artifist Acumen,{R},Sorcery,R,common,fra,73,main-set printing,fra,
@@ -314,7 +314,7 @@ Blossom-Blessed Angel // Seed Suture,{3}{W} // {G/W},Creature — Angel Cleric /
 Break Under Pressure,{2}{B},Instant,B,uncommon,fra,50,main-set printing,fra,
 Budding Insurgent,{2}{G},Creature — Dryad Scout,G,common,fra,99,main-set printing,fra,
 Campus Crier,{1}{W},Creature — Human Advisor,W,common,fra,4,main-set printing,fra,
-Carnivorous Cultivator // Enroot,{1}{G} // {G},Creature — Elf Warlock // Sorcery,G,rare,fra,100,main-set printing,fra pfra,
+Carnivorous Cultivator // Enroot,{1}{G} // {G},Creature — Elf Warlock // Sorcery,G,rare,fra,100,main-set printing,fra pfra,yes
 Cast Away Doubt,{2}{B},Sorcery,B,common,fra,51,main-set printing,fra,
 Chandra's Emberling,{2}{R},Creature — Gremlin Elemental,R,common,fra,76,main-set printing,fra,
 "Chandra, Chill of Compliance",{1}{U}{U},Legendary Planeswalker — Chandra,U,mythic,fra,212,main-set printing,fra pfra,yes
@@ -335,7 +335,7 @@ Curse-Marred Demon,{2}{R}{R},Creature — Demon,R,rare,fra,79,main-set printing,
 Dark Matter Manipulator,{B},Creature — Human Warlock,B,rare,fra,52,main-set printing,fra pfra,
 Darklight Phoenix,{3}{B},Creature — Phoenix,B,mythic,fra,53,main-set printing,fra pfra,
 Dedicated Commons,,Land,RW,common,fra,175,main-set printing,fra,
-Denzilore Fatehold,{1}{W}{U}{U},Legendary Creature — Elder Sphinx,UW,mythic,fra,128,main-set printing,fra pfra,
+Denzilore Fatehold,{1}{W}{U}{U},Legendary Creature — Elder Sphinx,UW,mythic,fra,128,main-set printing,fra pfra,yes
 Deserted Beach,,Land,UW,rare,fra,176,main-set printing,fra pfra,yes
 Desperate Futurescribe,{2}{W}{U},Creature — Kor Scout,UW,uncommon,fra,129,main-set printing,fra,
 Diviner of Victory // Unwind History,{U} // {1}{U},Creature — Dwarf Wizard // Sorcery,U,rare,fra,28,main-set printing,fra pfra,yes
@@ -360,7 +360,7 @@ Fateshaper Aspirant,{4}{W},Creature — Rhino Cleric,W,common,fra,6,main-set pri
 "Fblthp, Impossibly Lost",{1}{U},Legendary Creature — Homunculus,U,uncommon,fra,213,main-set printing,fra,
 "Fblthp, Knows the Way",{X}{G}{G},Legendary Creature — Homunculus Scout,G,uncommon,fra,258,main-set printing,fra,
 Ferocity of the Hunt,{1}{B/G},Enchantment — Aura,BG,common,fra,134,main-set printing,fra,
-Flickering Hound,{3}{W},Creature — Dog,W,rare,fra,7,main-set printing,fra pfra,yes
+Flickering Hound,{3}{W},Creature — Dog,W,rare,fra,7,main-set printing,fra pfra,
 Flourishing Grapple,{G},Instant,G,uncommon,fra,102,main-set printing,fra,
 Formidable Commons,,Land,BG,common,fra,178,main-set printing,fra,
 Frostbite Pyromental,{U}{R}{R},Creature — Elemental,RU,rare,fra,135,main-set printing,fra pfra,
@@ -383,15 +383,15 @@ Grim Repriser,{B}{R},Creature — Zombie Bard,BR,uncommon,fra,136,main-set print
 Guiding Hydra,{X}{W},Creature — Hydra Horror,W,rare,fra,11,main-set printing,fra pfra,
 Hall of Echoes,,Land,C,rare,fra,179,main-set printing,fra pfra,
 Hallway Heckler // Vicious Verse,{2}{R} // {B/R},Creature — Elemental Sorcerer // Sorcery,BR,common,fra,85,main-set printing,fra,
-"Hapatra, the Desert Fang",{2}{B}{B}{G},Legendary Creature — Human Cleric,BG,uncommon,fra,271,main-set printing,fra,
+"Hapatra, the Desert Fang",{2}{B}{B}{G},Legendary Creature — Human Cleric,BG,uncommon,fra,271,main-set printing,fra,yes
 "Hapatra, the Desert Frost",{3}{U},Legendary Creature — Human Wizard,U,uncommon,fra,215,main-set printing,fra,
 Haunted Ridge,,Land,BR,rare,fra,180,main-set printing,fra pfra,yes
 Heartstring Puller,{3}{R},Creature — Elf Sorcerer,R,common,fra,86,main-set printing,fra,
 Heartwood Crafter // Soul Tether,{G} // {2}{R/G},Creature — Elf Artificer // Sorcery,GR,uncommon,fra,105,main-set printing,fra,
 Hexhaven Battalion,{4}{W}{W},Sorcery,W,common,fra,12,main-set printing,fra,
-Hexhaven Dueling Arena,,Land,C,uncommon,fra,181,main-set printing,fra,yes
-Hexhaven Invigorator,{G}{G}{G}{G},Creature — Chimera Horror,G,mythic,fra,106,main-set printing,fra pfra,yes
-Hungering Puppetbeast,{3}{G}{G},Artifact Creature — Beast Construct,G,rare,fra,107,main-set printing,fra pfra,yes
+Hexhaven Dueling Arena,,Land,C,uncommon,fra,181,main-set printing,fra,
+Hexhaven Invigorator,{G}{G}{G}{G},Creature — Chimera Horror,G,mythic,fra,106,main-set printing,fra pfra,
+Hungering Puppetbeast,{3}{G}{G},Artifact Creature — Beast Construct,G,rare,fra,107,main-set printing,fra pfra,
 Hunter's Axe,{G},Artifact — Equipment,G,uncommon,fra,108,main-set printing,fra,
 Icy Reception,{1}{U},Instant,U,common,fra,30,main-set printing,fra,
 Identity Echo,{2}{R},Enchantment,R,rare,fra,87,main-set printing,fra pfra,
@@ -407,10 +407,10 @@ Jace's Machinations,{2}{U},Instant,U,rare,fra,32,main-set printing,fra pfra,
 "Karn, Gilded Guardian",{2/W}{2/U}{2/B}{2/R}{2/G},Legendary Artifact Creature — Golem,BGRUW,rare,fra,272,main-set printing,fra pfra,
 Keeper of the Quiet Hour,{3},Artifact Creature — Chimera,C,common,fra,171,main-set printing,fra,
 Kindred Judgment,{5}{W}{W},Sorcery,W,rare,fra,13,main-set printing,fra pfra,
-Kiora of Fire and Ashes,{4}{R}{R},Legendary Creature — Merfolk Noble,R,uncommon,fra,247,main-set printing,fra,yes
+Kiora of Fire and Ashes,{4}{R}{R},Legendary Creature — Merfolk Noble,R,uncommon,fra,247,main-set printing,fra,
 Kiora of Salt and Sand,{1}{G}{U},Legendary Creature — Merfolk Noble,GU,uncommon,fra,273,main-set printing,fra,
 Konstrari Annex,,Land,GR,common,fra,183,main-set printing,fra,
-Konstrari Charm,{R}{G},Instant,GR,uncommon,fra,138,main-set printing,fra,
+Konstrari Charm,{R}{G},Instant,GR,uncommon,fra,138,main-set printing,fra,yes
 Konstrari Improviser // Soul Tether,{1}{R/G} // {2}{R/G},Creature — Human Artificer // Sorcery,GR,common,fra,139,main-set printing,fra,
 Koth of the Homestead,{2}{W},Legendary Creature — Human Citizen,W,uncommon,fra,199,main-set printing,fra,
 "Koth, the Geomancer",{2}{R},Legendary Creature — Human Warrior,R,uncommon,fra,248,main-set printing,fra,
@@ -423,7 +423,7 @@ Living Library,{2},Artifact Creature — Book Illusion,C,common,fra,172,main-set
 "Loot, the Anomaly",{2}{B},Legendary Creature — Beast Horror,B,uncommon,fra,232,main-set printing,fra,
 "Loot, the Nexus",{2}{G},Legendary Creature — Beast Noble,G,uncommon,fra,262,main-set printing,fra,
 Loyal Tutor,{W},Instant,W,rare,fra,14,main-set printing,fra pfra,
-"Lyra, Archangel of Dawn",{2}{W},Legendary Creature — Angel Knight,W,rare,fra,201,main-set printing,fra pfra,
+"Lyra, Archangel of Dawn",{2}{W},Legendary Creature — Angel Knight,W,rare,fra,201,main-set printing,fra pfra,yes
 "Lyra, Tolarian Archangel",{1}{U}{U},Legendary Creature — Angel Wizard,U,rare,fra,217,main-set printing,fra pfra,yes
 "Mabel, Bitter Recluse",{B},Legendary Creature — Mouse Warlock,B,uncommon,fra,233,main-set printing,fra,
 "Mabel, Valley Hero",{1}{R}{W},Legendary Creature — Mouse Soldier,RW,uncommon,fra,274,main-set printing,fra,
@@ -434,10 +434,10 @@ Master of Barbs,{1}{R},Creature — Lizard Bard,R,rare,fra,88,main-set printing,
 Medic's Kitesail,{2},Artifact — Equipment,C,common,fra,173,main-set printing,fra,
 Memory Trap,{2}{W},Enchantment,W,common,fra,15,main-set printing,fra,
 Meticulous Commons,,Land,BW,common,fra,184,main-set printing,fra,
-Mind Meanderer,{3}{G}{U}{U},Creature — Bird Fish Illusion,GU,uncommon,fra,141,main-set printing,fra,
+Mind Meanderer,{3}{G}{U}{U},Creature — Bird Fish Illusion,GU,uncommon,fra,141,main-set printing,fra,yes
 Mindseeker Oculus,{2}{U},Creature — Homunculus,U,common,fra,33,main-set printing,fra,
 Multiply by Zero,{1}{B},Instant,B,uncommon,fra,58,main-set printing,fra,
-Murmuring Volume,{3},Artifact — Book,C,common,fra,174,main-set printing,fra,yes
+Murmuring Volume,{3},Artifact — Book,C,common,fra,174,main-set printing,fra,
 No Admittance,{1}{R},Sorcery,R,common,fra,89,main-set printing,fra,yes
 Null Summoner,{2}{U}{B},Creature — Human Warlock,BU,rare,fra,142,main-set printing,fra pfra,yes
 Omnipresence,{5}{G}{G}{G},Enchantment,G,mythic,fra,110,main-set printing,fra pfra,
@@ -448,7 +448,7 @@ Perfected Theory,{U},Instant,U,uncommon,fra,34,main-set printing,fra,
 "Pia, Aether Ascetic",{2}{G},Legendary Creature — Human Druid,G,uncommon,fra,264,main-set printing,fra,
 "Pia, Determined Rebuilder",{2}{R},Legendary Creature — Human Artificer,R,uncommon,fra,250,main-set printing,fra,
 Plan for All Outcomes,{3}{U},Enchantment,U,uncommon,fra,35,main-set printing,fra,
-Pompous Battlemage // Improvised Act,{R} // {R},Creature — Goblin Sorcerer // Sorcery,R,rare,fra,90,main-set printing,fra pfra,yes
+Pompous Battlemage // Improvised Act,{R} // {R},Creature — Goblin Sorcerer // Sorcery,R,rare,fra,90,main-set printing,fra pfra,
 Precise Redaction,{1}{U},Instant,U,uncommon,fra,36,main-set printing,fra,
 Predictive Preparations,{1}{W},Sorcery,W,common,fra,16,main-set printing,fra,
 Primal Witchstalker,{1}{B}{G},Creature — Wolf,BG,uncommon,fra,144,main-set printing,fra,
@@ -459,7 +459,7 @@ Prophesied End,{1}{W},Instant,W,uncommon,fra,17,main-set printing,fra,yes
 Protege's Awakening,{3}{U},Sorcery,U,common,fra,37,main-set printing,fra,
 Prudent Fateseer // Peer Review,{1}{W/U}{W/U} // {2}{W/U},Creature — Dwarf Wizard // Sorcery,UW,uncommon,fra,146,main-set printing,fra,
 Puppet Crafting,{1}{G},Enchantment — Aura,G,rare,fra,111,main-set printing,fra pfra,
-Pyre Rhymer // Molten Tide,{1}{R}{R} // {R},Creature — Elemental Sorcerer // Instant,R,rare,fra,91,main-set printing,fra pfra,yes
+Pyre Rhymer // Molten Tide,{1}{R}{R} // {R},Creature — Elemental Sorcerer // Instant,R,rare,fra,91,main-set printing,fra pfra,
 Rampart Hunter,{3}{B},Creature — Horror,B,common,fra,60,main-set printing,fra,
 Rank Rat,{1}{B},Creature — Zombie Rat,B,common,fra,61,main-set printing,fra,
 Recursive Recruitment,{2}{U}{B},Sorcery,BU,uncommon,fra,147,main-set printing,fra,
@@ -517,7 +517,7 @@ Tethermage's Advantage,{G},Instant,G,common,fra,117,main-set printing,fra,
 The Echoverse Fulcrum,{2},Legendary Artifact,C,mythic,fra,169,main-set printing,fra pfra,yes
 "The Theorist, Jace Beleren",{2}{U}{U},Legendary Planeswalker — Jace,U,mythic,fra,43,main-set printing,fra pfra,yes
 Theoretical Necromancer,{2}{B},Creature — Vampire Warlock,B,common,fra,69,main-set printing,fra,
-Theorist's Proxy,{1}{U},Creature — Illusion,U,rare,fra,44,main-set printing,fra pfra,
+Theorist's Proxy,{1}{U},Creature — Illusion,U,rare,fra,44,main-set printing,fra pfra,yes
 Theorist's Sanctum,,Land — Island,U,rare,fra,191,main-set printing,fra pfra,
 Theorix Annex,,Land,BU,common,fra,192,main-set printing,fra,
 Theorix Charm,{U}{B},Instant,BU,uncommon,fra,155,main-set printing,fra,yes
@@ -536,7 +536,7 @@ Undulating Witness,{4}{U},Creature — Serpent,U,common,fra,45,main-set printing
 Unflinching Hortimancer,{1}{W},Creature — Human Cleric,W,common,fra,23,main-set printing,fra,
 Unsummon,{U},Instant,U,common,fra,46,main-set printing,fra,
 Variable Chaser // Arc of Fortune,{2}{U} // {2}{U},Creature — Human Wizard // Sorcery,U,rare,fra,47,main-set printing,fra pfra,yes
-Verdant Kraken,{4}{G}{G}{G},Creature — Plant Kraken,G,rare,fra,118,main-set printing,fra pfra,
+Verdant Kraken,{4}{G}{G}{G},Creature — Plant Kraken,G,rare,fra,118,main-set printing,fra pfra,yes
 Vigorbloom Annex,,Land,GW,common,fra,194,main-set printing,fra,
 Vigorbloom Charm,{G}{W},Instant,GW,uncommon,fra,160,main-set printing,fra,
 Vigorbloom Vanguard // Seed Suture,{1}{G/W} // {G/W},Creature — Troll Druid // Sorcery,GW,uncommon,fra,161,main-set printing,fra,
@@ -546,7 +546,7 @@ Violent Echoes,{2}{R}{R},Instant,R,uncommon,fra,95,main-set printing,fra,
 Void Extrapolator // Omit Variables,{1}{B} // {U/B},Creature — Aetherborn Warlock // Sorcery,BU,common,fra,70,main-set printing,fra,
 Vraska's Final Mercy,{B}{B},Sorcery,B,rare,fra,71,main-set printing,fra pfra,yes
 "Vraska, Soul of Stone",{U}{R}{W},Legendary Creature — Gorgon Wizard,RUW,rare,fra,277,main-set printing,fra pfra,
-"Vraska, the Cutting Glare",{B}{B}{G},Legendary Creature — Gorgon Assassin,BG,rare,fra,278,main-set printing,fra pfra,
+"Vraska, the Cutting Glare",{B}{B}{G},Legendary Creature — Gorgon Assassin,BG,rare,fra,278,main-set printing,fra pfra,yes
 Warrior's Blades,{2}{R}{W},Artifact — Equipment,RW,uncommon,fra,163,main-set printing,fra,yes
 Way of the Cryomancer,{2}{U},Legendary Enchantment,U,uncommon,fra,223,main-set printing,fra,
 Way of the Deathbringer,{2}{B},Legendary Enchantment,B,uncommon,fra,238,main-set printing,fra,
@@ -595,12 +595,12 @@ Attercop,{1}{G},Creature — Spider,G,common,hob,116,main-set printing,hob,
 "Azog, Moria's Ruin",{2}{B},Legendary Creature — Goblin Soldier,B,rare,hob,61,main-set printing,hob,yes
 "Balin, Loremaster",{3}{R}{R},Legendary Creature — Dwarf Bard,R,rare,hob,87,main-set printing,hob,
 Bard the Bowman,{1}{W}{U},Legendary Creature — Human Archer,UW,uncommon,hob,145,main-set printing,hob,
-Bard's Company,{2}{W}{U},Creature — Human Citizen,UW,rare,hob,146,main-set printing,hob,
+Bard's Company,{2}{W}{U},Creature — Human Citizen,UW,rare,hob,146,main-set printing,hob,yes
 "Bard, King of Dale",{4}{W}{U},Legendary Creature — Human Noble Archer,UW,mythic,hob,144,main-set printing,hob,
-Bejeweled Warg,{1}{G},Creature — Wolf,G,rare,hob,117,main-set printing,hob,
+Bejeweled Warg,{1}{G},Creature — Wolf,G,rare,hob,117,main-set printing,hob,yes
 Belladonna Took,{1}{W},Legendary Creature — Halfling Citizen,W,rare,hob,4,main-set printing,hob,
 Beorn the Fierce,{3}{G}{G},Legendary Creature — Bear Shapeshifter Warrior,G,mythic,hob,119,main-set printing,hob,yes
-Beorn's Hospitality,{1}{G},Enchantment,G,uncommon,hob,120,main-set printing,hob,yes
+Beorn's Hospitality,{1}{G},Enchantment,G,uncommon,hob,120,main-set printing,hob,
 "Beorn, Reluctant Host // Till and Tend",{4}{G} // {1}{G},Legendary Creature — Human Bear Shapeshifter // Sorcery — Adventure,G,common,hob,118,main-set printing,hob,
 "Bifur, Melodic Rider",{4}{R/W}{R/W},Legendary Creature — Dwarf Bard,RW,uncommon,hob,147,main-set printing,hob,
 "Bilbo Baggins, Burglar // Take a Glance",{2}{U} // {U},Legendary Creature — Halfling Rogue // Sorcery — Adventure,U,common,hob,34,main-set printing,hob,
@@ -629,7 +629,7 @@ Down in the Valley,{2}{G},Enchantment — Saga,G,rare,hob,124,main-set printing,
 "Down, Down to Goblin-town",{2}{B},Enchantment — Saga,B,uncommon,hob,65,main-set printing,hob,
 Dreaded Bat-Cloud,{4}{B},Creature — Bat,B,uncommon,hob,66,main-set printing,hob,
 Duskwatch Hunter,{2}{B/G},Creature — Wolf,BG,common,hob,153,main-set printing,hob,
-"Dwalin, Weaponmaster",{1}{R/W},Legendary Creature — Dwarf Warrior,RW,rare,hob,154,main-set printing,hob,yes
+"Dwalin, Weaponmaster",{1}{R/W},Legendary Creature — Dwarf Warrior,RW,rare,hob,154,main-set printing,hob,
 Dwarven Mattock,{2},Artifact — Equipment,C,uncommon,hob,172,main-set printing,hob,
 Dwarven Mauler,{R},Creature — Dwarf Warrior,R,uncommon,hob,95,main-set printing,hob,
 Dwarven Provisioner,{1}{W},Creature — Dwarf Citizen,W,common,hob,9,main-set printing,hob,
@@ -656,7 +656,7 @@ Fíli the Pathfinder,{3}{W},Legendary Creature — Dwarf Scout,W,rare,hob,14,mai
 "Gandalf, Wandering Wizard",{4}{U},Legendary Creature — Avatar Wizard,U,common,hob,41,main-set printing,hob,
 Gathering of Darkness,{3}{B},Sorcery,B,uncommon,hob,68,main-set printing,hob,
 Getaway Barrel,{3}{R},Artifact,R,rare,hob,98,main-set printing,hob,
-Giant's Boulder,{1},Artifact,C,common,hob,173,main-set printing,hob,yes
+Giant's Boulder,{1},Artifact,C,common,hob,173,main-set printing,hob,
 Gigantic Big Bear,{5}{G}{G},Creature — Bear,G,rare,hob,126,main-set printing,hob,yes
 "Glamdring, Foe-hammer // Gleam of Death",{2} // {3}{U},Legendary Artifact — Equipment // Sorcery — Adventure,U,rare,hob,174,main-set printing,hob,
 Gleaming Splendor,{1}{W},Enchantment,W,mythic,hob,15,main-set printing,hob,
@@ -666,7 +666,7 @@ Goblin Plate Mail,{1}{B/R},Artifact — Equipment,BR,common,hob,157,main-set pri
 Goblin-town,,Land,BR,common,hob,183,main-set printing,hob,
 Goblin-town Flunkies,{1}{R},Creature — Goblin Soldier,R,common,hob,100,main-set printing,hob,
 Gollum the Abandoned,{1}{B},Legendary Creature — Halfling Horror,B,uncommon,hob,72,main-set printing,hob,
-"Gollum, Riddle Master",{1}{B},Legendary Creature — Halfling Horror,B,mythic,hob,70,main-set printing,hob,
+"Gollum, Riddle Master",{1}{B},Legendary Creature — Halfling Horror,B,mythic,hob,70,main-set printing,hob,yes
 "Gollum, Silent Slinker // Meager Meal",{3}{B} // {B},Legendary Creature — Halfling Horror // Sorcery — Adventure,B,common,hob,71,main-set printing,hob,
 Great Fierce Bee,{2}{B},Creature — Insect,B,common,hob,73,main-set printing,hob,
 Great Gilded Boat,{2}{U},Artifact — Vehicle,U,rare,hob,42,main-set printing,hob,
@@ -699,7 +699,7 @@ Mirkwood Nurturer,{2}{G/U},Creature — Elf Ranger,GU,common,hob,160,main-set pr
 Mirkwood Pathmaker,{2}{G},Creature — Elf Ranger,G,uncommon,hob,129,main-set printing,hob,
 Misty Mountains Raider,{4}{R},Creature — Goblin Soldier,R,uncommon,hob,105,main-set printing,hob,
 Moment of Glory,{W},Sorcery,W,common,hob,21,main-set printing,hob,
-Most Decrepit Old Bird // Speak Secrets,{U} // {1}{U},Creature — Bird // Sorcery — Adventure,U,rare,hob,49,main-set printing,hob,yes
+Most Decrepit Old Bird // Speak Secrets,{U} // {1}{U},Creature — Bird // Sorcery — Adventure,U,rare,hob,49,main-set printing,hob,
 My Precious // Allure of Power,{3} // {1}{B},Legendary Artifact — Equipment // Instant — Adventure,B,rare,hob,176,main-set printing,hob,
 Nasty Little Rabbit,{G},Creature — Rabbit,G,uncommon,hob,130,main-set printing,hob,
 Nighthowl Pursuer,{B},Creature — Wolf,B,uncommon,hob,78,main-set printing,hob,
@@ -714,7 +714,7 @@ Part in Friendship,{4}{G},Enchantment,G,rare,hob,134,main-set printing,hob,
 Patient Instructor,{2}{W/U},Creature — Human Citizen,UW,common,hob,162,main-set printing,hob,
 Pinecone Strike,{1}{R},Instant,R,common,hob,107,main-set printing,hob,
 Plunder the Trollshaws,{1}{U},Instant,U,common,hob,51,main-set printing,hob,yes
-Quarrel,{1}{G},Instant,G,common,hob,135,main-set printing,hob,
+Quarrel,{1}{G},Instant,G,common,hob,135,main-set printing,hob,yes
 Radagast of Rhosgobel,{2}{G}{G},Legendary Creature — Avatar Wizard,G,rare,hob,136,main-set printing,hob,yes
 Rage into the Valley,{2}{B},Sorcery,B,common,hob,79,main-set printing,hob,
 Ragged Short Spear,{1}{R},Artifact — Equipment,R,common,hob,108,main-set printing,hob,
@@ -726,12 +726,12 @@ Riddles in the Dark,{2}{U},Instant,U,rare,hob,53,main-set printing,hob,yes
 "Roads Go Ever, Ever On",{1}{W},Enchantment — Saga,W,rare,hob,25,main-set printing,hob,
 Roll-Roll-Roll-Roll,{2}{U},Enchantment — Saga,U,rare,hob,54,main-set printing,hob,
 Settle the Wreckage,{2}{W}{W},Instant,W,rare,hob,26,main-set printing,hob,
-Silvan Reveler,{2}{G}{U},Creature — Elf Citizen,GU,uncommon,hob,163,main-set printing,hob,yes
+Silvan Reveler,{2}{G}{U},Creature — Elf Citizen,GU,uncommon,hob,163,main-set printing,hob,
 Smaug the Magnificent,{2}{R}{R},Legendary Creature — Dragon,R,mythic,hob,110,main-set printing,hob,yes
 Smaug's Fury,{1}{R},Instant,R,common,hob,111,main-set printing,hob,
 "Smaug, Wicked Worm",{3}{B}{R},Legendary Creature — Dragon,BR,rare,hob,164,main-set printing,hob,yes
 "Smaug, the Great Calamity // Spew Flame",{5}{R}{R} // {4}{R},Legendary Creature — Dragon // Sorcery — Adventure,R,common,hob,109,main-set printing,hob,
-Snowslope Hunter,{2}{R},Creature — Goblin Ranger,R,uncommon,hob,112,main-set printing,hob,yes
+Snowslope Hunter,{2}{R},Creature — Goblin Ranger,R,uncommon,hob,112,main-set printing,hob,
 Sound the Trumpets,{1}{U}{U},Instant,U,uncommon,hob,55,main-set printing,hob,
 "Sting, Bilbo's Sword",{2},Legendary Artifact — Equipment,C,rare,hob,178,main-set printing,hob,yes
 Stir Up Trouble,{B},Sorcery,B,common,hob,84,main-set printing,hob,
@@ -774,7 +774,7 @@ Wargling,{1}{G},Creature — Wolf,G,common,hob,140,main-set printing,hob,
 Well-Worn Spatula,{1},Artifact — Equipment,C,common,hob,180,main-set printing,hob,
 Wilderland Scrounger,{4}{G},Creature — Wolf,G,uncommon,hob,141,main-set printing,hob,
 Wizard's Staff,{1}{U},Artifact — Equipment,U,rare,hob,59,main-set printing,hob,
-Wood Elves,{2}{G},Creature — Elf Scout,G,common,hob,142,main-set printing,hob,yes
+Wood Elves,{2}{G},Creature — Elf Scout,G,common,hob,142,main-set printing,hob,
 Woodland Weavemaster,{1}{G},Creature — Elf Druid,G,uncommon,hob,143,main-set printing,hob,
 Óin the Brave,{1}{R},Legendary Creature — Dwarf Warrior,R,common,hob,106,main-set printing,hob,
 Bag End Banquet,{6},Artifact,C,rare,hoc,5,new card in supplemental product,hoc,
@@ -807,7 +807,7 @@ Advancing the Spirit,{2}{G},Enchantment,G,uncommon,msc,712,new card in supplemen
 Age of Ultron,{4}{B},Enchantment — Saga,B,rare,msc,41,new card in supplemental product,msc,
 "Alex Wilder, Runaway",{1}{R},Legendary Creature — Human Hero Villain,R,uncommon,msc,677,new card in supplemental product,msc,
 "Alicia Masters, Skilled Sculptor",{1}{R},Legendary Creature — Human Artificer,R,rare,msc,48,new card in supplemental product,msc,
-Amazing Spider-Girl,{3}{W}{W},Legendary Creature — Spider Human Hero,W,rare,msc,583,new card in supplemental product,msc,
+Amazing Spider-Girl,{3}{W}{W},Legendary Creature — Spider Human Hero,W,rare,msc,583,new card in supplemental product,msc,yes
 Ancestral Communion,{1}{G},Sorcery,G,rare,msc,64,new card in supplemental product,msc,
 Ant-Man's Air Force,{1}{U},Creature — Insect,U,uncommon,msc,759,new card in supplemental product,msc,
 "Ant-Man, Elusive Avenger",{1}{U}{R},Legendary Creature — Human Rogue Hero,RU,rare,msc,73,new card in supplemental product,msc,
@@ -844,7 +844,7 @@ Blur of Heroism,{2}{W},Enchantment,W,uncommon,msc,585,new card in supplemental p
 "Bucky Barnes, Eager Ally",{1}{W},Legendary Creature — Human Soldier Hero,W,uncommon,msc,586,new card in supplemental product,msc,
 "Bushmaster, Coiled Henchman",{1}{G},Legendary Creature — Snake Human Villain,G,common,msc,716,new card in supplemental product,msc,
 Captain America's Motorcycle,{1}{R},Artifact — Vehicle,R,common,msc,681,new card in supplemental product,msc,
-"Captain America, Liberator",{3}{W}{W},Legendary Creature — Human Soldier Hero,W,rare,msc,587,new card in supplemental product,msc,
+"Captain America, Liberator",{3}{W}{W},Legendary Creature — Human Soldier Hero,W,rare,msc,587,new card in supplemental product,msc,yes
 "Captain America, Skybound",{3}{W}{W},Legendary Creature — Human Soldier Hero,W,rare,msc,588,new card in supplemental product,msc,
 "Captain America, Steve Rogers",{3}{W}{W},Legendary Creature — Human Soldier Hero,W,rare,msc,835,new card in supplemental product,msc,
 "Captain America, Team Leader",{R}{W}{U},Legendary Creature — Human Soldier Hero,RUW,mythic,msc,5,new card in supplemental product,msc,
@@ -871,7 +871,7 @@ Daily Bugle Newspaper,{2},Artifact,C,uncommon,msc,749,new card in supplemental p
 Daredevil's Billy Club,{1}{R},Artifact — Equipment,R,uncommon,msc,686,new card in supplemental product,msc,
 "Daredevil, Fearless Fighter",{2}{R},Legendary Creature — Human Hero,R,rare,msc,685,new card in supplemental product,msc,
 "Darwin, Adaptive Mutant",{1}{G},Legendary Creature — Mutant Hero,G,uncommon,msc,718,new card in supplemental product,msc,
-Daughter of the Deep,{1}{U},Creature — Merfolk Noble,U,uncommon,msc,618,new card in supplemental product,msc,yes
+Daughter of the Deep,{1}{U},Creature — Merfolk Noble,U,uncommon,msc,618,new card in supplemental product,msc,
 Devil Dinosaur,{2}{G}{G},Legendary Creature — Dinosaur,G,rare,msc,719,new card in supplemental product,msc,
 Director Nick Fury,{U}{R}{W},Legendary Creature — Human Spy Hero,RUW,mythic,msc,81,new card in supplemental product,msc,
 Dismissive Denial,{2}{U}{U},Instant,U,common,msc,619,new card in supplemental product,msc,
@@ -915,7 +915,7 @@ Furious Strength,{2}{R},Enchantment — Aura,R,common,msc,544,new card in supple
 Gamma Grotesque,{2}{G},Creature — Gamma Horror Villain,G,rare,msc,562,new card in supplemental product,msc,
 General Thunderbolt Ross,{W},Legendary Creature — Human Soldier,W,uncommon,msc,595,new card in supplemental product,msc,
 "Gert and Old Lace, Runaways",{2}{R/G},Legendary Creature — Human Dinosaur Hero,GR,uncommon,msc,568,new card in supplemental product,msc,yes
-"Giant-Man, Gargantuan Genius",{3}{G}{G},Legendary Creature — Human Scientist Hero,G,rare,msc,722,new card in supplemental product,msc,
+"Giant-Man, Gargantuan Genius",{3}{G}{G},Legendary Creature — Human Scientist Hero,G,rare,msc,722,new card in supplemental product,msc,yes
 Glamorous Grapplers,{3}{B},Creature — Human Performer Villain,B,common,msc,536,new card in supplemental product,msc,
 Glorious Purpose,{1}{U},Enchantment — Plan,U,rare,msc,31,new card in supplemental product,msc,
 "Goliath, Mass Manipulator",{1}{G},Legendary Creature — Human Scientist Hero,G,uncommon,msc,766,new card in supplemental product,msc,
@@ -929,7 +929,7 @@ HYDRA Disintegrator,{4}{B},Artifact — Equipment,B,uncommon,msc,660,new card in
 "Happy Hogan, Dauntless Driver",{R},Legendary Creature — Human Pilot,R,common,msc,545,new card in supplemental product,msc,
 Hatut Zeraze Strike Force,{3}{W},Creature — Human Spy Warrior,W,rare,msc,15,new card in supplemental product,msc,
 Hawkeye's Shot,{4}{W},Sorcery,W,common,msc,839,new card in supplemental product,msc,
-"Hawkeye, Avenging Archer",{2}{U}{R},Legendary Creature — Human Archer Hero,RU,rare,msc,84,new card in supplemental product,msc,
+"Hawkeye, Avenging Archer",{2}{U}{R},Legendary Creature — Human Archer Hero,RU,rare,msc,84,new card in supplemental product,msc,yes
 "Hawkeye, Bowslinger",{2}{W},Legendary Creature — Human Archer Hero,W,rare,msc,596,new card in supplemental product,msc,
 "Hawkeye, Clint Barton",{3}{W},Legendary Creature — Human Archer Hero,W,uncommon,msc,518,new card in supplemental product,msc,
 "Hawkeye, Trick Shot",{3}{R},Legendary Creature — Human Archer Hero,R,rare,msc,506,new card in supplemental product,msc,
@@ -944,8 +944,8 @@ Hit-Monkey,{3}{G},Legendary Creature — Monkey Assassin,G,rare,msc,723,new card
 Hulk's Thunderclap,{1}{G},Sorcery,G,uncommon,msc,725,new card in supplemental product,msc,
 "Hulk, Always Angry",{5}{R}{R},Legendary Creature — Gamma Berserker Hero,R,rare,msc,502,new card in supplemental product,msc,
 "Hulk, Bruce Banner",{3}{R}{R},Legendary Creature — Gamma Berserker Hero,R,uncommon,msc,850,new card in supplemental product,msc,
-"Hulk, Brutal Brawler",{2}{G}{G},Legendary Creature — Gamma Berserker Hero,G,mythic,msc,833,new card in supplemental product,msc,
-"Hulk, Strongest There Is",{2}{G}{G},Legendary Creature — Gamma Berserker Hero,G,rare,msc,724,new card in supplemental product,msc,
+"Hulk, Brutal Brawler",{2}{G}{G},Legendary Creature — Gamma Berserker Hero,G,mythic,msc,833,new card in supplemental product,msc,yes
+"Hulk, Strongest There Is",{2}{G}{G},Legendary Creature — Gamma Berserker Hero,G,rare,msc,724,new card in supplemental product,msc,yes
 Hulkbuster Armor,{4},Legendary Artifact — Equipment,C,rare,msc,107,new card in supplemental product,msc,
 "Hulkling, Young Avenger",{2}{R}{R},Legendary Creature — Kree Skrull Hero,R,rare,msc,689,new card in supplemental product,msc,
 Human Torch,{3}{R},Legendary Creature — Human Hero,GRUW,mythic,msc,3,new card in supplemental product,msc,
@@ -963,7 +963,7 @@ Intrepid Ace,{R},Creature — Human Pilot,R,uncommon,msc,691,new card in supplem
 Invisible Force Field,{1}{W},Instant,W,rare,msc,19,new card in supplemental product,msc,
 Invisible Woman,{2}{W},Legendary Creature — Human Hero,GRUW,mythic,msc,1,new card in supplemental product,msc,
 "Iron Fist, Hero for Hire",{1}{R},Legendary Creature — Human Mercenary Hero,R,rare,msc,692,new card in supplemental product,msc,
-"Iron Lad, Young Avenger",{2}{U/R},Legendary Artifact Creature — Human Hero,RU,uncommon,msc,569,new card in supplemental product,msc,yes
+"Iron Lad, Young Avenger",{2}{U/R},Legendary Artifact Creature — Human Hero,RU,uncommon,msc,569,new card in supplemental product,msc,
 "Iron Man, Armored Avenger",{3}{U},Legendary Artifact Creature — Human Hero,U,rare,msc,33,new card in supplemental product,msc,
 "Iron Man, Bleeding Edge",{3}{U}{U},Legendary Artifact Creature — Human Hero,U,rare,msc,626,new card in supplemental product,msc,
 "Iron Man, Futurist Paragon",{4}{U}{U},Legendary Artifact Creature — Human Hero,U,rare,msc,501,new card in supplemental product,msc,
@@ -972,7 +972,7 @@ Invisible Woman,{2}{W},Legendary Creature — Human Hero,GRUW,mythic,msc,1,new c
 "Iron Monger, Sadistic Tycoon",{2}{B},Legendary Artifact Creature — Human Villain,B,rare,msc,45,new card in supplemental product,msc,
 Iron Suitcase,{1},Artifact,C,uncommon,msc,750,new card in supplemental product,msc,
 It's Clobberin' Time!,{2}{G},Sorcery,G,rare,msc,66,new card in supplemental product,msc,
-"Jack of Hearts, Volatile Hero",{1}{R}{R},Legendary Creature — Alien Human Hero,R,rare,msc,693,new card in supplemental product,msc,
+"Jack of Hearts, Volatile Hero",{1}{R}{R},Legendary Creature — Alien Human Hero,R,rare,msc,693,new card in supplemental product,msc,yes
 "Jarvis, Earth's Mightiest Butler",{2}{U},Legendary Creature — Human Advisor,U,rare,msc,34,new card in supplemental product,msc,
 "Jocasta, Automaton Avenger",{3},Legendary Artifact Creature — Robot Hero,C,rare,msc,108,new card in supplemental product,msc,
 Kang Dynasty,{3}{U},Enchantment — Saga,U,rare,msc,35,new card in supplemental product,msc,
@@ -1063,9 +1063,9 @@ Repulsor Rays,{R},Sorcery,R,common,msc,854,new card in supplemental product,msc,
 "Rescue, Pepper Potts",{1}{U},Legendary Artifact Creature — Human Hero,U,uncommon,msc,755,new card in supplemental product,msc,yes
 Return of the Mole Man,{1}{G},Enchantment,G,mythic,msc,729,new card in supplemental product,msc,
 "Rhino, Terrible Trampler",{4}{G}{G},Legendary Creature — Human Villain,G,rare,msc,730,new card in supplemental product,msc,
-Royal Talon Fighter Jet,{X}{W}{W},Artifact — Vehicle,W,rare,msc,24,new card in supplemental product,msc,
+Royal Talon Fighter Jet,{X}{W}{W},Artifact — Vehicle,W,rare,msc,24,new card in supplemental product,msc,yes
 Sadistic Slash,{3}{B},Instant,B,uncommon,msc,666,new card in supplemental product,msc,
-"Sauron, Dino Devotee",{3}{G}{G},Legendary Creature — Dinosaur Vampire Villain,G,mythic,msc,731,new card in supplemental product,msc,yes
+"Sauron, Dino Devotee",{3}{G}{G},Legendary Creature — Dinosaur Vampire Villain,G,mythic,msc,731,new card in supplemental product,msc,
 "Scarlet Witch, Chaotic Avenger",{2}{U}{R},Legendary Creature — Mutant Warlock Hero,RU,rare,msc,93,new card in supplemental product,msc,
 "Scarlet Witch, Wanda Maximoff",{2}{R},Legendary Creature — Mutant Warlock Hero,R,uncommon,msc,855,new card in supplemental product,msc,
 Secure Detention,{3}{W},Enchantment — Aura,W,uncommon,msc,608,new card in supplemental product,msc,
@@ -1089,7 +1089,7 @@ Soldier On,{2}{W},Instant,W,common,msc,843,new card in supplemental product,msc,
 Spaceshift,{1}{U},Instant,U,common,msc,640,new card in supplemental product,msc,
 "Spider-Man, Hometown Hero",{4}{R},Legendary Creature — Spider Human Hero,R,common,msc,857,new card in supplemental product,msc,
 "Spider-Man, New Champion",{2}{R},Legendary Creature — Spider Human Hero,R,rare,msc,705,new card in supplemental product,msc,
-"Spider-Man, Web-Spinner",{3}{R},Legendary Creature — Spider Human Hero,R,mythic,msc,832,new card in supplemental product,msc,
+"Spider-Man, Web-Spinner",{3}{R},Legendary Creature — Spider Human Hero,R,mythic,msc,832,new card in supplemental product,msc,yes
 Stark's Ingenuity,{2}{U},Enchantment — Aura,U,rare,msc,533,new card in supplemental product,msc,
 "Stature, Young Avenger",{1}{R/G},Legendary Creature — Human Hero,GR,uncommon,msc,571,new card in supplemental product,msc,
 "Stick, Fearless Mentor",{1}{R},Legendary Creature — Human Monk Hero,R,uncommon,msc,706,new card in supplemental product,msc,
@@ -1121,7 +1121,7 @@ The Vision and Scarlet Witch,{2}{R}{R},Legendary Artifact Creature — Mutant He
 "The Wasp, Winsome Avenger",{1}{U},Legendary Creature — Human Hero,U,rare,msc,39,new card in supplemental product,msc,
 "The Whizzer, Classic Speedster",{3}{R},Legendary Creature — Human Hero,R,uncommon,msc,710,new card in supplemental product,msc,
 Thing Swing,{3}{G},Instant,G,common,msc,564,new card in supplemental product,msc,
-"Thor, Asgard's Avenger",{2}{R}{R},Legendary Creature — God Warrior Hero,R,rare,msc,756,new card in supplemental product,msc,
+"Thor, Asgard's Avenger",{2}{R}{R},Legendary Creature — God Warrior Hero,R,rare,msc,756,new card in supplemental product,msc,yes
 "Thor, Guardian of Midgard",{3}{R}{R},Legendary Creature — God Warrior Hero,R,rare,msc,503,new card in supplemental product,msc,
 "Tiger Shark, Abyssal Hunter",{2}{U/B}{U/B},Legendary Creature — Shark Human Villain,BU,uncommon,msc,747,new card in supplemental product,msc,
 Timeline Inquiry,{3}{U},Instant,U,uncommon,msc,641,new card in supplemental product,msc,
@@ -1152,7 +1152,7 @@ Villainous Syndication,{1}{B},Enchantment — Plan,B,uncommon,msc,672,new card i
 Virtual Assistant,{1}{U},Artifact Creature — Illusion Advisor,U,uncommon,msc,643,new card in supplemental product,msc,
 Virtuous Variant,{2}{W},Creature — Spider Human Hero,W,common,msc,758,new card in supplemental product,msc,
 "Vision, Spectral Synthezoid",{6}{U}{U},Legendary Artifact Creature — Robot Hero,U,rare,msc,644,new card in supplemental product,msc,
-"Vision, Synthezoid Avenger",{4},Legendary Artifact Creature — Robot Hero,C,rare,msc,119,new card in supplemental product,msc,yes
+"Vision, Synthezoid Avenger",{4},Legendary Artifact Creature — Robot Hero,C,rare,msc,119,new card in supplemental product,msc,
 Void Helix,{4}{B}{B},Instant,B,uncommon,msc,674,new card in supplemental product,msc,
 Voltaic Whip,{2}{B},Artifact — Equipment,B,common,msc,675,new card in supplemental product,msc,
 Voracious Brood,{2}{G},Creature — Alien Insect,G,uncommon,msc,735,new card in supplemental product,msc,
@@ -1220,10 +1220,10 @@ Birnin Zana Plaza,,Land,GW,common,msh,262,main-set printing,msh,
 Bold Biochemist,{1}{U},Creature — Human Scientist,U,common,msh,48,main-set printing,msh,
 Borough Backup,{4}{W},Sorcery,W,common,msh,7,main-set printing,msh,
 Brave Brawler,{1}{W},Creature — Human Warrior Hero,W,common,msh,8,main-set printing,msh,
-Bruce Banner // The Incredible Hulk,{U} // {2}{R}{R}{G}{G},Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero,GRU,mythic,msh,49,main-set printing,msh,yes
+Bruce Banner // The Incredible Hulk,{U} // {2}{R}{R}{G}{G},Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero,GRU,mythic,msh,49,main-set printing,msh,
 "Bullseye, Death Dealer",{2}{B/R},Legendary Creature — Human Assassin Villain,BR,uncommon,msh,209,main-set printing,msh,
 Call Damage Control,{1}{G},Sorcery,G,common,msh,162,main-set printing,msh,
-Captain America's Shield,{2},Legendary Artifact — Equipment,C,rare,msh,244,main-set printing,msh,yes
+Captain America's Shield,{2},Legendary Artifact — Equipment,C,rare,msh,244,main-set printing,msh,
 "Captain America, Living Legend",{1}{W}{U},Legendary Creature — Human Soldier Hero,UW,uncommon,msh,210,main-set printing,msh,
 "Captain America, Super-Soldier",{1}{W}{W},Legendary Creature — Human Soldier Hero,W,mythic,msh,9,main-set printing,msh,yes
 "Captain America, Wings of Freedom",{2}{W},Legendary Creature — Human Soldier Hero,W,rare,msh,10,main-set printing,msh,yes
@@ -1233,7 +1233,7 @@ Castle Doom,,Land,C,rare,msh,263,main-set printing,msh,
 Claim the Kingdom,{1}{G},Enchantment — Plan,G,uncommon,msh,163,main-set printing,msh,
 "Cloak and Dagger, Entwined",{1}{W}{B},Legendary Creature — Human Hero,BW,rare,msh,211,main-set printing,msh,yes
 "Colleen Wing, Street Samurai",{1}{W},Legendary Creature — Human Samurai Hero,W,uncommon,msh,13,main-set printing,msh,
-Construct a Cosmic Cube,{2}{B},Enchantment — Plan,B,rare,msh,90,main-set printing,msh,yes
+Construct a Cosmic Cube,{2}{B},Enchantment — Plan,B,rare,msh,90,main-set printing,msh,
 Cosmic Cube,{5},Artifact,C,mythic,msh,245,main-set printing,msh,
 Crimson Operative,{3}{R},Artifact Creature — Human Villain,R,common,msh,126,main-set printing,msc msh,
 "Crossbones, Malicious Mercenary",{3}{B},Legendary Creature — Human Mercenary Villain,B,uncommon,msh,91,main-set printing,msh,
@@ -1252,7 +1252,7 @@ Doom Reigns Supreme,{1}{B},Enchantment — Plan,B,rare,msh,96,main-set printing,
 Earth's Mightiest Heroes,{4}{G}{G},Sorcery,G,mythic,msh,165,main-set printing,msh,
 "Echo, Perceptive Prodigy",{2}{U},Legendary Creature — Human Hero,U,uncommon,msh,51,main-set printing,msh,
 "Elektra, Daughter of the Hand",{2}{B}{B},Legendary Creature — Human Ninja Villain,B,rare,msh,97,main-set printing,msh,yes
-Epic Fight,{2}{G},Sorcery,G,rare,msh,166,main-set printing,msh,yes
+Epic Fight,{2}{G},Sorcery,G,rare,msh,166,main-set printing,msh,
 Evil's Thrall,{2}{R},Sorcery,R,uncommon,msh,128,main-set printing,msh,
 Falcon's Wing Harness,{1}{U},Artifact — Equipment,U,uncommon,msh,53,main-set printing,msh,
 "Falcon, Winged Wonder",{4}{U},Legendary Creature — Human Hero,U,uncommon,msh,52,main-set printing,msh,
@@ -1268,7 +1268,7 @@ Gleaming Bastion,,Land,UW,rare,msh,267,main-set printing,msh,yes
 Go Nuts!,{G},Sorcery,G,common,msh,168,main-set printing,msh,
 "Grim Reaper, Lethal Legionnaire",{3}{B},Legendary Creature — Human Villain,B,uncommon,msh,98,main-set printing,msh,
 Guerrilla Gorilla,{1}{G},Creature — Ape Soldier Hero,G,common,msh,169,main-set printing,msh,
-H.E.R.B.I.E. Scout Unit,{4},Artifact Creature — Robot Scout,C,common,msh,247,main-set printing,msh,yes
+H.E.R.B.I.E. Scout Unit,{4},Artifact Creature — Robot Scout,C,common,msh,247,main-set printing,msh,
 HULK SMASH!,{1}{R},Instant,R,common,msh,135,main-set printing,msh,
 HYDRA Assault Robot,{1}{R},Artifact Creature — Robot Villain,R,common,msh,137,main-set printing,msh,
 HYDRA Infiltration,{3}{B},Enchantment,B,common,msh,100,main-set printing,msh,
@@ -1297,7 +1297,7 @@ I Am Iron Man,{2}{U},Instant,U,common,msh,58,main-set printing,msh,
 Iron Man Armor,{3},Artifact — Equipment,C,mythic,msh,248,main-set printing,msh,yes
 "Iron Man, Master of Machines",{2}{U}{R},Legendary Artifact Creature — Human Hero,RU,uncommon,msh,216,main-set printing,msh,
 "Ironheart, Clever Champion",{4}{U},Legendary Artifact Creature — Human Hero,U,rare,msh,60,main-set printing,msh,
-Jennifer Walters // The Sensational She-Hulk,{1}{W} // {3}{G}{W}{W},Legendary Creature — Human Advisor Hero // Legendary Creature — Gamma Hero,GW,mythic,msh,18,main-set printing,msh,
+Jennifer Walters // The Sensational She-Hulk,{1}{W} // {3}{G}{W}{W},Legendary Creature — Human Advisor Hero // Legendary Creature — Gamma Hero,GW,mythic,msh,18,main-set printing,msh,yes
 "Jessica Jones, Private Eye",{2}{R},Legendary Creature — Human Detective Hero,R,uncommon,msh,139,main-set printing,msh,
 "Justice, Vance Astrovik",{2}{U},Legendary Creature — Mutant Hero,U,uncommon,msh,61,main-set printing,msh,yes
 K'un-Lun Warrior,{1}{R},Creature — Human Warrior Hero,R,common,msh,140,main-set printing,msh,
@@ -1307,12 +1307,12 @@ Kang the Conqueror,{2}{U}{U},Legendary Creature — Human Villain,U,mythic,msh,6
 Kid Loki,{U},Legendary Creature — God Hero Villain,U,uncommon,msh,63,main-set printing,msh,
 "Killmonger, Scourge of Wakanda",{2}{B}{G},Legendary Creature — Human Mercenary Villain,BG,uncommon,msh,218,main-set printing,msh,
 "King T'Challa // Black Panther, Hope Enduring",{1}{W}{U} // {4}{W}{U},Legendary Creature — Human Noble Hero // Legendary Creature — Human Warrior Hero,UW,mythic,msh,219,main-set printing,msh,yes
-Kingpin's Enforcers,{2}{B},Creature — Human Villain,B,common,msh,102,main-set printing,msh,
+Kingpin's Enforcers,{2}{B},Creature — Human Villain,B,common,msh,102,main-set printing,msh,yes
 "Klaw, Sonic Subjugator",{2}{B},Legendary Creature — Human Rogue Villain,B,uncommon,msh,103,main-set printing,msh,
 Knight of Wundagore,{1}{G},Creature — Cat Knight Villain,G,common,msh,175,main-set printing,msh,
 Kree Commandos,{2}{W},Creature — Kree Soldier Villain,W,common,msh,19,main-set printing,msh,
 Kree Sentinel,{4}{R},Artifact Creature — Kree Robot Villain,R,common,msh,141,main-set printing,msh,
-"Leader, Super-Genius",{2}{U}{U},Legendary Creature — Gamma Scientist Villain,U,rare,msh,64,main-set printing,msh,
+"Leader, Super-Genius",{2}{U}{U},Legendary Creature — Gamma Scientist Villain,U,rare,msh,64,main-set printing,msh,yes
 Lightning Strike,{1}{R},Instant,R,common,msh,142,main-set printing,msh,yes
 Loki Laufeyson,{1}{R},Legendary Creature — God Sorcerer Villain,R,uncommon,msh,143,main-set printing,msh,
 "Loki, God of Mischief",{1}{U},Legendary Creature — God Sorcerer Villain,U,rare,msh,65,main-set printing,msh,
@@ -1321,7 +1321,7 @@ Los Diablos Missile Base,,Land,GR,common,msh,270,main-set printing,msh,
 M.O.D.O.K.,{3}{B}{B},Legendary Artifact Creature — Villain,B,mythic,msh,106,main-set printing,msh,yes
 Machinesmith Automaton,{2}{R},Artifact Creature — Robot Villain,R,common,msh,144,main-set printing,msh,
 Madame Hydra,{2}{B}{R},Legendary Creature — Human Villain,BR,uncommon,msh,221,main-set printing,msh,
-Madame Masque,{4}{B},Legendary Creature — Human Villain,B,uncommon,msh,104,main-set printing,msh,yes
+Madame Masque,{4}{B},Legendary Creature — Human Villain,B,uncommon,msh,104,main-set printing,msh,
 "Mister Fantastic, Reed Richards",{3}{U},Legendary Creature — Human Scientist Hero,U,uncommon,msh,66,main-set printing,msh,
 "Mister Hyde, Monster Within",{2}{G},Legendary Creature — Human Villain,G,uncommon,msh,176,main-set printing,msh,
 "Misty Knight, Hero for Hire",{1}{R},Legendary Creature — Human Detective Hero,R,uncommon,msh,145,main-set printing,msh,
@@ -1351,7 +1351,7 @@ Punishing Punch,{2}{G},Instant,G,uncommon,msh,180,main-set printing,msh,
 Pym Particles,{U},Sorcery,U,uncommon,msh,70,main-set printing,msh,
 Pym Technologies,,Land,GU,common,msh,271,main-set printing,msh,
 "Quake, Agent of S.H.I.E.L.D.",{2}{W},Legendary Creature — Inhuman Spy Hero,W,uncommon,msh,32,main-set printing,msh,
-"Quicksilver, Brash Blur",{R},Legendary Creature — Mutant Hero,R,rare,msh,148,main-set printing,msh,yes
+"Quicksilver, Brash Blur",{R},Legendary Creature — Mutant Hero,R,rare,msh,148,main-set printing,msh,
 Raft Security Officer,{1}{W},Creature — Human Soldier,W,common,msh,33,main-set printing,msh,
 Rapid Rescue,{G},Instant,G,common,msh,181,main-set printing,msh,
 "Red Guardian, Super-Soldier",{2}{W},Legendary Creature — Human Soldier Villain,W,uncommon,msh,34,main-set printing,msh,
@@ -1399,7 +1399,7 @@ Surveillance Room,,Land,C,common,msh,274,main-set printing,msh,yes
 Take Up the Shield,{1}{W},Instant,W,common,msh,39,main-set printing,msh,
 "Taskmaster, Mercenary Mimic",{2}{U}{B},Legendary Creature — Human Mercenary Villain,BU,rare,msh,232,main-set printing,msh,
 Team Tactics,{1}{R},Instant,R,uncommon,msh,155,main-set printing,msh,
-"Thanos, the Mad Titan",{R}{W}{B},Legendary Creature — Eternal Villain,BGRUW,mythic,msh,233,main-set printing,msh,yes
+"Thanos, the Mad Titan",{R}{W}{B},Legendary Creature — Eternal Villain,BGRUW,mythic,msh,233,main-set printing,msh,
 The Astonishing Ant-Man,{G}{U},Legendary Creature — Human Scientist Hero,GU,rare,msh,204,main-set printing,msh,
 The Coming of Galactus,{2}{B}{B}{G},Enchantment — Saga,BG,mythic,msh,212,main-set printing,msh,
 The Kingpin of Crime,{1}{W}{B},Legendary Creature — Human Villain,BW,rare,msh,220,main-set printing,msh,
@@ -1467,7 +1467,7 @@ Coercive Impetus,{2}{B},Enchantment — Aura,B,rare,soc,24,new card in supplemen
 Defacing Duskmage // Vandal's Edit,{W}{B} // {1}{W}{B},Creature — Dog Warlock // Instant,BW,rare,soc,45,new card in supplemental product,soc,
 Defiling Daemogoth,{3}{B}{B},Creature — Demon,B,rare,soc,25,new card in supplemental product,soc,
 "Dina, Essence Brewer",{1}{B}{G},Legendary Creature — Dryad Druid,BG,mythic,soc,1,new card in supplemental product,soc,
-Dirgur Focusmage // Braingeyser,{2}{U} // {X}{U}{U},Creature — Djinn Monk // Sorcery,U,rare,soc,18,new card in supplemental product,soc,yes
+Dirgur Focusmage // Braingeyser,{2}{U} // {X}{U}{U},Creature — Djinn Monk // Sorcery,U,rare,soc,18,new card in supplemental product,soc,
 Eccentric Pestfinder // Turn Stones,{2}{B}{G} // {B}{G},Creature — Troll Druid // Sorcery,BG,rare,soc,46,new card in supplemental product,soc,
 Eclipsed Steppe,,Land — Plains Swamp,BW,rare,soc,53,new card in supplemental product,soc trc,yes
 Eiganjo Dynastorian // Replenish,{2}{W} // {3}{W},Creature — Fox Advisor // Sorcery,W,rare,soc,13,new card in supplemental product,soc,
@@ -1507,10 +1507,10 @@ Scorched Geyser,,Land — Island Mountain,RU,rare,soc,54,new card in supplementa
 Spirit of Resilience,{2}{R},Creature — Spirit Warrior,R,rare,soc,37,new card in supplemental product,soc,
 Stensian Sanguinist // Exsanguinate,{1}{B} // {X}{B}{B},Creature — Vampire Cleric // Sorcery,B,rare,soc,29,new card in supplemental product,soc,yes
 Striding Shotcaller // Run the Play,{G}{U} // {X}{G}{U},Creature — Troll Druid // Sorcery,GU,rare,soc,50,new card in supplemental product,soc,
-Turbulent Fen,,Land — Swamp Forest,BG,rare,soc,55,new card in supplemental product,soc,
+Turbulent Fen,,Land — Swamp Forest,BG,rare,soc,55,new card in supplemental product,soc,yes
 Turbulent Moor,,Land — Plains Swamp,BW,rare,soc,56,new card in supplemental product,soc,
 Turbulent Springs,,Land — Island Mountain,RU,rare,soc,57,new card in supplemental product,soc,
-Turbulent Steppe,,Land — Mountain Plains,RW,rare,soc,58,new card in supplemental product,soc,
+Turbulent Steppe,,Land — Mountain Plains,RW,rare,soc,58,new card in supplemental product,soc,yes
 Turbulent Wilderness,,Land — Forest Island,GU,rare,soc,59,new card in supplemental product,soc,
 Umbral Expanse,,Land — Plains Swamp,BW,rare,soc,60,new card in supplemental product,soc trc,
 Vanguard of the Restless,{2}{W},Creature — Spirit Knight,W,rare,soc,16,new card in supplemental product,soc,
@@ -1522,7 +1522,7 @@ Abstract Paintmage,{U}{U/R}{R},Creature — Djinn Sorcerer,RU,uncommon,sos,171,m
 Additive Evolution,{3}{G}{G},Enchantment,G,uncommon,sos,139,main-set printing,sos,
 Adventurous Eater // Have a Bite,{2}{B} // {B},Creature — Human Warlock // Sorcery,B,common,sos,72,main-set printing,sos,
 Ajani's Response,{4}{W},Instant,W,common,sos,6,main-set printing,sos,
-Ambitious Augmenter,{G},Creature — Turtle Wizard,G,rare,sos,140,main-set printing,psos sos,yes
+Ambitious Augmenter,{G},Creature — Turtle Wizard,G,rare,sos,140,main-set printing,psos sos,
 Ancestral Anger,{R},Sorcery,R,common,sos,106,main-set printing,sos,
 Antiquities on the Loose,{1}{W}{W},Sorcery,W,rare,sos,7,main-set printing,psos sos,yes
 Applied Geometry,{2}{G}{U},Sorcery,GU,rare,sos,172,main-set printing,psos sos,
@@ -1535,19 +1535,19 @@ Ascendant Dustspeaker,{4}{W},Creature — Orc Cleric,W,common,sos,8,main-set pri
 "Aziza, Mage Tower Captain",{R}{W},Legendary Creature — Djinn Sorcerer,RW,rare,sos,174,main-set printing,psos sos,
 Banishing Betrayal,{1}{U},Instant,U,common,sos,38,main-set printing,sos,
 "Berta, Wise Extrapolator",{2}{G}{U},Legendary Creature — Frog Druid,GU,rare,sos,175,main-set printing,psos sos,
-Biblioplex Tomekeeper,{4},Artifact Creature — Construct,C,common,sos,247,main-set printing,sos,yes
+Biblioplex Tomekeeper,{4},Artifact Creature — Construct,C,common,sos,247,main-set printing,sos,
 Blazing Firesinger // Seething Song,{2}{R} // {2}{R},Creature — Dwarf Bard // Instant,R,uncommon,sos,109,main-set printing,sos,
 "Blech, Loafing Pest",{1}{B}{G},Legendary Creature — Pest,BG,rare,sos,176,main-set printing,psos sos,
 Bogwater Lumaret,{B}{G},Creature — Spirit Frog,BG,common,sos,177,main-set printing,sos,
 Borrowed Knowledge,{2}{R}{W},Sorcery,RW,uncommon,sos,178,main-set printing,sos,
-Brush Off,{2}{U}{U},Instant,U,uncommon,sos,39,main-set printing,sos,yes
+Brush Off,{2}{U}{U},Instant,U,uncommon,sos,39,main-set printing,sos,
 Burrog Banemaker,{B},Creature — Frog Warlock,B,common,sos,75,main-set printing,sos,
 Burrog Barrage,{1}{G},Instant,G,common,sos,141,main-set printing,sos,
 Campus Composer // Aqueous Aria,{3}{U} // {4}{U},Creature — Merfolk Bard // Sorcery,U,uncommon,sos,40,main-set printing,sos,
 Cauldron of Essence,{1}{B}{G},Artifact,BG,rare,sos,179,main-set printing,psos sos,
 Charging Strifeknight,{2}{R},Creature — Spirit Knight,R,uncommon,sos,110,main-set printing,sos,yes
 Chase Inspiration,{U},Instant,U,common,sos,41,main-set printing,sos,
-Cheerful Osteomancer // Raise Dead,{3}{B} // {B},Creature — Orc Warlock // Sorcery,B,common,sos,76,main-set printing,sos,yes
+Cheerful Osteomancer // Raise Dead,{3}{B} // {B},Creature — Orc Warlock // Sorcery,B,common,sos,76,main-set printing,sos,
 Chelonian Tackle,{2}{G},Sorcery,G,uncommon,sos,142,main-set printing,sos,
 Choreographed Sparks,{R}{R},Instant,R,rare,sos,111,main-set printing,psos sos,
 Colorstorm Stallion,{1}{U}{R},Creature — Elemental Horse,RU,rare,sos,180,main-set printing,psos sos,yes
@@ -1558,7 +1558,7 @@ Cost of Brilliance,{2}{B},Sorcery,B,common,sos,77,main-set printing,sos,
 Cuboid Colony,{G}{U},Creature — Insect,GU,uncommon,sos,183,main-set printing,sos,
 Daydream,{W},Sorcery,W,uncommon,sos,9,main-set printing,sos,yes
 Deathcap Glade,,Land,BG,rare,sos,253,main-set printing,psos sos,yes
-Decorum Dissertation,{3}{B}{B},Sorcery — Lesson,B,mythic,sos,78,main-set printing,psos sos,
+Decorum Dissertation,{3}{B}{B},Sorcery — Lesson,B,mythic,sos,78,main-set printing,psos sos,yes
 Deluge Virtuoso,{2}{U},Creature — Human Wizard,U,common,sos,42,main-set printing,sos,
 Diary of Dreams,{2},Artifact — Book,C,uncommon,sos,248,main-set printing,sos,
 Dig Site Inventory,{W},Sorcery,W,common,sos,10,main-set printing,sos,
@@ -1603,7 +1603,7 @@ Fractal Tender,{3}{G}{U},Creature — Elf Wizard,GU,uncommon,sos,190,main-set pr
 Fractalize,{X}{U},Instant,U,uncommon,sos,51,main-set printing,sos,
 Garrison Excavator,{3}{R},Creature — Orc Sorcerer,R,uncommon,sos,116,main-set printing,sos,
 Geometer's Arthropod,{G}{U},Creature — Fractal Crab,GU,rare,sos,191,main-set printing,psos sos,
-Germination Practicum,{3}{G}{G},Sorcery — Lesson,G,mythic,sos,149,main-set printing,psos sos,
+Germination Practicum,{3}{G}{G},Sorcery — Lesson,G,mythic,sos,149,main-set printing,psos sos,yes
 Glorious Decay,{1}{G},Instant,G,common,sos,150,main-set printing,sos,
 Goblin Glasswright // Craft with Pride,{1}{R} // {R},Creature — Goblin Sorcerer // Sorcery,R,common,sos,117,main-set printing,sos,
 Graduation Day,{W},Enchantment,W,uncommon,sos,16,main-set printing,sos,
@@ -1613,7 +1613,7 @@ Great Hall of the Biblioplex,,Land,C,rare,sos,257,main-set printing,psos sos,yes
 Group Project,{1}{W},Sorcery,W,uncommon,sos,17,main-set printing,sos,
 Growth Curve,{G}{U},Sorcery,GU,uncommon,sos,193,main-set printing,sos,
 Hardened Academic,{R}{W},Creature — Bird Cleric,RW,rare,sos,194,main-set printing,psos sos,
-Harmonized Trio // Brainstorm,{U} // {U},Creature — Merfolk Bard Wizard // Instant,U,rare,sos,52,main-set printing,psos sos,yes
+Harmonized Trio // Brainstorm,{U} // {U},Creature — Merfolk Bard Wizard // Instant,U,rare,sos,52,main-set printing,psos sos,
 Harsh Annotation,{1}{W},Instant,W,uncommon,sos,18,main-set printing,sos,yes
 Heated Argument,{4}{R},Instant,R,common,sos,118,main-set printing,sos,
 Homesickness,{4}{U}{U},Instant,U,uncommon,sos,53,main-set printing,sos,
@@ -1628,8 +1628,8 @@ Informed Inkwright,{1}{W},Creature — Human Wizard,W,rare,sos,20,main-set print
 Inkling Mascot,{W}{B},Creature — Inkling Cat,BW,common,sos,196,main-set printing,sos,
 Inkshape Demonstrator,{3}{W},Creature — Elephant Cleric,W,uncommon,sos,21,main-set printing,sos,
 Interjection,{W},Instant,W,common,sos,22,main-set printing,sos,
-"Jadzi, Steward of Fate // Oracle's Gift",{2}{U} // {X}{X}{U},Legendary Creature — Human Wizard // Sorcery,U,rare,sos,55,main-set printing,psos sos,
-Joined Researchers // Secret Rendezvous,{1}{W} // {1}{W}{W},Creature — Human Cleric Wizard // Sorcery,W,rare,sos,23,main-set printing,psos sos,yes
+"Jadzi, Steward of Fate // Oracle's Gift",{2}{U} // {X}{X}{U},Legendary Creature — Human Wizard // Sorcery,U,rare,sos,55,main-set printing,psos sos,yes
+Joined Researchers // Secret Rendezvous,{1}{W} // {1}{W}{W},Creature — Human Cleric Wizard // Sorcery,W,rare,sos,23,main-set printing,psos sos,
 Killian's Confidence,{W}{B},Sorcery,BW,uncommon,sos,197,main-set printing,sos,
 "Kirol, History Buff // Pack a Punch",{R}{W} // {1}{R}{W},Legendary Creature — Vampire Cleric // Sorcery,RW,uncommon,sos,198,main-set printing,sos,
 Landscape Painter // Vibrant Idea,{1}{U} // {4}{U},Creature — Merfolk Wizard // Sorcery,U,common,sos,56,main-set printing,sos,
@@ -1638,7 +1638,7 @@ Leech Collector // Bloodletting,{1}{B} // {B},Creature — Human Warlock // Sorc
 Living History,{1}{R},Enchantment,R,uncommon,sos,121,main-set printing,sos,
 "Lluwen, Exchange Student // Pest Friend",{2}{B}{G} // {B/G},Legendary Creature — Elf Druid // Sorcery,BG,uncommon,sos,199,main-set printing,sos,
 Lorehold Charm,{R}{W},Instant,RW,uncommon,sos,200,main-set printing,sos,
-"Lorehold, the Historian",{3}{R}{W},Legendary Creature — Elder Dragon,RW,mythic,sos,201,main-set printing,psos sos,
+"Lorehold, the Historian",{3}{R}{W},Legendary Creature — Elder Dragon,RW,mythic,sos,201,main-set printing,psos sos,yes
 Lumaret's Favor,{1}{G},Instant,G,uncommon,sos,153,main-set printing,sos,
 Maelstrom Artisan // Rocket Volley,{1}{R}{R} // {1}{R},Creature — Minotaur Sorcerer // Sorcery,R,rare,sos,122,main-set printing,psos sos,yes
 Mage Tower Referee,{2},Artifact Creature — Construct,C,common,sos,249,main-set printing,sos,
@@ -1659,7 +1659,7 @@ Moment of Reckoning,{3}{W}{W}{B}{B},Sorcery,BW,rare,sos,205,main-set printing,ps
 Muse Seeker,{1}{U},Creature — Elf Wizard,U,uncommon,sos,60,main-set printing,sos,
 Muse's Encouragement,{4}{U},Instant,U,common,sos,61,main-set printing,sos,
 "Nita, Forum Conciliator",{1}{W}{B},Legendary Creature — Human Advisor,BW,rare,sos,206,main-set printing,psos sos,
-Noxious Newt,{1}{G},Creature — Salamander,G,common,sos,155,main-set printing,sos,
+Noxious Newt,{1}{G},Creature — Salamander,G,common,sos,155,main-set printing,sos,yes
 Old-Growth Educator,{2}{B}{G},Creature — Treefolk Druid,BG,uncommon,sos,207,main-set printing,sos,
 Oracle's Restoration,{G},Sorcery,G,common,sos,156,main-set printing,sos,
 "Orysa, Tide Choreographer",{4}{U},Legendary Creature — Merfolk Bard,U,uncommon,sos,62,main-set printing,sos,
@@ -1680,16 +1680,16 @@ Pox Plague,{B}{B}{B}{B}{B},Sorcery,B,rare,sos,94,main-set printing,psos sos,
 Practiced Offense,{2}{W},Sorcery,W,rare,sos,25,main-set printing,psos sos,
 Practiced Scrollsmith,{R}{R/W}{W},Creature — Dwarf Cleric,RW,uncommon,sos,210,main-set printing,sos,
 Primary Research,{4}{W},Enchantment,W,uncommon,sos,26,main-set printing,sos,
-Prismari Charm,{U}{R},Instant,RU,uncommon,sos,211,main-set printing,sos,
+Prismari Charm,{U}{R},Instant,RU,uncommon,sos,211,main-set printing,sos,yes
 "Prismari, the Inspiration",{5}{U}{R},Legendary Creature — Elder Dragon,RU,mythic,sos,212,main-set printing,psos sos,
 Procrastinate,{X}{U},Sorcery,U,common,sos,64,main-set printing,sos,
-Proctor's Gaze,{2}{G}{U},Instant,GU,uncommon,sos,213,main-set printing,sos,
+Proctor's Gaze,{2}{G}{U},Instant,GU,uncommon,sos,213,main-set printing,sos,yes
 Professor Dellian Fel,{2}{B}{G},Legendary Planeswalker — Dellian,BG,mythic,sos,214,main-set printing,psos sos,yes
 Pterafractyl,{X}{G}{U},Creature — Dinosaur Fractal,GU,common,sos,215,main-set printing,sos,
 Pull from the Grave,{2}{B},Sorcery,B,common,sos,95,main-set printing,sos,
 Pursue the Past,{R}{W},Sorcery,RW,common,sos,216,main-set printing,sos,
 Quandrix Charm,{G}{U},Instant,GU,uncommon,sos,217,main-set printing,sos,
-"Quandrix, the Proof",{4}{G}{U},Legendary Creature — Elder Dragon,GU,mythic,sos,218,main-set printing,psos sos,
+"Quandrix, the Proof",{4}{G}{U},Legendary Creature — Elder Dragon,GU,mythic,sos,218,main-set printing,psos sos,yes
 Quick Study,{2}{U},Instant,U,common,sos,65,main-set printing,sos,yes
 Quill-Blade Laureate // Twofold Intent,{1}{W} // {1}{W},Creature — Human Cleric // Sorcery,W,uncommon,sos,27,main-set printing,sos,yes
 Rabid Attack,{1}{B},Instant,B,uncommon,sos,96,main-set printing,sos,
@@ -1717,7 +1717,7 @@ Shopkeeper's Bane,{2}{G},Creature — Badger Pest,G,common,sos,159,main-set prin
 Silverquill Charm,{W}{B},Instant,BW,uncommon,sos,225,main-set printing,sos,
 "Silverquill, the Disputant",{2}{W}{B},Legendary Creature — Elder Dragon,BW,mythic,sos,226,main-set printing,psos sos,
 Skycoach Conductor // All Aboard,{2}{U} // {U},Creature — Bird Pilot // Instant,U,rare,sos,67,main-set printing,psos sos,yes
-Skycoach Waypoint,,Land,C,uncommon,sos,261,main-set printing,sos,yes
+Skycoach Waypoint,,Land,C,uncommon,sos,261,main-set printing,sos,
 Slumbering Trudge,{X}{G},Creature — Plant Beast,G,rare,sos,160,main-set printing,psos sos,yes
 Snarl Song,{5}{G},Sorcery,G,uncommon,sos,161,main-set printing,sos,
 Sneering Shadewriter,{4}{B},Creature — Vampire Warlock,B,common,sos,101,main-set printing,sos,
@@ -1729,7 +1729,7 @@ Spectacular Skywhale,{2}{U}{R},Creature — Elemental Whale,RU,uncommon,sos,229,
 Spellbook Seeker // Careful Study,{3}{U} // {U},Creature — Bird Wizard // Sorcery,U,common,sos,68,main-set printing,sos,yes
 Spirit Mascot,{R}{W},Creature — Spirit Ox,RW,common,sos,230,main-set printing,sos,
 Spiritcall Enthusiast // Scrollboost,{2}{W} // {1}{W},Creature — Cat Cleric // Sorcery,W,uncommon,sos,33,main-set printing,sos,
-Splatter Technique,{1}{U}{U}{R}{R},Sorcery,RU,rare,sos,231,main-set printing,psos sos,
+Splatter Technique,{1}{U}{U}{R}{R},Sorcery,RU,rare,sos,231,main-set printing,psos sos,yes
 Stadium Tidalmage,{2}{U}{R},Creature — Djinn Sorcerer,RU,common,sos,232,main-set printing,sos,
 Stand Up for Yourself,{2}{W},Instant,W,uncommon,sos,34,main-set printing,sos,
 Startled Relic Sloth,{2}{R}{W},Creature — Sloth Beast,RW,uncommon,sos,233,main-set printing,sos,
@@ -1822,7 +1822,7 @@ Leo's Guidance,{2}{W},Instant,W,uncommon,tmc,102,new card in supplemental produc
 Level Up,{1}{G},Enchantment — Aura,G,rare,tmc,31,new card in supplemental product,tmc,
 Manhole Cover,{2},Artifact,C,uncommon,tmc,130,new card in supplemental product,tmc,
 "Michelangelo, On the Scene",{4}{G}{G},Legendary Creature — Mutant Ninja Turtle,G,mythic,tmc,124,new card in supplemental product,tmc,
-"Michelangelo, the Heart",{1}{G},Legendary Creature — Mutant Ninja Turtle,G,mythic,tmc,5,new card in supplemental product,tmc,
+"Michelangelo, the Heart",{1}{G},Legendary Creature — Mutant Ninja Turtle,G,mythic,tmc,5,new card in supplemental product,tmc,yes
 "Mikey & Mona, Mutant Sitters",{2}{G},Legendary Creature — Mutant Ninja Turtle Lizard,G,rare,tmc,125,new card in supplemental product,tmc,
 Mole Module,{5},Artifact — Vehicle,C,rare,tmc,40,new card in supplemental product,tmc,
 "Mona Lisa, Ever Adaptable",{3}{G},Legendary Creature — Lizard Mutant,G,rare,tmc,126,new card in supplemental product,tmc,
@@ -1859,7 +1859,7 @@ Anchovy & Banana Pizza,{2}{B}{B},Artifact — Food,B,common,tmt,57,main-set prin
 "April O'Neil, Hacktivist",{3}{U},Legendary Creature — Human Scientist,U,rare,tmt,29,main-set printing,tmt,
 "April O'Neil, Kunoichi Trainee",{1}{W},Legendary Creature — Human Ninja,W,common,tmt,3,main-set printing,tmt,
 "April, Reporter of the Weird",{2}{U},Legendary Creature — Human Detective,U,uncommon,tmt,30,main-set printing,tmt,
-"Armaggon, Future Shark",{6}{B}{B},Legendary Creature — Shark Horror Mutant,B,rare,tmt,58,main-set printing,tmt,yes
+"Armaggon, Future Shark",{6}{B}{B},Legendary Creature — Shark Horror Mutant,B,rare,tmt,58,main-set printing,tmt,
 Baxter Stockman,{3}{U}{R},Legendary Creature — Human Scientist,RU,uncommon,tmt,139,main-set printing,tmt,
 Bebop & Rocksteady,{1}{B/G}{B/G},Legendary Creature — Boar Rhino Mutant,BG,rare,tmt,140,main-set printing,tmt,
 "Bebop, Warthog Warrior",{4}{B},Legendary Creature — Boar Mutant Warrior,B,common,tmt,59,main-set printing,tmt,
@@ -1877,7 +1877,7 @@ Cowabunga!,{G},Sorcery,G,common,tmt,113,main-set printing,tmt,
 Crustacean Commando,{1}{U},Creature — Crab Mutant Soldier,U,common,tmt,33,main-set printing,tmt,
 Dark Leo & Shredder,{W}{B},Legendary Creature — Mutant Ninja Turtle Human,BW,mythic,tmt,142,main-set printing,tmt,yes
 Death in the Family,{1}{B},Instant,B,uncommon,tmt,61,main-set printing,tmt,yes
-Dimension X,,Land,RW,common,tmt,183,main-set printing,tmt,yes
+Dimension X,,Land,RW,common,tmt,183,main-set printing,tmt,
 Dimensional Exile,{1}{W},Enchantment — Aura,W,uncommon,tmt,4,main-set printing,tmt,
 Does Machines,{1}{U},Enchantment — Class,U,rare,tmt,34,main-set printing,tmt,
 "Don & Leo, Problem Solvers",{3}{W/U}{W/U},Legendary Creature — Mutant Ninja Turtle,UW,rare,tmt,143,main-set printing,tmt,yes
@@ -1907,10 +1907,10 @@ Grounded for Life,{4}{W},Instant,W,common,tmt,7,main-set printing,tmt,
 Guac & Marshmallow Pizza,{G},Artifact — Food,G,common,tmt,116,main-set printing,tmt,
 Hamato Guardian Stance,{W},Instant,W,common,tmt,8,main-set printing,tmt,
 Hard-Won Jitte,{1}{R},Artifact — Equipment,R,uncommon,tmt,91,main-set printing,tmt,yes
-Henchbots,{4},Artifact Creature — Robot,C,uncommon,tmt,174,main-set printing,tmt,yes
+Henchbots,{4},Artifact Creature — Robot,C,uncommon,tmt,174,main-set printing,tmt,
 High-Flying Ace,{2}{W},Creature — Bird Mutant,W,common,tmt,9,main-set printing,tmt,
 Ice Cream Kitty,{1}{B/G},Artifact Creature — Food Cat Mutant,BG,common,tmt,150,main-set printing,tmt,
-Illegitimate Business,,Land,BG,common,tmt,186,main-set printing,tmt,yes
+Illegitimate Business,,Land,BG,common,tmt,186,main-set printing,tmt,
 Improvised Arsenal,{1}{R},Artifact — Equipment,R,rare,tmt,92,main-set printing,tmt,
 Insectoid Exterminator,{2}{B},Creature — Insect Mutant,B,common,tmt,64,main-set printing,tmt,
 Jennika's Technique,{2}{R},Instant,R,uncommon,tmt,93,main-set printing,tmt,yes
@@ -1947,7 +1947,7 @@ Mighty Mutanimals,{2}{W}{W},Creature — Mutant Rebel,W,uncommon,tmt,21,main-set
 "Mikey & Don, Party Planners",{2}{G/U}{G/U},Legendary Creature — Mutant Ninja Turtle,GU,rare,tmt,157,main-set printing,tmt,
 "Mikey & Leo, Chaos & Order",{G/W}{G/W},Legendary Creature — Mutant Ninja Turtle,GW,rare,tmt,158,main-set printing,tmt,yes
 Mind Transfer Protocol,{2}{U},Instant,U,common,tmt,45,main-set printing,tmt,
-"Mona Lisa, Science Geek",{2}{G},Legendary Creature — Lizard Mutant,G,uncommon,tmt,123,main-set printing,tmt,yes
+"Mona Lisa, Science Geek",{2}{G},Legendary Creature — Lizard Mutant,G,uncommon,tmt,123,main-set printing,tmt,
 Mondo Gecko,{1}{U}{U},Legendary Creature — Lizard Mutant,U,mythic,tmt,46,main-set printing,tmt,
 Mouser Attack!,{1}{R},Instant,R,common,tmt,95,main-set printing,tmt,
 Mouser Foundry,{1}{R},Artifact,R,common,tmt,96,main-set printing,tmt,
@@ -1965,14 +1965,14 @@ Northampton Farm,,Land,C,rare,tmt,188,main-set printing,tmt,
 Novel Nunchaku,{2}{G},Artifact — Equipment,G,uncommon,tmt,127,main-set printing,tmt,
 Null Group Biological Assets,{2}{R},Creature — Mutant Mercenary,R,common,tmt,98,main-set printing,tmt,
 "Old Hob, Alleycat Blues",{4}{R},Legendary Creature — Cat Mutant Rebel,RW,uncommon,tmt,99,main-set printing,tmt,
-Omni-Cheese Pizza,{2},Artifact — Food,C,common,tmt,176,main-set printing,tmt,yes
+Omni-Cheese Pizza,{2},Artifact — Food,C,common,tmt,176,main-set printing,tmt,
 Ooze Spill,{1}{U}{U},Instant,U,uncommon,tmt,48,main-set printing,tmt,
 "Oroku Saki, Shredder Rising",{2}{B},Legendary Creature — Human Ninja,B,common,tmt,68,main-set printing,tmt,
 Pain 101,{1}{B},Instant,B,common,tmt,69,main-set printing,tmt,
 Paramecia Coloniex,{1}{B},Creature — Zombie Worm,B,uncommon,tmt,70,main-set printing,tmt,
 Party Dude,{G},Enchantment — Class,G,rare,tmt,128,main-set printing,tmt,
 "Pizza Face, Gastromancer",{3}{B}{G},Legendary Artifact Creature — Food Mutant,BG,uncommon,tmt,163,main-set printing,tmt,
-Prehistoric Pet,{W},Creature — Dinosaur Ninja,W,rare,tmt,22,main-set printing,tmt,yes
+Prehistoric Pet,{W},Creature — Dinosaur Ninja,W,rare,tmt,22,main-set printing,tmt,
 Primordial Pachyderm,{3}{G},Creature — Elephant Avatar,G,common,tmt,129,main-set printing,tmt,
 Punk Frogs,{3}{G/U}{G/U},Creature — Frog Mutant Rebel,GU,common,tmt,164,main-set printing,tmt,
 Purple Dragon Punks,{1}{R},Creature — Human Rogue,R,common,tmt,100,main-set printing,tmt,
@@ -1989,8 +1989,8 @@ Raphael's Technique,{4}{R}{R},Instant,R,rare,tmt,105,main-set printing,tmt,
 "Rat King, Verminister",{1}{B},Legendary Creature — Rat Avatar,B,rare,tmt,71,main-set printing,tmt,
 Ravenous Robots,{1}{R},Artifact Creature — Robot,R,rare,tmt,106,main-set printing,tmt,
 "Ray Fillet, Man Ray",{3}{U},Legendary Creature — Fish Mutant,U,uncommon,tmt,49,main-set printing,tmt,
-"Renet, Temporal Apprentice",{3}{U}{U},Legendary Creature — Human Wizard,U,rare,tmt,50,main-set printing,tmt,
-Retro-Mutation,{2}{U},Enchantment — Aura,U,common,tmt,51,main-set printing,tmt,
+"Renet, Temporal Apprentice",{3}{U}{U},Legendary Creature — Human Wizard,U,rare,tmt,50,main-set printing,tmt,yes
+Retro-Mutation,{2}{U},Enchantment — Aura,U,common,tmt,51,main-set printing,tmt,yes
 Return to the Sewers,{3}{U},Instant,U,common,tmt,52,main-set printing,tmt,
 Rock Soldiers,{3}{R},Artifact Creature — Elemental Soldier,R,common,tmt,107,main-set printing,tmt,
 "Rocksteady, Crash Courser",{4}{G}{G},Legendary Creature — Rhino Mutant,G,common,tmt,131,main-set printing,tmt,
@@ -2004,7 +2004,7 @@ Shredder's Revenge,{2}{B},Sorcery,B,common,tmt,76,main-set printing,tmt,
 Shredder's Technique,{2}{B},Sorcery,B,uncommon,tmt,77,main-set printing,tmt,yes
 "Shredder, Unrelenting",{4}{B},Legendary Creature — Human Ninja,B,uncommon,tmt,74,main-set printing,tmt,
 Skateboard,{1},Artifact — Equipment,C,uncommon,tmt,178,main-set printing,tmt,
-"Slash, Reptile Rampager",{3}{R}{R},Legendary Creature — Mutant Berserker Turtle,R,rare,tmt,108,main-set printing,tmt,
+"Slash, Reptile Rampager",{3}{R}{R},Legendary Creature — Mutant Berserker Turtle,R,rare,tmt,108,main-set printing,tmt,yes
 Slithering Cryptid,{2}{G/U},Creature — Fish Mutant,GU,common,tmt,168,main-set printing,tmt,
 South Wind Avatar,{3}{B},Creature — Snake Spirit Avatar,B,rare,tmt,78,main-set printing,tmt,
 Spicy Oatmeal Pizza,{2}{R},Artifact — Food,R,uncommon,tmt,109,main-set printing,tmt,
@@ -2038,7 +2038,7 @@ Turtles in Time,{5}{U}{U},Sorcery,U,mythic,tmt,55,main-set printing,tmt,
 Uneasy Alliance,{1}{W},Enchantment — Aura,W,common,tmt,28,main-set printing,tmt,
 Utrom Scientists,{2}{U},Artifact Creature — Utrom Robot Scientist,U,common,tmt,56,main-set printing,tmt,
 "Venus, Torn Between Worlds",{4}{G},Legendary Creature — Mutant Frog Turtle,GU,uncommon,tmt,136,main-set printing,tmt,
-Weather Maker,{3},Artifact,C,rare,tmt,182,main-set printing,tmt,
+Weather Maker,{3},Artifact,C,rare,tmt,182,main-set printing,tmt,yes
 West Wind Avatar,{5}{G}{G},Creature — Cat Spirit Avatar,G,uncommon,tmt,137,main-set printing,tmt,
 "Wingnut, Bat on the Belfry",{1}{R},Legendary Creature — Bat Mutant,R,uncommon,tmt,110,main-set printing,tmt,
 "Zog, Triceraton Castaway",{4}{R},Legendary Creature — Dinosaur Soldier,R,common,tmt,111,main-set printing,tmt,
@@ -2053,7 +2053,7 @@ Assimilation Assessor,{4}{B},Artifact Creature — Borg,B,rare,trc,56,new card i
 "Badgey, Malicious Glitch",{3}{B},Legendary Artifact Creature — Illusion Horror,B,uncommon,trc,152,new card in supplemental product,trc,
 Balance of Terror,{2}{W},Enchantment — Saga,W,rare,trc,10,new card in supplemental product,trc,
 Battle of Wolf 359,{3}{B}{B},Sorcery,B,rare,trc,57,new card in supplemental product,trc,
-"Benjamin Sisko, Besieged",{4}{G}{G},Legendary Creature — Human Officer,G,mythic,trc,200,new card in supplemental product,trc,
+"Benjamin Sisko, Besieged",{4}{G}{G},Legendary Creature — Human Officer,G,mythic,trc,200,new card in supplemental product,trc,yes
 "Beverly Crusher, Ship's Doctor",{2}{W},Legendary Creature — Human Doctor,W,rare,trc,11,new card in supplemental product,trc,
 Bio-Asset Allocator,{3}{B}{B},Artifact Creature — Borg,B,rare,trc,196,new card in supplemental product,trc,
 Blood-Sport Champion,{1}{B},Creature — Klingon Warrior,B,rare,trc,58,new card in supplemental product,trc,
@@ -2097,7 +2097,7 @@ Fleet Captain Christopher Pike,{2}{U},Legendary Creature — Human Officer,U,rar
 Gagh Slinger,{2}{R},Creature — Klingon Warrior,R,rare,trc,66,new card in supplemental product,trc,
 Galvanizing Tenor,{3}{R},Creature — Klingon Performer,R,rare,trc,67,new card in supplemental product,trc,
 "Geordi La Forge, Innovator",{2}{U},Legendary Creature — Human Artificer,U,rare,trc,42,new card in supplemental product,trc,
-Giant Space Amoeba,{4}{U},Creature — Germ,U,rare,trc,43,new card in supplemental product,trc,
+Giant Space Amoeba,{4}{U},Creature — Germ,U,rare,trc,43,new card in supplemental product,trc,yes
 Gift of Perfection,{4}{U},Sorcery,U,rare,trc,44,new card in supplemental product,trc,
 Gin'tak Charge,{R},Sorcery,R,common,trc,163,new card in supplemental product,trc,
 Glory to the Empire!,{5}{R},Enchantment,R,rare,trc,68,new card in supplemental product,trc,
@@ -2109,7 +2109,7 @@ Gumato,{4}{G},Creature — Ape Beast,G,uncommon,trc,173,new card in supplemental
 Head of Security,{1}{W},Creature — Andorian Soldier,W,common,trc,133,new card in supplemental product,trc,
 "Hugh, First of Many",{1}{W}{U}{B},Legendary Artifact Creature — Borg,BUW,rare,trc,94,new card in supplemental product,trc,
 "I.K.S. Negh'Var, Imperial Flagship",{3},Legendary Artifact — Spacecraft,C,rare,trc,113,new card in supplemental product,trc,
-Imperial Hullbreachers,{2}{W},Creature — Klingon Warrior,W,rare,trc,18,new card in supplemental product,trc,
+Imperial Hullbreachers,{2}{W},Creature — Klingon Warrior,W,rare,trc,18,new card in supplemental product,trc,yes
 Indelicate Healer,{2}{W},Creature — Klingon Warrior Doctor,W,rare,trc,19,new card in supplemental product,trc,
 "Janice Rand, Essential Aide",{3}{G},Legendary Creature — Human Advisor,G,rare,trc,79,new card in supplemental product,trc,
 "Jean-Luc Picard, Luminary",{1}{U}{R}{W},Legendary Creature — Human Officer,RUW,mythic,trc,3,new card in supplemental product,trc,
@@ -2130,7 +2130,7 @@ Kolinahr Priest,{2}{U},Creature — Vulcan Monk,U,common,trc,146,new card in sup
 "Kor, Cause of Vengeance",{1}{R}{W}{B},Legendary Creature — Klingon Warrior Officer,BRW,mythic,trc,96,new card in supplemental product,trc,
 "Korok, Liberated Rage",{3}{W},Legendary Artifact Creature — Klingon Borg,W,rare,trc,22,new card in supplemental product,trc,
 "Kruge, Genesis Seeker",{2}{R},Legendary Creature — Klingon Officer,R,uncommon,trc,165,new card in supplemental product,trc,
-"Kurn, Son of Mogh",{2}{B},Legendary Creature — Klingon Warrior Officer,B,rare,trc,60,new card in supplemental product,trc,
+"Kurn, Son of Mogh",{2}{B},Legendary Creature — Klingon Warrior Officer,B,rare,trc,60,new card in supplemental product,trc,yes
 "La Forge, Perceptive Engineer",{1}{U},Legendary Creature — Human Artificer,U,uncommon,trc,147,new card in supplemental product,trc,
 "La Forge, Thoughtful as Ever",{3}{U},Legendary Creature — Human Artificer,U,rare,trc,188,new card in supplemental product,trc,
 Lieutenant Hikaru Sulu,{2}{G},Legendary Creature — Human Pilot,GU,rare,trc,80,new card in supplemental product,trc,
@@ -2184,7 +2184,7 @@ Supplementation Node,{2}{W},Artifact Creature — Borg,W,rare,trc,31,new card in
 "T'Pring, Never Parted",{3}{G}{U},Legendary Creature — Vulcan Citizen,GU,rare,trc,106,new card in supplemental product,trc,
 Talarian Hook Spider,{1}{G},Creature — Spider,G,common,trc,175,new card in supplemental product,trc,
 Temporal Tribulation,{2}{U},Instant,U,rare,trc,51,new card in supplemental product,trc,
-Tenacious Tosk,{3}{G},Creature — Tosk Rogue,G,rare,trc,201,new card in supplemental product,trc,
+Tenacious Tosk,{3}{G},Creature — Tosk Rogue,G,rare,trc,201,new card in supplemental product,trc,yes
 The Beacon of Kahless,{2}{R},Legendary Artifact,R,rare,trc,64,new card in supplemental product,trc,
 The Best of Both Worlds,{4}{W}{U},Enchantment — Saga,UW,rare,trc,83,new card in supplemental product,trc,
 The Borg Queen,{4}{W}{U}{B},Legendary Artifact Creature — Borg Noble,BUW,mythic,trc,1,new card in supplemental product,trc,
@@ -2269,7 +2269,7 @@ Commander Raffi Musiker,{2}{B},Legendary Creature — Human Officer,B,uncommon,t
 Common Goal,{1}{G},Sorcery,G,common,trk,190,main-set printing,trk,
 Conquest Mission,{2}{W},Enchantment,W,uncommon,trk,10,main-set printing,trk,
 Consider the Prime Directive,{2}{U},Instant,U,common,trk,51,main-set printing,trk,
-Constable Odo,{3}{W/U}{W/U},Legendary Creature — Shapeshifter Detective,UW,uncommon,trk,230,main-set printing,trk,yes
+Constable Odo,{3}{W/U}{W/U},Legendary Creature — Shapeshifter Detective,UW,uncommon,trk,230,main-set printing,trk,
 Crystalline Entity,{8},Artifact Creature — Elemental,C,mythic,trk,261,main-set printing,trk,yes
 "Culber and Stamets, Star-Crossed",{3}{G},Legendary Creature — Human Doctor Artificer,G,uncommon,trk,191,main-set printing,trk,
 Cybernetic Specialist,{2},Artifact Creature — Human Scientist,C,common,trk,262,main-set printing,trk,
@@ -2303,7 +2303,7 @@ Eject the Warp Core,{1}{B},Instant,B,common,trk,105,main-set printing,trk,
 Emergency Holographic Crew,{3}{U},Artifact Creature — Illusion Officer,U,common,trk,55,main-set printing,trk,
 Emergency Medical Hologram,{W},Artifact Creature — Illusion Doctor,W,common,trk,15,main-set printing,trk,
 Encounter the Unknown,{1}{R}{R},Instant,R,rare,trk,148,main-set printing,trk,
-Energize,{1}{U},Sorcery,U,uncommon,trk,56,main-set printing,trk,yes
+Energize,{1}{U},Sorcery,U,uncommon,trk,56,main-set printing,trk,
 Engineered Explosives,{X},Artifact,C,rare,trk,264,main-set printing,trk,yes
 Ensign Pavel Chekov,{3}{U},Legendary Creature — Human Pilot,U,uncommon,trk,57,main-set printing,trk,
 Enterprise NX-01,{3}{U},Legendary Artifact — Spacecraft,U,uncommon,trk,58,main-set printing,trk,
@@ -2378,7 +2378,7 @@ Melkotian Adjudicator,{2}{U},Creature — Melkotian Advisor,U,common,trk,73,main
 Mirror Universe Intrusion,{1}{U}{B},Sorcery,BU,rare,trk,248,main-set printing,trk,
 Moopsy,{G},Creature — Beast,G,common,trk,207,main-set printing,trk,
 "Mr. Spock, Science Officer",{2}{U}{U},Legendary Creature — Vulcan Human Scientist,U,mythic,trk,74,main-set printing,trk,yes
-Mugato,{3}{G}{G},Creature — Ape Beast,G,uncommon,trk,208,main-set printing,trk,yes
+Mugato,{3}{G}{G},Creature — Ape Beast,G,uncommon,trk,208,main-set printing,trk,
 Munitions Enthusiast,{1}{R},Creature — Klingon Warrior,R,uncommon,trk,158,main-set printing,trk,
 "Neelix, Moral Support",{1}{G},Legendary Creature — Talaxian Advisor,G,uncommon,trk,209,main-set printing,trk,
 Ni'Var Science Academy,,Land,U,rare,trk,287,main-set printing,trk,
@@ -2426,7 +2426,7 @@ Sacred Foundry,,Land — Mountain Plains,RW,rare,trk,295,main-set printing,trk,y
 Salt Vampire,{1}{B},Creature — Vampire Shapeshifter,B,rare,trk,127,main-set printing,trk,yes
 "Sarcophagus, Ship of the Dead",{2}{R},Legendary Artifact — Spacecraft,R,uncommon,trk,170,main-set printing,trk,
 "Sarek, Federation Ambassador",{1}{G}{W}{U},Legendary Creature — Vulcan Advisor,GUW,rare,trk,251,main-set printing,trk,
-"Saru, Unthreatened",{2}{G},Legendary Creature — Kelpien Officer,G,uncommon,trk,212,main-set printing,trk,
+"Saru, Unthreatened",{2}{G},Legendary Creature — Kelpien Officer,G,uncommon,trk,212,main-set printing,trk,yes
 Saurian Explorer,{3}{G},Creature — Dinosaur Scout,G,common,trk,213,main-set printing,trk,
 Savvy Profiteer,{1}{R},Creature — Ferengi Rogue,R,common,trk,171,main-set printing,trk,
 "Scotty, Miracle Worker",{1}{U}{U},Legendary Creature — Human Artificer,U,mythic,trk,79,main-set printing,trk,
@@ -2448,7 +2448,7 @@ Starfleet Spanner Jockey,{1}{U},Creature — Human Artificer,U,common,trk,81,mai
 Stomping Ground,,Land — Mountain Forest,GR,rare,trk,299,main-set printing,trk,yes
 Storied Veteran,{B},Creature — Klingon Advisor,B,uncommon,trk,129,main-set printing,trk,
 Stray from History,{2}{B},Sorcery,B,common,trk,130,main-set printing,trk,
-Subcommander T'Pol,{2}{U},Legendary Creature — Vulcan Scientist,U,rare,trk,82,main-set printing,trk,
+Subcommander T'Pol,{2}{U},Legendary Creature — Vulcan Scientist,U,rare,trk,82,main-set printing,trk,yes
 Subspace Anomaly,,Land,W,uncommon,trk,300,main-set printing,trk,
 "Sulu, Space Swashbuckler",{1}{W},Legendary Creature — Human Pilot,W,rare,trk,37,main-set printing,trk,
 Support Mission,{2}{G},Enchantment,G,uncommon,trk,216,main-set printing,trk,
@@ -2460,8 +2460,8 @@ Tactical Officer,{1}{W},Creature — Human Officer,W,common,trk,38,main-set prin
 Tal Shiar Analyst,{2}{R},Creature — Romulan Scientist,R,common,trk,174,main-set printing,trk,
 Tal Shiar Operative,{1}{B},Creature — Romulan Officer Spy,B,common,trk,131,main-set printing,trk,
 Targ Wrangler,{2}{R},Creature — Klingon Warrior,R,uncommon,trk,175,main-set printing,trk,
-"Tasha Yar, Out of Time",{1}{R},Legendary Creature — Human Officer,R,rare,trk,176,main-set printing,trk,
-"Tea, Earl Grey, Hot",{2},Artifact — Food,C,common,trk,269,main-set printing,trk,yes
+"Tasha Yar, Out of Time",{1}{R},Legendary Creature — Human Officer,R,rare,trk,176,main-set printing,trk,yes
+"Tea, Earl Grey, Hot",{2},Artifact — Food,C,common,trk,269,main-set printing,trk,
 Tell Me What You See,{1}{B},Enchantment,B,uncommon,trk,132,main-set printing,trk,
 Temporal Anomaly,,Land,G,uncommon,trk,302,main-set printing,trk,
 Temporal Conqueror,{2}{G},Creature — Na'kuhl Warrior,G,common,trk,219,main-set printing,trk,
@@ -2491,9 +2491,9 @@ Tricorder,{1},Artifact — Equipment,C,common,trk,270,main-set printing,trk,
 Troubling Tribbles,{2}{W},Creature — Tribble,W,rare,trk,41,main-set printing,trk,
 Type-2 Phaser,{2},Artifact — Equipment,C,uncommon,trk,271,main-set printing,trk,yes
 "U.S.S. Cerritos, Following Up",{5},Legendary Artifact — Spacecraft,C,uncommon,trk,272,main-set printing,trk,
-"U.S.S. Discovery, at Black Alert",{3}{G}{G},Legendary Artifact — Spacecraft,G,rare,trk,221,main-set printing,trk,
+"U.S.S. Discovery, at Black Alert",{3}{G}{G},Legendary Artifact — Spacecraft,G,rare,trk,221,main-set printing,trk,yes
 "U.S.S. Enterprise-A, Free Spirit",{3}{W}{W},Legendary Artifact — Spacecraft,W,mythic,trk,43,main-set printing,trk,yes
-"U.S.S. Enterprise-D, Galaxy-Class",{3},Legendary Artifact — Spacecraft,C,rare,trk,273,main-set printing,trk,yes
+"U.S.S. Enterprise-D, Galaxy-Class",{3},Legendary Artifact — Spacecraft,C,rare,trk,273,main-set printing,trk,
 "U.S.S. Excelsior, Cutting Edge",{3}{W},Legendary Artifact — Spacecraft,W,uncommon,trk,44,main-set printing,trk,
 "U.S.S. Reliant, From Hell's Heart",{2}{B}{B},Legendary Artifact — Spacecraft,B,rare,trk,135,main-set printing,trk,
 "U.S.S. Voyager, Lone Wanderer",{3}{G},Legendary Artifact — Spacecraft,G,uncommon,trk,222,main-set printing,trk,

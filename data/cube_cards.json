@@ -426,38 +426,6 @@
   "section": "White"
  },
  {
-  "name": "Prehistoric Pet",
-  "oracle_id": "2519ccc0-c206-41fb-aa15-2ef88025ff96",
-  "mana_cost": "{W}",
-  "cmc": 1.0,
-  "type_line": "Creature — Dinosaur Ninja",
-  "oracle_text": "This creature can't be blocked by creatures with greater power.\n{1}{W}, {T}: Return another target creature you control to its owner's hand. Activate only during your turn.",
-  "power": "1",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "W"
-  ],
-  "color_identity": [
-   "W"
-  ],
-  "layout": "normal",
-  "set": "tmt",
-  "set_name": "Teenage Mutant Ninja Turtles",
-  "collector_number": "22",
-  "rarity": "rare",
-  "released_at": "2026-03-06",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "tmt"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/1/4/148e6acd-a96a-4bea-8cfe-a129cd8d1003.jpg?1783904122",
-  "image_small": "https://cards.scryfall.io/small/front/1/4/148e6acd-a96a-4bea-8cfe-a129cd8d1003.jpg?1783904122",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/tmt/22/prehistoric-pet?utm_source=api",
-  "section": "White"
- },
- {
   "name": "Rescue Girl, First Responder",
   "oracle_id": "df6fc0b4-333b-4f6c-804c-ba6c8e29c88e",
   "mana_cost": "{2}{W}",
@@ -519,39 +487,6 @@
   "image_small": "https://cards.scryfall.io/small/front/e/4/e4f041b3-e785-45ba-9a7e-33878614d3b0.jpg?1793361164",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/trk/24/miles-obrien-transporter-ops?utm_source=api",
-  "section": "White"
- },
- {
-  "name": "Flickering Hound",
-  "oracle_id": "162421d2-8761-437f-bed9-578b61c96f1f",
-  "mana_cost": "{3}{W}",
-  "cmc": 4.0,
-  "type_line": "Creature — Dog",
-  "oracle_text": "Whenever you cast a creature spell, exile up to one other target creature you control, then return that card to the battlefield under its owner's control.",
-  "power": "2",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "W"
-  ],
-  "color_identity": [
-   "W"
-  ],
-  "layout": "normal",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "7",
-  "rarity": "rare",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra",
-   "pfra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769",
-  "image_small": "https://cards.scryfall.io/small/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/7/flickering-hound?utm_source=api",
   "section": "White"
  },
  {
@@ -648,59 +583,6 @@
   "image_small": "https://cards.scryfall.io/small/front/8/7/87f1e69a-6d74-4982-afda-82613637799a.jpg?1783902972",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/msh/21/the-mind-stone?utm_source=api",
-  "section": "White"
- },
- {
-  "name": "Joined Researchers // Secret Rendezvous",
-  "oracle_id": "ec744a2d-4a33-4807-bce0-d95cd5277b1f",
-  "mana_cost": "{1}{W} // {1}{W}{W}",
-  "cmc": 2.0,
-  "type_line": "Creature — Human Cleric Wizard // Sorcery",
-  "oracle_text": "First strike\nAt the beginning of each end step, if an opponent has more cards in hand than you, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\n//\nYou and target opponent each draw three cards.",
-  "power": "2",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "W"
-  ],
-  "color_identity": [
-   "W"
-  ],
-  "layout": "prepare",
-  "set": "sos",
-  "set_name": "Secrets of Strixhaven",
-  "collector_number": "23",
-  "rarity": "rare",
-  "released_at": "2026-04-24",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "psos",
-   "sos"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/1/e/1ebaafe0-3a9a-424c-8698-d26e7be45343.jpg?1783903702",
-  "image_small": "https://cards.scryfall.io/small/front/1/e/1ebaafe0-3a9a-424c-8698-d26e7be45343.jpg?1783903702",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/sos/23/joined-researchers-secret-rendezvous?utm_source=api",
-  "faces": [
-   {
-    "name": "Joined Researchers",
-    "mana_cost": "{1}{W}",
-    "type_line": "Creature — Human Cleric Wizard",
-    "oracle_text": "First strike\nAt the beginning of each end step, if an opponent has more cards in hand than you, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
-    "power": "2",
-    "toughness": "2",
-    "loyalty": null
-   },
-   {
-    "name": "Secret Rendezvous",
-    "mana_cost": "{1}{W}{W}",
-    "type_line": "Sorcery",
-    "oracle_text": "You and target opponent each draw three cards.",
-    "power": null,
-    "toughness": null,
-    "loyalty": null
-   }
-  ],
   "section": "White"
  },
  {
@@ -1562,36 +1444,165 @@
   "section": "White"
  },
  {
-  "name": "Spell Snare",
-  "oracle_id": "38877c68-b69b-4ee1-8e8f-5137a184a8f7",
-  "mana_cost": "{U}",
-  "cmc": 1.0,
-  "type_line": "Instant",
-  "oracle_text": "Counter target spell with mana value 2.",
-  "power": null,
-  "toughness": null,
+  "name": "Amazing Spider-Girl",
+  "oracle_id": "7a6c4216-7aff-41d4-8d79-bd1ac0b263ae",
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Spider Human Hero",
+  "oracle_text": "Web-slinging {2}{W} (You may cast this spell for {2}{W} if you also return a tapped creature you control to its owner's hand.)\nFlying, vigilance",
+  "power": "5",
+  "toughness": "4",
   "loyalty": null,
   "colors": [
-   "U"
+   "W"
   ],
   "color_identity": [
-   "U"
+   "W"
   ],
   "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "71",
-  "rarity": "uncommon",
-  "released_at": "2026-01-23",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "583",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/7/9/794dda34-8bc5-4cb9-8460-07f93426dd34.jpg?1783903088",
+  "image_small": "https://cards.scryfall.io/small/front/7/9/794dda34-8bc5-4cb9-8460-07f93426dd34.jpg?1783903088",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/583/amazing-spider-girl?utm_source=api",
+  "section": "White"
+ },
+ {
+  "name": "Imperial Hullbreachers",
+  "oracle_id": "14c52244-4d09-49b9-b7c2-17ef1ffa2561",
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Creature — Klingon Warrior",
+  "oracle_text": "Squad {2} (As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)\nFlying\nBattle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+  "power": "2",
+  "toughness": "2",
+  "loyalty": null,
+  "colors": [
+   "W"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "layout": "normal",
+  "set": "trc",
+  "set_name": "Star Trek Commander",
+  "collector_number": "18",
+  "rarity": "rare",
+  "released_at": "2026-11-13",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "trc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/9/0/90b3d401-5585-4a55-9388-fe5153e290e1.jpg?1793196862",
+  "image_small": "https://cards.scryfall.io/small/front/9/0/90b3d401-5585-4a55-9388-fe5153e290e1.jpg?1793196862",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/trc/18/imperial-hullbreachers?utm_source=api",
+  "section": "White"
+ },
+ {
+  "name": "Captain America, Liberator",
+  "oracle_id": "26e92eb8-7a23-4e7e-be83-244bb6078606",
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Soldier Hero",
+  "oracle_text": "When Captain America enters, you may search your library for an Equipment card with mana value 3 or less, put it onto the battlefield, then shuffle.\nWhenever Captain America attacks, for each Equipment attached to him, create a 1/1 white Soldier creature token.",
+  "power": "5",
+  "toughness": "5",
+  "loyalty": null,
+  "colors": [
+   "W"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "587",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/b/f/bfa75d51-307f-45da-8fac-81bb32830ee9.jpg?1783903085",
+  "image_small": "https://cards.scryfall.io/small/front/b/f/bfa75d51-307f-45da-8fac-81bb32830ee9.jpg?1783903085",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/587/captain-america-liberator?utm_source=api",
+  "section": "White"
+ },
+ {
+  "name": "Lyra, Archangel of Dawn",
+  "oracle_id": "0fca3328-484f-4050-925e-91840710b5d6",
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Angel Knight",
+  "oracle_text": "Flying\nWhenever you gain life, put a +1/+1 counter on each Angel you control.",
+  "power": "3",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "W"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "layout": "normal",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "201",
+  "rarity": "rare",
+  "released_at": "2026-10-02",
   "eligibility": "main-set printing",
   "printed_in_2026": [
-   "ecl"
+   "fra",
+   "pfra"
   ],
-  "image": "https://cards.scryfall.io/normal/front/b/7/b7551b61-656e-4f37-b9da-73174db983b7.jpg?1783904479",
-  "image_small": "https://cards.scryfall.io/small/front/b/7/b7551b61-656e-4f37-b9da-73174db983b7.jpg?1783904479",
+  "image": "https://cards.scryfall.io/normal/front/8/6/86a3866e-68a8-402c-baf0-1908e98e3995.jpg?1789127693",
+  "image_small": "https://cards.scryfall.io/small/front/8/6/86a3866e-68a8-402c-baf0-1908e98e3995.jpg?1789127693",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/71/spell-snare?utm_source=api",
-  "section": "Blue"
+  "scryfall_uri": "https://scryfall.com/card/fra/201/lyra-archangel-of-dawn?utm_source=api",
+  "section": "White"
+ },
+ {
+  "name": "Royal Talon Fighter Jet",
+  "oracle_id": "d6f36172-d3ef-49e9-a55f-ce2983bb2439",
+  "mana_cost": "{X}{W}{W}",
+  "cmc": 2.0,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "Flying\nThis Vehicle enters with X +1/+1 counters on it.\nWhenever this Vehicle enters or attacks, create a number of 1/1 white Soldier creature tokens equal to the number of +1/+1 counters on it.\nCrew 2",
+  "power": "1",
+  "toughness": "1",
+  "loyalty": null,
+  "colors": [
+   "W"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "24",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/e/9/e94da91d-6c76-4909-91e3-2f8d97398654.jpg?1783903295",
+  "image_small": "https://cards.scryfall.io/small/front/e/9/e94da91d-6c76-4909-91e3-2f8d97398654.jpg?1783903295",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/24/royal-talon-fighter-jet?utm_source=api",
+  "section": "White"
  },
  {
   "name": "Wild Unraveling",
@@ -1723,38 +1734,6 @@
   "section": "Blue"
  },
  {
-  "name": "Brush Off",
-  "oracle_id": "873694c0-c100-4d24-a74f-1ab26442dd18",
-  "mana_cost": "{2}{U}{U}",
-  "cmc": 4.0,
-  "type_line": "Instant",
-  "oracle_text": "This spell costs {1}{U} less to cast if it targets an instant or sorcery spell.\nCounter target spell.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [
-   "U"
-  ],
-  "color_identity": [
-   "U"
-  ],
-  "layout": "normal",
-  "set": "sos",
-  "set_name": "Secrets of Strixhaven",
-  "collector_number": "39",
-  "rarity": "uncommon",
-  "released_at": "2026-04-24",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "sos"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/1/5/151eab82-d20f-433b-b3bb-1d44e2871d5c.jpg?1783903697",
-  "image_small": "https://cards.scryfall.io/small/front/1/5/151eab82-d20f-433b-b3bb-1d44e2871d5c.jpg?1783903697",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/sos/39/brush-off?utm_source=api",
-  "section": "Blue"
- },
- {
   "name": "Confusticate and Bebother",
   "oracle_id": "7a7d9887-3cc4-4fb9-9109-1315903ace45",
   "mana_cost": "{2}{U}",
@@ -1784,59 +1763,6 @@
   "image_small": "https://cards.scryfall.io/small/front/9/d/9de48690-e5ae-495a-addf-305f1db7ec21.jpg?1785496428",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/hob/35/confusticate-and-bebother?utm_source=api",
-  "section": "Blue"
- },
- {
-  "name": "Harmonized Trio // Brainstorm",
-  "oracle_id": "f6036065-7196-44d4-8a27-2199f0e1a03c",
-  "mana_cost": "{U} // {U}",
-  "cmc": 1.0,
-  "type_line": "Creature — Merfolk Bard Wizard // Instant",
-  "oracle_text": "{T}, Tap two untapped creatures you control: This creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\n//\nDraw three cards, then put two cards from your hand on top of your library in any order.",
-  "power": "1",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [
-   "U"
-  ],
-  "color_identity": [
-   "U"
-  ],
-  "layout": "prepare",
-  "set": "sos",
-  "set_name": "Secrets of Strixhaven",
-  "collector_number": "52",
-  "rarity": "rare",
-  "released_at": "2026-04-24",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "psos",
-   "sos"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/6/1/617208ff-dd9b-44fd-a740-d3188081e5cc.jpg?1783903691",
-  "image_small": "https://cards.scryfall.io/small/front/6/1/617208ff-dd9b-44fd-a740-d3188081e5cc.jpg?1783903691",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/sos/52/harmonized-trio-brainstorm?utm_source=api",
-  "faces": [
-   {
-    "name": "Harmonized Trio",
-    "mana_cost": "{U}",
-    "type_line": "Creature — Merfolk Bard Wizard",
-    "oracle_text": "{T}, Tap two untapped creatures you control: This creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
-    "power": "1",
-    "toughness": "1",
-    "loyalty": null
-   },
-   {
-    "name": "Brainstorm",
-    "mana_cost": "{U}",
-    "type_line": "Instant",
-    "oracle_text": "Draw three cards, then put two cards from your hand on top of your library in any order.",
-    "power": null,
-    "toughness": null,
-    "loyalty": null
-   }
-  ],
   "section": "Blue"
  },
  {
@@ -1885,58 +1811,6 @@
     "mana_cost": "{U}",
     "type_line": "Instant",
     "oracle_text": "Target player draws three cards.",
-    "power": null,
-    "toughness": null,
-    "loyalty": null
-   }
-  ],
-  "section": "Blue"
- },
- {
-  "name": "Dirgur Focusmage // Braingeyser",
-  "oracle_id": "655ee0db-1913-464f-bd06-072c6bf446bd",
-  "mana_cost": "{2}{U} // {X}{U}{U}",
-  "cmc": 3.0,
-  "type_line": "Creature — Djinn Monk // Sorcery",
-  "oracle_text": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you cast an instant or sorcery spell with mana value 5 or greater from your hand, this creature becomes prepared.\n//\nTarget player draws X cards.",
-  "power": "1",
-  "toughness": "4",
-  "loyalty": null,
-  "colors": [
-   "U"
-  ],
-  "color_identity": [
-   "U"
-  ],
-  "layout": "prepare",
-  "set": "soc",
-  "set_name": "Secrets of Strixhaven Commander",
-  "collector_number": "18",
-  "rarity": "rare",
-  "released_at": "2026-04-24",
-  "eligibility": "new card in supplemental product",
-  "printed_in_2026": [
-   "soc"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/7/b/7bdabeba-0cfb-4953-b725-50a48164a044.jpg?1783903861",
-  "image_small": "https://cards.scryfall.io/small/front/7/b/7bdabeba-0cfb-4953-b725-50a48164a044.jpg?1783903861",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/soc/18/dirgur-focusmage-braingeyser?utm_source=api",
-  "faces": [
-   {
-    "name": "Dirgur Focusmage",
-    "mana_cost": "{2}{U}",
-    "type_line": "Creature — Djinn Monk",
-    "oracle_text": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you cast an instant or sorcery spell with mana value 5 or greater from your hand, this creature becomes prepared.",
-    "power": "1",
-    "toughness": "4",
-    "loyalty": null
-   },
-   {
-    "name": "Braingeyser",
-    "mana_cost": "{X}{U}{U}",
-    "type_line": "Sorcery",
-    "oracle_text": "Target player draws X cards.",
     "power": null,
     "toughness": null,
     "loyalty": null
@@ -2769,38 +2643,6 @@
   "section": "Blue"
  },
  {
-  "name": "Daughter of the Deep",
-  "oracle_id": "63e0f03f-16da-4c09-ad03-8945f660942d",
-  "mana_cost": "{1}{U}",
-  "cmc": 2.0,
-  "type_line": "Creature — Merfolk Noble",
-  "oracle_text": "Whenever you draw your second card each turn, create a 1/1 blue Merfolk creature token.\n{U}, {T}: Target Merfolk can't be blocked this turn.",
-  "power": "2",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [
-   "U"
-  ],
-  "color_identity": [
-   "U"
-  ],
-  "layout": "normal",
-  "set": "msc",
-  "set_name": "Marvel Super Heroes Commander",
-  "collector_number": "618",
-  "rarity": "uncommon",
-  "released_at": "2026-06-26",
-  "eligibility": "new card in supplemental product",
-  "printed_in_2026": [
-   "msc"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/1/9/19e0d68e-7972-4c2a-af4d-8c77c67a8f2e.jpg?1783903076",
-  "image_small": "https://cards.scryfall.io/small/front/1/9/19e0d68e-7972-4c2a-af4d-8c77c67a8f2e.jpg?1783903076",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msc/618/daughter-of-the-deep?utm_source=api",
-  "section": "Blue"
- },
- {
   "name": "Chandra, Chill of Compliance",
   "oracle_id": "c3dfa1e2-6785-49a0-a194-fb842a8eb63c",
   "mana_cost": "{1}{U}{U}",
@@ -3027,58 +2869,6 @@
   "section": "Blue"
  },
  {
-  "name": "Most Decrepit Old Bird // Speak Secrets",
-  "oracle_id": "34d34f2c-06ff-4acf-8f2f-ff867774b777",
-  "mana_cost": "{U} // {1}{U}",
-  "cmc": 1.0,
-  "type_line": "Creature — Bird // Sorcery — Adventure",
-  "oracle_text": "Flying\nThreshold — This creature gets +1/+1 as long as there are seven or more cards in your graveyard.\n//\nMill four cards, then put an instant or sorcery card from among them into your hand.",
-  "power": "1",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [
-   "U"
-  ],
-  "color_identity": [
-   "U"
-  ],
-  "layout": "adventure",
-  "set": "hob",
-  "set_name": "The Hobbit",
-  "collector_number": "49",
-  "rarity": "rare",
-  "released_at": "2026-08-14",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "hob"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/2/d/2d838feb-89f2-4cdb-a5ab-ec880f28d873.jpg?1785236659",
-  "image_small": "https://cards.scryfall.io/small/front/2/d/2d838feb-89f2-4cdb-a5ab-ec880f28d873.jpg?1785236659",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/hob/49/most-decrepit-old-bird-speak-secrets?utm_source=api",
-  "faces": [
-   {
-    "name": "Most Decrepit Old Bird",
-    "mana_cost": "{U}",
-    "type_line": "Creature — Bird",
-    "oracle_text": "Flying\nThreshold — This creature gets +1/+1 as long as there are seven or more cards in your graveyard.",
-    "power": "1",
-    "toughness": "1",
-    "loyalty": null
-   },
-   {
-    "name": "Speak Secrets",
-    "mana_cost": "{1}{U}",
-    "type_line": "Sorcery — Adventure",
-    "oracle_text": "Mill four cards, then put an instant or sorcery card from among them into your hand.",
-    "power": null,
-    "toughness": null,
-    "loyalty": null
-   }
-  ],
-  "section": "Blue"
- },
- {
   "name": "Omni-Changeling",
   "oracle_id": "66d4370e-19b9-4680-9b1e-a192537bc002",
   "mana_cost": "{3}{U}{U}",
@@ -3207,12 +2997,97 @@
   "section": "Blue"
  },
  {
-  "name": "Energize",
-  "oracle_id": "275257ea-3c72-4ca9-b2fc-e50efa071bdb",
-  "mana_cost": "{1}{U}",
-  "cmc": 2.0,
-  "type_line": "Sorcery",
-  "oracle_text": "Return target creature an opponent controls to its owner's hand.\nBeam me up {3}{U} (You may cast this card from your graveyard for {3}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)",
+  "name": "Leader, Super-Genius",
+  "oracle_id": "bec686dd-a9ea-4db5-bc20-8e40420b9a9b",
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Gamma Scientist Villain",
+  "oracle_text": "If a creature you control would connive, instead you draw a card, then that creature connives.\nAt the beginning of combat on your turn, target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)",
+  "power": "1",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "layout": "normal",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "64",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "msh"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/2/c/2c8aab8d-2dfe-49c8-9aa8-536b0587b467.jpg?1783902955",
+  "image_small": "https://cards.scryfall.io/small/front/2/c/2c8aab8d-2dfe-49c8-9aa8-536b0587b467.jpg?1783902955",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/64/leader-super-genius?utm_source=api",
+  "section": "Blue"
+ },
+ {
+  "name": "Jadzi, Steward of Fate // Oracle's Gift",
+  "oracle_id": "c63b3511-d597-4c6e-9094-eabdeaa8a394",
+  "mana_cost": "{2}{U} // {X}{X}{U}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Wizard // Sorcery",
+  "oracle_text": "Jadzi enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\nWhen Jadzi enters, draw two cards, then discard two cards.\n//\nCreate X 0/0 green and blue Fractal creature tokens, then put X +1/+1 counters on each Fractal you control.",
+  "power": "2",
+  "toughness": "4",
+  "loyalty": null,
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "layout": "prepare",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "55",
+  "rarity": "rare",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "psos",
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/a/9/a95b6baf-01e6-49c3-9a26-394b127d53c3.jpg?1783903689",
+  "image_small": "https://cards.scryfall.io/small/front/a/9/a95b6baf-01e6-49c3-9a26-394b127d53c3.jpg?1783903689",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/55/jadzi-steward-of-fate-oracles-gift?utm_source=api",
+  "faces": [
+   {
+    "name": "Jadzi, Steward of Fate",
+    "mana_cost": "{2}{U}",
+    "type_line": "Legendary Creature — Human Wizard",
+    "oracle_text": "Jadzi enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\nWhen Jadzi enters, draw two cards, then discard two cards.",
+    "power": "2",
+    "toughness": "4",
+    "loyalty": null
+   },
+   {
+    "name": "Oracle's Gift",
+    "mana_cost": "{X}{X}{U}",
+    "type_line": "Sorcery",
+    "oracle_text": "Create X 0/0 green and blue Fractal creature tokens, then put X +1/+1 counters on each Fractal you control.",
+    "power": null,
+    "toughness": null,
+    "loyalty": null
+   }
+  ],
+  "section": "Blue"
+ },
+ {
+  "name": "Retro-Mutation",
+  "oracle_id": "d8b5de6d-8654-4550-bccb-79de6cbef4d5",
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Flash\nEnchant creature\nEnchanted creature is a Turtle with base power and toughness 0/1. It can't attack and loses all abilities. (It also loses all other creature types.)",
   "power": null,
   "toughness": null,
   "loyalty": null,
@@ -3223,19 +3098,181 @@
    "U"
   ],
   "layout": "normal",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "51",
+  "rarity": "common",
+  "released_at": "2026-03-06",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "tmt"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/4/a/4af284ba-fa54-43c5-8c76-3e1128957452.jpg?1783904112",
+  "image_small": "https://cards.scryfall.io/small/front/4/a/4af284ba-fa54-43c5-8c76-3e1128957452.jpg?1783904112",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/tmt/51/retro-mutation?utm_source=api",
+  "section": "Blue"
+ },
+ {
+  "name": "Subcommander T'Pol",
+  "oracle_id": "e6973668-4ea7-4920-82a5-73abfc1c9fd5",
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Vulcan Scientist",
+  "oracle_text": "Flash\nWhen Subcommander T'Pol enters, choose one —\n• Counter target activated or triggered ability.\n• Tap up to one target artifact or creature. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+  "power": "3",
+  "toughness": "1",
+  "loyalty": null,
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "layout": "normal",
   "set": "trk",
   "set_name": "Star Trek",
-  "collector_number": "56",
-  "rarity": "uncommon",
+  "collector_number": "82",
+  "rarity": "rare",
   "released_at": "2026-11-13",
   "eligibility": "main-set printing",
   "printed_in_2026": [
    "trk"
   ],
-  "image": "https://cards.scryfall.io/normal/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.jpg?1792668391",
-  "image_small": "https://cards.scryfall.io/small/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.jpg?1792668391",
+  "image": "https://cards.scryfall.io/normal/front/7/d/7d90016d-c2cb-457b-9d97-c3b9411c46e3.jpg?1793013074",
+  "image_small": "https://cards.scryfall.io/small/front/7/d/7d90016d-c2cb-457b-9d97-c3b9411c46e3.jpg?1793013074",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/trk/56/energize?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/trk/82/subcommander-tpol?utm_source=api",
+  "section": "Blue"
+ },
+ {
+  "name": "Giant Space Amoeba",
+  "oracle_id": "ff9f3d23-a12f-428b-8001-90dafac0c6d7",
+  "mana_cost": "{4}{U}",
+  "cmc": 5.0,
+  "type_line": "Creature — Germ",
+  "oracle_text": "Flying\nWhenever this creature attacks, target creature defending player controls gets -3/-0 until end of turn, then create a token that's a copy of this creature.",
+  "power": "3",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "layout": "normal",
+  "set": "trc",
+  "set_name": "Star Trek Commander",
+  "collector_number": "43",
+  "rarity": "rare",
+  "released_at": "2026-11-13",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "trc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/9/2/92791a77-c508-4411-8d5d-abc5c9f881a2.jpg?1793281203",
+  "image_small": "https://cards.scryfall.io/small/front/9/2/92791a77-c508-4411-8d5d-abc5c9f881a2.jpg?1793281203",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/trc/43/giant-space-amoeba?utm_source=api",
+  "section": "Blue"
+ },
+ {
+  "name": "Glen Elendra's Answer",
+  "oracle_id": "11ed8209-2184-4416-a8f0-72de00599574",
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "oracle_text": "This spell can't be countered.\nCounter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "layout": "normal",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "52",
+  "rarity": "mythic",
+  "released_at": "2026-01-23",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "ecl",
+   "pecl"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/f/a/fa5bfbf9-dca2-42b7-a431-f9afedb54528.jpg?1783904490",
+  "image_small": "https://cards.scryfall.io/small/front/f/a/fa5bfbf9-dca2-42b7-a431-f9afedb54528.jpg?1783904490",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/ecl/52/glen-elendras-answer?utm_source=api",
+  "section": "Blue"
+ },
+ {
+  "name": "Theorist's Proxy",
+  "oracle_id": "0089acfe-da66-4dd7-b1e5-4d7407f58257",
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Creature — Illusion",
+  "oracle_text": "Flash\nWhen this creature enters, empower Jace 3. (Put three loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\n{U}, Sacrifice this creature: The next spell you cast this turn can't be countered.",
+  "power": "0",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "layout": "normal",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "44",
+  "rarity": "rare",
+  "released_at": "2026-10-02",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "fra",
+   "pfra"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/7/1/710302ca-c4be-4069-8ce1-f531414c74e9.jpg?1788878151",
+  "image_small": "https://cards.scryfall.io/small/front/7/1/710302ca-c4be-4069-8ce1-f531414c74e9.jpg?1788878151",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/fra/44/theorists-proxy?utm_source=api",
+  "section": "Blue"
+ },
+ {
+  "name": "Renet, Temporal Apprentice",
+  "oracle_id": "6c754808-86a6-43d3-8aeb-96ec19f7396c",
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "Flash\nWhen Renet enters, return each other nonland permanent that entered this turn to its owner's hand.",
+  "power": "4",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "layout": "normal",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "50",
+  "rarity": "rare",
+  "released_at": "2026-03-06",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "tmt"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/2/a/2ae30766-c858-4f4e-a042-14af55698cb2.jpg?1783904111",
+  "image_small": "https://cards.scryfall.io/small/front/2/a/2ae30766-c858-4f4e-a042-14af55698cb2.jpg?1783904111",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/tmt/50/renet-temporal-apprentice?utm_source=api",
   "section": "Blue"
  },
  {
@@ -3365,38 +3402,6 @@
   "image_small": "https://cards.scryfall.io/small/front/2/e/2e4f2148-d398-4f3d-9c59-81c87b6a4588.jpg?1783904108",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/tmt/61/death-in-the-family?utm_source=api",
-  "section": "Black"
- },
- {
-  "name": "Nameless Inversion",
-  "oracle_id": "d6911456-42cb-4b23-a560-dc98784530f5",
-  "mana_cost": "{1}{B}",
-  "cmc": 2.0,
-  "type_line": "Kindred Instant — Shapeshifter",
-  "oracle_text": "Changeling (This card is every creature type.)\nTarget creature gets +3/-3 and loses all creature types until end of turn.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [
-   "B"
-  ],
-  "color_identity": [
-   "B"
-  ],
-  "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "113",
-  "rarity": "uncommon",
-  "released_at": "2026-01-23",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "ecl"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/7/a/7a4944ac-839e-4aa1-8200-78cff36bb2ed.jpg?1783904457",
-  "image_small": "https://cards.scryfall.io/small/front/7/a/7a4944ac-839e-4aa1-8200-78cff36bb2ed.jpg?1783904457",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/113/nameless-inversion?utm_source=api",
   "section": "Black"
  },
  {
@@ -3863,58 +3868,6 @@
     "mana_cost": "{X}{B}{B}",
     "type_line": "Sorcery",
     "oracle_text": "Each opponent loses X life. You gain life equal to the life lost this way.",
-    "power": null,
-    "toughness": null,
-    "loyalty": null
-   }
-  ],
-  "section": "Black"
- },
- {
-  "name": "Cheerful Osteomancer // Raise Dead",
-  "oracle_id": "fd01229f-1c4c-4ad1-bc6f-4023f24d8c71",
-  "mana_cost": "{3}{B} // {B}",
-  "cmc": 4.0,
-  "type_line": "Creature — Orc Warlock // Sorcery",
-  "oracle_text": "This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\n//\nReturn target creature card from your graveyard to your hand.",
-  "power": "4",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "B"
-  ],
-  "color_identity": [
-   "B"
-  ],
-  "layout": "prepare",
-  "set": "sos",
-  "set_name": "Secrets of Strixhaven",
-  "collector_number": "76",
-  "rarity": "common",
-  "released_at": "2026-04-24",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "sos"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/3/c/3c34660c-25e3-4ff5-9b2b-5554ded2bcc3.jpg?1783903683",
-  "image_small": "https://cards.scryfall.io/small/front/3/c/3c34660c-25e3-4ff5-9b2b-5554ded2bcc3.jpg?1783903683",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/sos/76/cheerful-osteomancer-raise-dead?utm_source=api",
-  "faces": [
-   {
-    "name": "Cheerful Osteomancer",
-    "mana_cost": "{3}{B}",
-    "type_line": "Creature — Orc Warlock",
-    "oracle_text": "This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
-    "power": "4",
-    "toughness": "2",
-    "loyalty": null
-   },
-   {
-    "name": "Raise Dead",
-    "mana_cost": "{B}",
-    "type_line": "Sorcery",
-    "oracle_text": "Return target creature card from your graveyard to your hand.",
     "power": null,
     "toughness": null,
     "loyalty": null
@@ -4502,38 +4455,6 @@
   "section": "Black"
  },
  {
-  "name": "Armaggon, Future Shark",
-  "oracle_id": "e2a35850-92c5-40ab-8697-2e995819d7ac",
-  "mana_cost": "{6}{B}{B}",
-  "cmc": 8.0,
-  "type_line": "Legendary Creature — Shark Horror Mutant",
-  "oracle_text": "Flash\nWhen Armaggon enters, destroy up to three target creatures.",
-  "power": "9",
-  "toughness": "6",
-  "loyalty": null,
-  "colors": [
-   "B"
-  ],
-  "color_identity": [
-   "B"
-  ],
-  "layout": "normal",
-  "set": "tmt",
-  "set_name": "Teenage Mutant Ninja Turtles",
-  "collector_number": "58",
-  "rarity": "rare",
-  "released_at": "2026-03-06",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "tmt"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/5/9/5989378b-0eac-43cf-bc83-8f7765536789.jpg?1783904109",
-  "image_small": "https://cards.scryfall.io/small/front/5/9/5989378b-0eac-43cf-bc83-8f7765536789.jpg?1783904109",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/tmt/58/armaggon-future-shark?utm_source=api",
-  "section": "Black"
- },
- {
   "name": "Too Evil to Stay Dead",
   "oracle_id": "e50fecff-8872-42f5-8882-41ad13d9d1ae",
   "mana_cost": "{2}{B}",
@@ -4598,70 +4519,6 @@
   "section": "Black"
  },
  {
-  "name": "Construct a Cosmic Cube",
-  "oracle_id": "369aa9a6-af8a-432c-adff-ced2bb203dc7",
-  "mana_cost": "{2}{B}",
-  "cmc": 3.0,
-  "type_line": "Enchantment — Plan",
-  "oracle_text": "Whenever you draw your second card each turn, create a 2/1 black Villain creature token with menace and put a plan counter on this enchantment.\nWhen the seventh plan counter is put on this enchantment, sacrifice it. When you do, you control target opponent during their next turn. (You see all cards that player could see and make all decisions for them.)",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [
-   "B"
-  ],
-  "color_identity": [
-   "B"
-  ],
-  "layout": "normal",
-  "set": "msh",
-  "set_name": "Marvel Super Heroes",
-  "collector_number": "90",
-  "rarity": "rare",
-  "released_at": "2026-06-26",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "msh"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/4/4/448de757-ac16-4529-b851-1a1331b821a5.jpg?1783902946",
-  "image_small": "https://cards.scryfall.io/small/front/4/4/448de757-ac16-4529-b851-1a1331b821a5.jpg?1783902946",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msh/90/construct-a-cosmic-cube?utm_source=api",
-  "section": "Black"
- },
- {
-  "name": "Madame Masque",
-  "oracle_id": "b5b0e85f-6651-4667-829c-2253ff8b130d",
-  "mana_cost": "{4}{B}",
-  "cmc": 5.0,
-  "type_line": "Legendary Creature — Human Villain",
-  "oracle_text": "When Madame Masque enters, she connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)\nWhenever you draw your second card each turn, create a 2/1 black Villain creature token with menace. (It can't be blocked except by two or more creatures.)",
-  "power": "3",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "B"
-  ],
-  "color_identity": [
-   "B"
-  ],
-  "layout": "normal",
-  "set": "msh",
-  "set_name": "Marvel Super Heroes",
-  "collector_number": "104",
-  "rarity": "uncommon",
-  "released_at": "2026-06-26",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "msh"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/f/5/f54197b8-6279-43ee-9340-69bd22cf3775.jpg?1783902943",
-  "image_small": "https://cards.scryfall.io/small/front/f/5/f54197b8-6279-43ee-9340-69bd22cf3775.jpg?1783902943",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msh/104/madame-masque?utm_source=api",
-  "section": "Black"
- },
- {
   "name": "Moonshadow",
   "oracle_id": "a3635b3f-839c-4fe5-83a5-7c70e8630184",
   "mana_cost": "{B}",
@@ -4692,38 +4549,6 @@
   "image_small": "https://cards.scryfall.io/small/front/2/5/2573e694-eaa0-42ca-b470-2ab507cbcec1.jpg?1783904461",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/ecl/110/moonshadow?utm_source=api",
-  "section": "Black"
- },
- {
-  "name": "Retched Wretch",
-  "oracle_id": "0d3b6e27-2f8b-42e0-9490-7b134e84bb6b",
-  "mana_cost": "{2}{B}",
-  "cmc": 3.0,
-  "type_line": "Creature — Goblin",
-  "oracle_text": "When this creature dies, if it had a -1/-1 counter on it, return it to the battlefield under its owner's control and it loses all abilities.",
-  "power": "4",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "B"
-  ],
-  "color_identity": [
-   "B"
-  ],
-  "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "117",
-  "rarity": "uncommon",
-  "released_at": "2026-01-23",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "ecl"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/c/7/c7a4d7f1-976a-4a28-97a9-ff089a241c9d.jpg?1783904456",
-  "image_small": "https://cards.scryfall.io/small/front/c/7/c7a4d7f1-976a-4a28-97a9-ff089a241c9d.jpg?1783904456",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/117/retched-wretch?utm_source=api",
   "section": "Black"
  },
  {
@@ -4791,38 +4616,6 @@
   "section": "Black"
  },
  {
-  "name": "Creakwood Safewright",
-  "oracle_id": "f9b7bbea-ea20-400b-a5b7-4d6993d8777b",
-  "mana_cost": "{1}{B}",
-  "cmc": 2.0,
-  "type_line": "Creature — Elf Warrior",
-  "oracle_text": "This creature enters with three -1/-1 counters on it.\nAt the beginning of your end step, if there is an Elf card in your graveyard and this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",
-  "power": "5",
-  "toughness": "5",
-  "loyalty": null,
-  "colors": [
-   "B"
-  ],
-  "color_identity": [
-   "B"
-  ],
-  "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "96",
-  "rarity": "uncommon",
-  "released_at": "2026-01-23",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "ecl"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/3/b/3bcc24cf-776a-4182-bf77-a611ad90b28f.jpg?1783904467",
-  "image_small": "https://cards.scryfall.io/small/front/3/b/3bcc24cf-776a-4182-bf77-a611ad90b28f.jpg?1783904467",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/96/creakwood-safewright?utm_source=api",
-  "section": "Black"
- },
- {
   "name": "Lamentation",
   "oracle_id": "88e43e62-8bce-41b3-ac2d-47043fcc7077",
   "mana_cost": "{5}{B}",
@@ -4852,6 +4645,231 @@
   "image_small": "https://cards.scryfall.io/small/front/2/d/2dbc775a-ec2b-442f-a817-4108c05d7fab.jpg?1783904605",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/ecc/10/lamentation?utm_source=api",
+  "section": "Black"
+ },
+ {
+  "name": "Decorum Dissertation",
+  "oracle_id": "f4c57454-d36f-4f38-b7ac-76477a516c3e",
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5.0,
+  "type_line": "Sorcery — Lesson",
+  "oracle_text": "Target player draws two cards and loses 2 life.\nParadigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "layout": "normal",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "78",
+  "rarity": "mythic",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "psos",
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/f/4/f4ab2d9b-c73d-478d-aac7-4d3bb24296d2.jpg?1783903683",
+  "image_small": "https://cards.scryfall.io/small/front/f/4/f4ab2d9b-c73d-478d-aac7-4d3bb24296d2.jpg?1783903683",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/78/decorum-dissertation?utm_source=api",
+  "section": "Black"
+ },
+ {
+  "name": "Blight Rot",
+  "oracle_id": "cf5b1cf9-dcd3-44d1-b8b2-338651ebb2a1",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Put four -1/-1 counters on target creature.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "layout": "normal",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "89",
+  "rarity": "common",
+  "released_at": "2026-01-23",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "ecl"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/5/2/5201bdeb-ba47-459b-ac0d-603367914578.jpg?1783904470",
+  "image_small": "https://cards.scryfall.io/small/front/5/2/5201bdeb-ba47-459b-ac0d-603367914578.jpg?1783904470",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/ecl/89/blight-rot?utm_source=api",
+  "section": "Black"
+ },
+ {
+  "name": "Kurn, Son of Mogh",
+  "oracle_id": "2a078705-4afe-4887-94cc-f12f4690fb01",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Klingon Warrior Officer",
+  "oracle_text": "Deathtouch\nBattlefront — Whenever Kurn attacks, you draw X cards and lose X life, where X is the number of opponents you attacked this turn.",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "layout": "normal",
+  "set": "trc",
+  "set_name": "Star Trek Commander",
+  "collector_number": "60",
+  "rarity": "rare",
+  "released_at": "2026-11-13",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "trc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/0/3/03fcc84d-45cc-4894-ab35-6d5a799b21ef.jpg?1793196909",
+  "image_small": "https://cards.scryfall.io/small/front/0/3/03fcc84d-45cc-4894-ab35-6d5a799b21ef.jpg?1793196909",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/trc/60/kurn-son-of-mogh?utm_source=api",
+  "section": "Black"
+ },
+ {
+  "name": "Kingpin's Enforcers",
+  "oracle_id": "342df67f-44d8-4b0a-b1d7-4241966d0598",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Human Villain",
+  "oracle_text": "Lifelink\n{2}{B}, Sacrifice an artifact or creature: Draw a card.",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "layout": "normal",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "102",
+  "rarity": "common",
+  "released_at": "2026-06-26",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "msh"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/6/4/64056edb-6de2-4694-b771-f35542c25771.jpg?1783902942",
+  "image_small": "https://cards.scryfall.io/small/front/6/4/64056edb-6de2-4694-b771-f35542c25771.jpg?1783902942",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msh/102/kingpins-enforcers?utm_source=api",
+  "section": "Black"
+ },
+ {
+  "name": "Gollum, Riddle Master",
+  "oracle_id": "514b451b-814d-45fb-a2ba-8fe6f0bdad60",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Halfling Horror",
+  "oracle_text": "As Gollum enters, choose odd or even. (Zero is even.)\nWhenever an opponent casts a spell with mana value of the chosen quality, choose one that hasn't been chosen —\n• Put a +1/+1 counter on Gollum.\n• Each opponent loses 2 life and you gain 2 life.\n• Draw a card.",
+  "power": "3",
+  "toughness": "1",
+  "loyalty": null,
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "layout": "normal",
+  "set": "hob",
+  "set_name": "The Hobbit",
+  "collector_number": "70",
+  "rarity": "mythic",
+  "released_at": "2026-08-14",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "hob"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/b/b/bbdc7e37-c65a-497a-92b7-a30a6e369c71.jpg?1784376959",
+  "image_small": "https://cards.scryfall.io/small/front/b/b/bbdc7e37-c65a-497a-92b7-a30a6e369c71.jpg?1784376959",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/hob/70/gollum-riddle-master?utm_source=api",
+  "section": "Black"
+ },
+ {
+  "name": "Heirloom Auntie",
+  "oracle_id": "cc9523da-f48e-49ab-9989-a4031dafb426",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Goblin Warlock",
+  "oracle_text": "This creature enters with two -1/-1 counters on it.\nWhenever another creature you control dies, surveil 1, then remove a -1/-1 counter from this creature. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "layout": "normal",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "107",
+  "rarity": "common",
+  "released_at": "2026-01-23",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "ecl"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/c/a/cac251b2-d2cc-45b6-9ca8-678e0eab56ea.jpg?1783904466",
+  "image_small": "https://cards.scryfall.io/small/front/c/a/cac251b2-d2cc-45b6-9ca8-678e0eab56ea.jpg?1783904466",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/ecl/107/heirloom-auntie?utm_source=api",
+  "section": "Black"
+ },
+ {
+  "name": "Requiting Hex",
+  "oracle_id": "eda16b31-33db-4ad2-901a-80fbe6273733",
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "As an additional cost to cast this spell, you may blight 1. (You may put a -1/-1 counter on a creature you control.)\nDestroy target creature with mana value 2 or less. If this spell's additional cost was paid, you gain 2 life.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "layout": "normal",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "116",
+  "rarity": "uncommon",
+  "released_at": "2026-01-23",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "ecl"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/f/2/f21b0fb7-91b6-403f-a81a-562665961276.jpg?1783904457",
+  "image_small": "https://cards.scryfall.io/small/front/f/2/f21b0fb7-91b6-403f-a81a-562665961276.jpg?1783904457",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/ecl/116/requiting-hex?utm_source=api",
   "section": "Black"
  },
  {
@@ -5165,38 +5183,6 @@
   "section": "Red"
  },
  {
-  "name": "Snowslope Hunter",
-  "oracle_id": "fdf7f144-56e4-4f88-b81a-b85473922355",
-  "mana_cost": "{2}{R}",
-  "cmc": 3.0,
-  "type_line": "Creature — Goblin Ranger",
-  "oracle_text": "Sacrifice another creature or artifact: Exile the top card of your library. You may play it until the end of your next turn. Activate only during your turn and only once each turn.",
-  "power": "2",
-  "toughness": "3",
-  "loyalty": null,
-  "colors": [
-   "R"
-  ],
-  "color_identity": [
-   "R"
-  ],
-  "layout": "normal",
-  "set": "hob",
-  "set_name": "The Hobbit",
-  "collector_number": "112",
-  "rarity": "uncommon",
-  "released_at": "2026-08-14",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "hob"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/4/7/47666099-ffb2-4d07-a801-70524dba0837.jpg?1785497147",
-  "image_small": "https://cards.scryfall.io/small/front/4/7/47666099-ffb2-4d07-a801-70524dba0837.jpg?1785497147",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/hob/112/snowslope-hunter?utm_source=api",
-  "section": "Red"
- },
- {
   "name": "Cinder Strike",
   "oracle_id": "54421e69-d79e-4c2e-8ce6-96994d168835",
   "mana_cost": "{R}",
@@ -5322,91 +5308,6 @@
   "image_small": "https://cards.scryfall.io/small/front/e/0/e0c7f566-5351-44e3-a346-b84b0eb10209.jpg?1783902926",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/msh/146/mj%C3%B6lnir-hammer-of-thor?utm_source=api",
-  "section": "Red"
- },
- {
-  "name": "Quicksilver, Brash Blur",
-  "oracle_id": "b76ce131-e51a-445e-8216-00df5904ab93",
-  "mana_cost": "{R}",
-  "cmc": 1.0,
-  "type_line": "Legendary Creature — Mutant Hero",
-  "oracle_text": "If Quicksilver, Brash Blur is in your opening hand, you may begin the game with him on the battlefield.\nHaste\nPower-up — {4}{R}: Put a +1/+1 counter and a double strike counter on Quicksilver. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.)",
-  "power": "1",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [
-   "R"
-  ],
-  "color_identity": [
-   "R"
-  ],
-  "layout": "normal",
-  "set": "msh",
-  "set_name": "Marvel Super Heroes",
-  "collector_number": "148",
-  "rarity": "rare",
-  "released_at": "2026-06-26",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "msh"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/2/d/2d5819ca-165d-4f4c-9500-3ac206994880.jpg?1783902925",
-  "image_small": "https://cards.scryfall.io/small/front/2/d/2d5819ca-165d-4f4c-9500-3ac206994880.jpg?1783902925",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msh/148/quicksilver-brash-blur?utm_source=api",
-  "section": "Red"
- },
- {
-  "name": "Pompous Battlemage // Improvised Act",
-  "oracle_id": "33e3793c-098f-4897-88f3-9f9ce9081e0f",
-  "mana_cost": "{R} // {R}",
-  "cmc": 1.0,
-  "type_line": "Creature — Goblin Sorcerer // Sorcery",
-  "oracle_text": "Prowess\nThis creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\n//\nYou may discard a card. If you do, draw a card.",
-  "power": "1",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [
-   "R"
-  ],
-  "color_identity": [
-   "R"
-  ],
-  "layout": "prepare",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "90",
-  "rarity": "rare",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra",
-   "pfra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/a/a/aa0f77ac-741a-444a-8bf0-a42c644726bf.jpg?1788878186",
-  "image_small": "https://cards.scryfall.io/small/front/a/a/aa0f77ac-741a-444a-8bf0-a42c644726bf.jpg?1788878186",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/90/pompous-battlemage-improvised-act?utm_source=api",
-  "faces": [
-   {
-    "name": "Pompous Battlemage",
-    "mana_cost": "{R}",
-    "type_line": "Creature — Goblin Sorcerer",
-    "oracle_text": "Prowess\nThis creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
-    "power": "1",
-    "toughness": "1",
-    "loyalty": null
-   },
-   {
-    "name": "Improvised Act",
-    "mana_cost": "{R}",
-    "type_line": "Sorcery",
-    "oracle_text": "You may discard a card. If you do, draw a card.",
-    "power": null,
-    "toughness": null,
-    "loyalty": null
-   }
-  ],
   "section": "Red"
  },
  {
@@ -5714,59 +5615,6 @@
     "mana_cost": "{1}{R}",
     "type_line": "Sorcery",
     "oracle_text": "Destroy target nonbasic land.",
-    "power": null,
-    "toughness": null,
-    "loyalty": null
-   }
-  ],
-  "section": "Red"
- },
- {
-  "name": "Pyre Rhymer // Molten Tide",
-  "oracle_id": "8940f503-fc6d-4fae-be74-22c660cae1a7",
-  "mana_cost": "{1}{R}{R} // {R}",
-  "cmc": 3.0,
-  "type_line": "Creature — Elemental Sorcerer // Instant",
-  "oracle_text": "Prowess\nThis creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)\n//\nUntil end of turn, whenever you tap a Mountain for mana, add an additional {R}.",
-  "power": "3",
-  "toughness": "3",
-  "loyalty": null,
-  "colors": [
-   "R"
-  ],
-  "color_identity": [
-   "R"
-  ],
-  "layout": "prepare",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "91",
-  "rarity": "rare",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra",
-   "pfra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/2/b/2b0ebea0-86de-4da4-9fe8-dacc1e75c161.jpg?1789470850",
-  "image_small": "https://cards.scryfall.io/small/front/2/b/2b0ebea0-86de-4da4-9fe8-dacc1e75c161.jpg?1789470850",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/91/pyre-rhymer-molten-tide?utm_source=api",
-  "faces": [
-   {
-    "name": "Pyre Rhymer",
-    "mana_cost": "{1}{R}{R}",
-    "type_line": "Creature — Elemental Sorcerer",
-    "oracle_text": "Prowess\nThis creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)",
-    "power": "3",
-    "toughness": "3",
-    "loyalty": null
-   },
-   {
-    "name": "Molten Tide",
-    "mana_cost": "{R}",
-    "type_line": "Instant",
-    "oracle_text": "Until end of turn, whenever you tap a Mountain for mana, add an additional {R}.",
     "power": null,
     "toughness": null,
     "loyalty": null
@@ -6184,38 +6032,6 @@
   "section": "Red"
  },
  {
-  "name": "Kiora of Fire and Ashes",
-  "oracle_id": "02b41d0e-82e7-4307-8cc4-8175ff78ea1f",
-  "mana_cost": "{4}{R}{R}",
-  "cmc": 6.0,
-  "type_line": "Legendary Creature — Merfolk Noble",
-  "oracle_text": "When Kiora enters, create a 5/5 red Dragon creature token with flying.\n{8}: Create a 5/5 red Dragon creature token with flying.",
-  "power": "2",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "R"
-  ],
-  "color_identity": [
-   "R"
-  ],
-  "layout": "normal",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "247",
-  "rarity": "uncommon",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.jpg?1789127995",
-  "image_small": "https://cards.scryfall.io/small/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.jpg?1789127995",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/247/kiora-of-fire-and-ashes?utm_source=api",
-  "section": "Red"
- },
- {
   "name": "The Vision and Scarlet Witch",
   "oracle_id": "33219792-f0a7-4849-bfca-70ee2d410b9e",
   "mana_cost": "{2}{R}{R}",
@@ -6490,6 +6306,231 @@
     "loyalty": null
    }
   ],
+  "section": "Red"
+ },
+ {
+  "name": "Thor, Asgard's Avenger",
+  "oracle_id": "44c2fefb-5de3-4406-955a-3fabc46357d0",
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — God Warrior Hero",
+  "oracle_text": "Flying\nIf another source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "colors": [
+   "R"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "756",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/3/5/3513c041-7147-467d-845d-3d1c83fb3328.jpg?1783903026",
+  "image_small": "https://cards.scryfall.io/small/front/3/5/3513c041-7147-467d-845d-3d1c83fb3328.jpg?1783903026",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/756/thor-asgards-avenger?utm_source=api",
+  "section": "Red"
+ },
+ {
+  "name": "Slash, Reptile Rampager",
+  "oracle_id": "8abff7b5-fe27-46bd-b951-b5d9f93f3a14",
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Mutant Berserker Turtle",
+  "oracle_text": "Alliance — Whenever another creature you control enters, Slash deals 2 damage to each opponent.\nWhenever Slash attacks, create a 2/2 red Mutant creature token.",
+  "power": "7",
+  "toughness": "5",
+  "loyalty": null,
+  "colors": [
+   "R"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "layout": "normal",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "108",
+  "rarity": "rare",
+  "released_at": "2026-03-06",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "tmt"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/0/2/025aafbc-5b24-4f5b-9b4a-81f6b9cb5ef3.jpg?1783904093",
+  "image_small": "https://cards.scryfall.io/small/front/0/2/025aafbc-5b24-4f5b-9b4a-81f6b9cb5ef3.jpg?1783904093",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/tmt/108/slash-reptile-rampager?utm_source=api",
+  "section": "Red"
+ },
+ {
+  "name": "Soul Immolation",
+  "oracle_id": "338747e8-bed8-4e60-8b19-5c2b80799477",
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "As an additional cost to cast this spell, blight X. X can't be greater than the greatest toughness among creatures you control. (Put X -1/-1 counters on a creature you control.)\nSoul Immolation deals X damage to each opponent and each creature they control.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "R"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "layout": "normal",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "156",
+  "rarity": "mythic",
+  "released_at": "2026-01-23",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "ecl",
+   "pecl"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/2/3/234b70df-8c34-4da7-946e-b8b55a8df390.jpg?1783904438",
+  "image_small": "https://cards.scryfall.io/small/front/2/3/234b70df-8c34-4da7-946e-b8b55a8df390.jpg?1783904438",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/ecl/156/soul-immolation?utm_source=api",
+  "section": "Red"
+ },
+ {
+  "name": "Jack of Hearts, Volatile Hero",
+  "oracle_id": "25b30117-03ef-49a5-8743-2d1c167d4bc3",
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Alien Human Hero",
+  "oracle_text": "Flying, haste\nWhen Jack of Hearts dies, he deals damage equal to his power to each creature.\nPower-up — {4}{R}{R}: Discard your hand, then draw three cards. Put two +1/+1 counters on Jack of Hearts. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.)",
+  "power": "2",
+  "toughness": "2",
+  "loyalty": null,
+  "colors": [
+   "R"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "693",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/7/8/7882b42b-d88f-48fe-9b30-cfb338accadb.jpg?1783903047",
+  "image_small": "https://cards.scryfall.io/small/front/7/8/7882b42b-d88f-48fe-9b30-cfb338accadb.jpg?1783903047",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/693/jack-of-hearts-volatile-hero?utm_source=api",
+  "section": "Red"
+ },
+ {
+  "name": "Spider-Man, Web-Spinner",
+  "oracle_id": "d586ef58-ca9e-4c6d-94d6-3b8d782b11e1",
+  "mana_cost": "{3}{R}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Spider Human Hero",
+  "oracle_text": "Double strike (This creature deals both first-strike and regular combat damage.)\nHaste (This creature can attack and {T} as soon as he comes under your control.)\nWhenever Spider-Man attacks, target creature can't block this turn.",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "R"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "832",
+  "rarity": "mythic",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/a/c/acf20da5-e460-4191-ad68-eae398bb7c5d.jpg?1783902999",
+  "image_small": "https://cards.scryfall.io/small/front/a/c/acf20da5-e460-4191-ad68-eae398bb7c5d.jpg?1783902999",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/832/spider-man-web-spinner?utm_source=api",
+  "section": "Red"
+ },
+ {
+  "name": "Explosive Prodigy",
+  "oracle_id": "22d059fc-4e47-44b5-9e21-4a56f1dff6a7",
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Creature — Elemental Sorcerer",
+  "oracle_text": "Vivid — When this creature enters, it deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.",
+  "power": "1",
+  "toughness": "1",
+  "loyalty": null,
+  "colors": [
+   "R"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "layout": "normal",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "136",
+  "rarity": "uncommon",
+  "released_at": "2026-01-23",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "ecl"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/5/5/5515ea5e-ce28-4938-a31e-5e48522a5f93.jpg?1783904448",
+  "image_small": "https://cards.scryfall.io/small/front/5/5/5515ea5e-ce28-4938-a31e-5e48522a5f93.jpg?1783904448",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/ecl/136/explosive-prodigy?utm_source=api",
+  "section": "Red"
+ },
+ {
+  "name": "Tasha Yar, Out of Time",
+  "oracle_id": "1a9607a2-58cb-4bb8-b454-4813528221f8",
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Officer",
+  "oracle_text": "Haste\nWhen Tasha Yar dies, exile the top card of your library. Until the end of your next turn, you may play that card.\n{2}{R}, Exile this card from your graveyard: Create a token that's a copy of this card. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.",
+  "power": "2",
+  "toughness": "1",
+  "loyalty": null,
+  "colors": [
+   "R"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "layout": "normal",
+  "set": "trk",
+  "set_name": "Star Trek",
+  "collector_number": "176",
+  "rarity": "rare",
+  "released_at": "2026-11-13",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "trk"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/5/f/5f6cbe6c-5cd8-4eec-82b7-25d5bf5641c0.jpg?1793100738",
+  "image_small": "https://cards.scryfall.io/small/front/5/f/5f6cbe6c-5cd8-4eec-82b7-25d5bf5641c0.jpg?1793100738",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/trk/176/tasha-yar-out-of-time?utm_source=api",
   "section": "Red"
  },
  {
@@ -7106,14 +7147,14 @@
   "section": "Green"
  },
  {
-  "name": "Hexhaven Invigorator",
-  "oracle_id": "12d617b1-c95b-4b1c-a586-ccfdf5898b03",
-  "mana_cost": "{G}{G}{G}{G}",
+  "name": "Tenacious Tosk",
+  "oracle_id": "48c2dc82-7bed-4730-8b8b-1970b743414f",
+  "mana_cost": "{3}{G}",
   "cmc": 4.0,
-  "type_line": "Creature — Chimera Horror",
-  "oracle_text": "Vigilance\nWhenever this creature is dealt damage, you may search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.",
-  "power": "6",
-  "toughness": "6",
+  "type_line": "Creature — Tosk Rogue",
+  "oracle_text": "This creature can't be blocked by more than one creature.\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
+  "power": "4",
+  "toughness": "4",
   "loyalty": null,
   "colors": [
    "G"
@@ -7122,53 +7163,19 @@
    "G"
   ],
   "layout": "normal",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "106",
-  "rarity": "mythic",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra",
-   "pfra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/9/a/9a446cae-e93c-4574-8ffd-7688f9729a8a.jpg?1788878191",
-  "image_small": "https://cards.scryfall.io/small/front/9/a/9a446cae-e93c-4574-8ffd-7688f9729a8a.jpg?1788878191",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/106/hexhaven-invigorator?utm_source=api",
-  "section": "Green"
- },
- {
-  "name": "Hungering Puppetbeast",
-  "oracle_id": "690ae865-87bd-46b2-8e65-c53bd80c1a18",
-  "mana_cost": "{3}{G}{G}",
-  "cmc": 5.0,
-  "type_line": "Artifact Creature — Beast Construct",
-  "oracle_text": "When this creature enters, create a Heartwood token. (It's a red and green artifact with \"{T}: Add {R} or {G}.\")\n{1}, Sacrifice another artifact: Put a +1/+1 counter on this creature. It gains your choice of trample, hexproof, or haste until end of turn.",
-  "power": "5",
-  "toughness": "5",
-  "loyalty": null,
-  "colors": [
-   "G"
-  ],
-  "color_identity": [
-   "G"
-  ],
-  "layout": "normal",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "107",
+  "set": "trc",
+  "set_name": "Star Trek Commander",
+  "collector_number": "201",
   "rarity": "rare",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
+  "released_at": "2026-11-13",
+  "eligibility": "new card in supplemental product",
   "printed_in_2026": [
-   "fra",
-   "pfra"
+   "trc"
   ],
-  "image": "https://cards.scryfall.io/normal/front/3/d/3db2da7a-8088-4117-916b-f9c905d1b45b.jpg?1789127646",
-  "image_small": "https://cards.scryfall.io/small/front/3/d/3db2da7a-8088-4117-916b-f9c905d1b45b.jpg?1789127646",
+  "image": "https://cards.scryfall.io/normal/front/4/a/4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8.jpg?1784036732",
+  "image_small": "https://cards.scryfall.io/small/front/4/a/4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8.jpg?1784036732",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/107/hungering-puppetbeast?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/trc/201/tenacious-tosk?utm_source=api",
   "section": "Green"
  },
  {
@@ -7204,14 +7211,14 @@
   "section": "Green"
  },
  {
-  "name": "Mugato",
-  "oracle_id": "eb9a3b52-62ad-467f-b62a-0273ceee48e5",
-  "mana_cost": "{3}{G}{G}",
-  "cmc": 5.0,
-  "type_line": "Creature — Ape Beast",
-  "oracle_text": "Reach, vigilance, deathtouch",
-  "power": "6",
-  "toughness": "6",
+  "name": "Noxious Newt",
+  "oracle_id": "1232c461-643c-40a3-901e-09b665f817da",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature — Salamander",
+  "oracle_text": "Deathtouch\n{T}: Add {G}.",
+  "power": "1",
+  "toughness": "2",
   "loyalty": null,
   "colors": [
    "G"
@@ -7220,19 +7227,19 @@
    "G"
   ],
   "layout": "normal",
-  "set": "trk",
-  "set_name": "Star Trek",
-  "collector_number": "208",
-  "rarity": "uncommon",
-  "released_at": "2026-11-13",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "155",
+  "rarity": "common",
+  "released_at": "2026-04-24",
   "eligibility": "main-set printing",
   "printed_in_2026": [
-   "trk"
+   "sos"
   ],
-  "image": "https://cards.scryfall.io/normal/front/f/3/f3c68b20-f202-4d55-bef1-398d96e55c57.jpg?1785981595",
-  "image_small": "https://cards.scryfall.io/small/front/f/3/f3c68b20-f202-4d55-bef1-398d96e55c57.jpg?1785981595",
+  "image": "https://cards.scryfall.io/normal/front/3/a/3a028306-c5d7-4f8f-b6f4-0d103fd47000.jpg?1783903656",
+  "image_small": "https://cards.scryfall.io/small/front/3/a/3a028306-c5d7-4f8f-b6f4-0d103fd47000.jpg?1783903656",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/trk/208/mugato?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/sos/155/noxious-newt?utm_source=api",
   "section": "Green"
  },
  {
@@ -7525,38 +7532,6 @@
   "section": "Green"
  },
  {
-  "name": "Midnight Tilling",
-  "oracle_id": "79bc2c6d-b03d-4ceb-b468-293378ec73ae",
-  "mana_cost": "{1}{G}",
-  "cmc": 2.0,
-  "type_line": "Instant",
-  "oracle_text": "Mill four cards, then you may return a permanent card from among them to your hand. (To mill four cards, put the top four cards of your library into your graveyard.)",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [
-   "G"
-  ],
-  "color_identity": [
-   "G"
-  ],
-  "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "182",
-  "rarity": "common",
-  "released_at": "2026-01-23",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "ecl"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/c/5/c5112bbf-752c-41e7-9c61-4c81e6a77463.jpg?1783904434",
-  "image_small": "https://cards.scryfall.io/small/front/c/5/c5112bbf-752c-41e7-9c61-4c81e6a77463.jpg?1783904434",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/182/midnight-tilling?utm_source=api",
-  "section": "Green"
- },
- {
   "name": "Mole Man, Moloid Master",
   "oracle_id": "34994475-b914-44f6-8ca1-c2747b6d5956",
   "mana_cost": "{2}{G}",
@@ -7685,38 +7660,6 @@
   "section": "Green"
  },
  {
-  "name": "Chomping Changeling",
-  "oracle_id": "d740dbd9-8e90-4121-8d53-c6ddf5178d58",
-  "mana_cost": "{2}{G}",
-  "cmc": 3.0,
-  "type_line": "Creature — Shapeshifter",
-  "oracle_text": "Changeling (This card is every creature type.)\nWhen this creature enters, destroy up to one target artifact or enchantment.",
-  "power": "1",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "G"
-  ],
-  "color_identity": [
-   "G"
-  ],
-  "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "172",
-  "rarity": "uncommon",
-  "released_at": "2026-01-23",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "ecl"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/e/1/e187dcc6-19ad-4cf6-94b4-daf07f5144e5.jpg?1783904431",
-  "image_small": "https://cards.scryfall.io/small/front/e/1/e187dcc6-19ad-4cf6-94b4-daf07f5144e5.jpg?1783904431",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/172/chomping-changeling?utm_source=api",
-  "section": "Green"
- },
- {
   "name": "Slumbering Trudge",
   "oracle_id": "d04bce9a-822b-4a52-8826-b503ef5f5b2e",
   "mana_cost": "{X}{G}",
@@ -7814,103 +7757,6 @@
   "section": "Green"
  },
  {
-  "name": "Mona Lisa, Science Geek",
-  "oracle_id": "e6490e98-37a9-4a8b-a04c-cceeb22b0c35",
-  "mana_cost": "{2}{G}",
-  "cmc": 3.0,
-  "type_line": "Legendary Creature — Lizard Mutant",
-  "oracle_text": "Reach\n{T}: Add X mana of any one color, where X is Mona Lisa's power.",
-  "power": "1",
-  "toughness": "3",
-  "loyalty": null,
-  "colors": [
-   "G"
-  ],
-  "color_identity": [
-   "G"
-  ],
-  "layout": "normal",
-  "set": "tmt",
-  "set_name": "Teenage Mutant Ninja Turtles",
-  "collector_number": "123",
-  "rarity": "uncommon",
-  "released_at": "2026-03-06",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "tmt"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/c/2/c2164204-120c-4dff-86ac-46ca9012ccd9.jpg?1783904085",
-  "image_small": "https://cards.scryfall.io/small/front/c/2/c2164204-120c-4dff-86ac-46ca9012ccd9.jpg?1783904085",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/tmt/123/mona-lisa-science-geek?utm_source=api",
-  "section": "Green"
- },
- {
-  "name": "Ambitious Augmenter",
-  "oracle_id": "d87f0e52-486e-49b4-9cf1-12e238857340",
-  "mana_cost": "{G}",
-  "cmc": 1.0,
-  "type_line": "Creature — Turtle Wizard",
-  "oracle_text": "Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)\nWhen this creature dies, if it had one or more counters on it, create a 0/0 green and blue Fractal creature token, then put this creature's counters on that token.",
-  "power": "1",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [
-   "G"
-  ],
-  "color_identity": [
-   "G"
-  ],
-  "layout": "normal",
-  "set": "sos",
-  "set_name": "Secrets of Strixhaven",
-  "collector_number": "140",
-  "rarity": "rare",
-  "released_at": "2026-04-24",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "psos",
-   "sos"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/8/5/85629088-2007-4db5-9397-bac12a3d7498.jpg?1783903661",
-  "image_small": "https://cards.scryfall.io/small/front/8/5/85629088-2007-4db5-9397-bac12a3d7498.jpg?1783903661",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/sos/140/ambitious-augmenter?utm_source=api",
-  "section": "Green"
- },
- {
-  "name": "Epic Fight",
-  "oracle_id": "4bdfc580-de51-445b-b170-8c6832e44704",
-  "mana_cost": "{2}{G}",
-  "cmc": 3.0,
-  "type_line": "Sorcery",
-  "oracle_text": "Choose one or both —\n• Double target creature's power and toughness until end of turn.\n• Target creature you control fights target creature an opponent controls.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [
-   "G"
-  ],
-  "color_identity": [
-   "G"
-  ],
-  "layout": "normal",
-  "set": "msh",
-  "set_name": "Marvel Super Heroes",
-  "collector_number": "166",
-  "rarity": "rare",
-  "released_at": "2026-06-26",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "msh"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/d/5/d521b80b-4b0b-4d69-bd95-4c83feaf2145.jpg?1783902918",
-  "image_small": "https://cards.scryfall.io/small/front/d/5/d521b80b-4b0b-4d69-bd95-4c83feaf2145.jpg?1783902918",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msh/166/epic-fight?utm_source=api",
-  "section": "Green"
- },
- {
   "name": "Beorn the Fierce",
   "oracle_id": "30ca8e92-5955-46a1-86c1-094a873f518f",
   "mana_cost": "{3}{G}{G}",
@@ -7943,14 +7789,14 @@
   "section": "Green"
  },
  {
-  "name": "Beorn's Hospitality",
-  "oracle_id": "d9ed7252-11d1-432b-9101-ac08cd28826d",
+  "name": "Michelangelo, the Heart",
+  "oracle_id": "f11e914c-16bc-4836-bc14-bc1b5de9cd87",
   "mana_cost": "{1}{G}",
   "cmc": 2.0,
-  "type_line": "Enchantment",
-  "oracle_text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.\n{5}{G}{G}: This enchantment becomes a Bear creature in addition to its other types and gains \"This creature's power and toughness are each equal to the number of lands you control.\" (This effect doesn't end.)",
-  "power": null,
-  "toughness": null,
+  "type_line": "Legendary Creature — Mutant Ninja Turtle",
+  "oracle_text": "Trample\nRaid (the Fridge) — At the beginning of your second main phase, if you attacked this turn, put a +1/+1 counter on target creature and create a Food token.\nPartner—Character select (You can have two commanders if both have this ability.)",
+  "power": "2",
+  "toughness": "1",
   "loyalty": null,
   "colors": [
    "G"
@@ -7959,51 +7805,19 @@
    "G"
   ],
   "layout": "normal",
-  "set": "hob",
-  "set_name": "The Hobbit",
-  "collector_number": "120",
-  "rarity": "uncommon",
-  "released_at": "2026-08-14",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "hob"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/1/5/153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9.jpg?1785152153",
-  "image_small": "https://cards.scryfall.io/small/front/1/5/153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9.jpg?1785152153",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/hob/120/beorns-hospitality?utm_source=api",
-  "section": "Green"
- },
- {
-  "name": "Sauron, Dino Devotee",
-  "oracle_id": "f5295bfe-7e73-44ad-9cfd-200e31c5d52b",
-  "mana_cost": "{3}{G}{G}",
-  "cmc": 5.0,
-  "type_line": "Legendary Creature — Dinosaur Vampire Villain",
-  "oracle_text": "Flying\nWhenever Sauron enters or attacks, choose one —\n• Cure Cancer — You gain 3 life.\n• Turn People into Dinosaurs — Put a saurian counter on another target creature. It's a green Dinosaur with base power and toughness 5/5 for as long as it has a saurian counter on it.",
-  "power": "4",
-  "toughness": "4",
-  "loyalty": null,
-  "colors": [
-   "G"
-  ],
-  "color_identity": [
-   "G"
-  ],
-  "layout": "normal",
-  "set": "msc",
-  "set_name": "Marvel Super Heroes Commander",
-  "collector_number": "731",
+  "set": "tmc",
+  "set_name": "Teenage Mutant Ninja Turtles Eternal",
+  "collector_number": "5",
   "rarity": "mythic",
-  "released_at": "2026-06-26",
+  "released_at": "2026-03-06",
   "eligibility": "new card in supplemental product",
   "printed_in_2026": [
-   "msc"
+   "tmc"
   ],
-  "image": "https://cards.scryfall.io/normal/front/6/f/6f8f9a5d-514b-491d-a802-3a7629340bca.jpg?1783903035",
-  "image_small": "https://cards.scryfall.io/small/front/6/f/6f8f9a5d-514b-491d-a802-3a7629340bca.jpg?1783903035",
+  "image": "https://cards.scryfall.io/normal/front/b/a/bac2d744-db65-4b56-8634-c87fd00c090e.jpg?1783904173",
+  "image_small": "https://cards.scryfall.io/small/front/b/a/bac2d744-db65-4b56-8634-c87fd00c090e.jpg?1783904173",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msc/731/sauron-dino-devotee?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/tmc/5/michelangelo-the-heart?utm_source=api",
   "section": "Green"
  },
  {
@@ -8039,14 +7853,196 @@
   "section": "Green"
  },
  {
-  "name": "Wood Elves",
-  "oracle_id": "8973bd99-20f8-4867-90ef-50392147ee1b",
-  "mana_cost": "{2}{G}",
-  "cmc": 3.0,
-  "type_line": "Creature — Elf Scout",
-  "oracle_text": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
-  "power": "1",
-  "toughness": "1",
+  "name": "Hulk, Strongest There Is",
+  "oracle_id": "35daea08-655d-4588-8430-b078769d22b6",
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Gamma Berserker Hero",
+  "oracle_text": "Trample\nHulk enters with a +1/+1 counter on him.\nAt the beginning of your upkeep, double the number of +1/+1 counters on each Gamma creature you control.",
+  "power": "3",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "724",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/3/3/336a976b-c9db-4fcd-ac57-14eeb97962e8.jpg?1783903036",
+  "image_small": "https://cards.scryfall.io/small/front/3/3/336a976b-c9db-4fcd-ac57-14eeb97962e8.jpg?1783903036",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/724/hulk-strongest-there-is?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "U.S.S. Discovery, at Black Alert",
+  "oracle_id": "13dbfe3f-1e04-4c4f-953c-7c949dba9d33",
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Legendary Artifact — Spacecraft",
+  "oracle_text": "Whenever U.S.S. Discovery enters or attacks, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)\nStation\n6+ | Flying",
+  "power": "5",
+  "toughness": "5",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "trk",
+  "set_name": "Star Trek",
+  "collector_number": "221",
+  "rarity": "rare",
+  "released_at": "2026-11-13",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "trk"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/6/9/69b1f87f-ff02-4945-9f07-18dab5035e2d.jpg?1792508275",
+  "image_small": "https://cards.scryfall.io/small/front/6/9/69b1f87f-ff02-4945-9f07-18dab5035e2d.jpg?1792508275",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/trk/221/uss-discovery-at-black-alert?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Benjamin Sisko, Besieged",
+  "oracle_id": "f1416577-97d0-4d6c-afd2-455798556d4c",
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6.0,
+  "type_line": "Legendary Creature — Human Officer",
+  "oracle_text": "Play with the top card of your library revealed.\nYou may play lands and cast creature spells from the top of your library.",
+  "power": "5",
+  "toughness": "5",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "trc",
+  "set_name": "Star Trek Commander",
+  "collector_number": "200",
+  "rarity": "mythic",
+  "released_at": "2026-11-13",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "trc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/6/c/6cf853b8-4479-424d-998a-4fc53456c38b.jpg?1784036727",
+  "image_small": "https://cards.scryfall.io/small/front/6/c/6cf853b8-4479-424d-998a-4fc53456c38b.jpg?1784036727",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/trc/200/benjamin-sisko-besieged?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Germination Practicum",
+  "oracle_id": "c8d22139-7b25-4bb1-b0d9-d4c622401edf",
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Sorcery — Lesson",
+  "oracle_text": "Put two +1/+1 counters on each creature you control.\nParadigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "149",
+  "rarity": "mythic",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "psos",
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/a/b/abe8332f-c76e-44e2-9427-d1228453abec.jpg?1783903658",
+  "image_small": "https://cards.scryfall.io/small/front/a/b/abe8332f-c76e-44e2-9427-d1228453abec.jpg?1783903658",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/149/germination-practicum?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Carnivorous Cultivator // Enroot",
+  "oracle_id": "db655c5a-06f6-42bc-8180-d9ca1c1d939a",
+  "mana_cost": "{1}{G} // {G}",
+  "cmc": 2.0,
+  "type_line": "Creature — Elf Warlock // Sorcery",
+  "oracle_text": "Deathtouch\nThis creature enters prepared.\nWhenever this creature deals combat damage to a player, return target land card from your graveyard to your hand.\n//\nSearch your library for a land card, put it into your graveyard, then shuffle.",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "prepare",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "100",
+  "rarity": "rare",
+  "released_at": "2026-10-02",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "fra",
+   "pfra"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/7/9/79dd5c54-5ea5-47b5-8f9b-50ed57a5ea45.jpg?1789385967",
+  "image_small": "https://cards.scryfall.io/small/front/7/9/79dd5c54-5ea5-47b5-8f9b-50ed57a5ea45.jpg?1789385967",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/fra/100/carnivorous-cultivator-enroot?utm_source=api",
+  "faces": [
+   {
+    "name": "Carnivorous Cultivator",
+    "mana_cost": "{1}{G}",
+    "type_line": "Creature — Elf Warlock",
+    "oracle_text": "Deathtouch\nThis creature enters prepared.\nWhenever this creature deals combat damage to a player, return target land card from your graveyard to your hand.",
+    "power": "2",
+    "toughness": "3",
+    "loyalty": null
+   },
+   {
+    "name": "Enroot",
+    "mana_cost": "{G}",
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for a land card, put it into your graveyard, then shuffle.",
+    "power": null,
+    "toughness": null,
+    "loyalty": null
+   }
+  ],
+  "section": "Green"
+ },
+ {
+  "name": "Quarrel",
+  "oracle_id": "db05b114-2eb5-46bc-81e7-7e036d8eaab3",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Target creature you control deals damage equal to its power to target creature an opponent controls.",
+  "power": null,
+  "toughness": null,
   "loyalty": null,
   "colors": [
    "G"
@@ -8057,17 +8053,178 @@
   "layout": "normal",
   "set": "hob",
   "set_name": "The Hobbit",
-  "collector_number": "142",
+  "collector_number": "135",
   "rarity": "common",
   "released_at": "2026-08-14",
   "eligibility": "main-set printing",
   "printed_in_2026": [
    "hob"
   ],
-  "image": "https://cards.scryfall.io/normal/front/2/4/2476e42b-b209-4207-8ed9-cb668f89b218.jpg?1783902784",
-  "image_small": "https://cards.scryfall.io/small/front/2/4/2476e42b-b209-4207-8ed9-cb668f89b218.jpg?1783902784",
+  "image": "https://cards.scryfall.io/normal/front/5/9/5900a0b4-aa89-4019-94c9-7e9ea3b4792e.jpg?1785496166",
+  "image_small": "https://cards.scryfall.io/small/front/5/9/5900a0b4-aa89-4019-94c9-7e9ea3b4792e.jpg?1785496166",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/hob/142/wood-elves?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/hob/135/quarrel?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Hulk, Brutal Brawler",
+  "oracle_id": "6a953b71-2994-4c08-9602-b2bbce5b5b4f",
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Gamma Berserker Hero",
+  "oracle_text": "Hulk attacks each combat if able.\nWhenever Hulk attacks, put a +1/+1 counter on each other creature you control.",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "833",
+  "rarity": "mythic",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/4/6/46d9f159-715e-4450-9f83-0fd050e2382e.jpg?1783902999",
+  "image_small": "https://cards.scryfall.io/small/front/4/6/46d9f159-715e-4450-9f83-0fd050e2382e.jpg?1783902999",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/833/hulk-brutal-brawler?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Verdant Kraken",
+  "oracle_id": "83c61083-b357-4775-a855-5a9013cc2bdf",
+  "mana_cost": "{4}{G}{G}{G}",
+  "cmc": 7.0,
+  "type_line": "Creature — Plant Kraken",
+  "oracle_text": "At the beginning of each player's upkeep, you create a 3/3 green Forest Tentacle land creature token. (It has \"{T}: Add {G}.\" It's affected by summoning sickness until your next turn.)",
+  "power": "6",
+  "toughness": "6",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "118",
+  "rarity": "rare",
+  "released_at": "2026-10-02",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "fra",
+   "pfra"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/2/b/2bb7a8eb-227f-410b-859f-750ef0aea2f0.jpg?1789644841",
+  "image_small": "https://cards.scryfall.io/small/front/2/b/2bb7a8eb-227f-410b-859f-750ef0aea2f0.jpg?1789644841",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/fra/118/verdant-kraken?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Saru, Unthreatened",
+  "oracle_id": "b6a21e53-6f62-4874-b9cc-84ae177a0da6",
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Kelpien Officer",
+  "oracle_text": "Flash\nWhen Saru enters, another target creature you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+  "power": "3",
+  "toughness": "2",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "trk",
+  "set_name": "Star Trek",
+  "collector_number": "212",
+  "rarity": "uncommon",
+  "released_at": "2026-11-13",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "trk"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/4/4/445de44d-8af9-4ea3-b165-9e8eb8939820.jpg?1793187139",
+  "image_small": "https://cards.scryfall.io/small/front/4/4/445de44d-8af9-4ea3-b165-9e8eb8939820.jpg?1793187139",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/trk/212/saru-unthreatened?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Giant-Man, Gargantuan Genius",
+  "oracle_id": "effa84e6-0aee-422f-81e9-3feeca38eda2",
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Scientist Hero",
+  "oracle_text": "Reach\nAt the beginning of your first main phase, add {G} for each creature you control with power 4 or greater.",
+  "power": "6",
+  "toughness": "6",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "722",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/4/5/45c6871c-0b6a-4ae1-a2b6-e1049b2225ea.jpg?1783903039",
+  "image_small": "https://cards.scryfall.io/small/front/4/5/45c6871c-0b6a-4ae1-a2b6-e1049b2225ea.jpg?1783903039",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/722/giant-man-gargantuan-genius?utm_source=api",
+  "section": "Green"
+ },
+ {
+  "name": "Bejeweled Warg",
+  "oracle_id": "051ff7e0-dd00-4467-8796-a5d1c21934ed",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature — Wolf",
+  "oracle_text": "Trample\nWhenever this creature deals combat damage to a player, choose one —\n• Put a +1/+1 counter on target Wolf you control.\n• Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "power": "3",
+  "toughness": "2",
+  "loyalty": null,
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "layout": "normal",
+  "set": "hob",
+  "set_name": "The Hobbit",
+  "collector_number": "117",
+  "rarity": "rare",
+  "released_at": "2026-08-14",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "hob"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330",
+  "image_small": "https://cards.scryfall.io/small/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/hob/117/bejeweled-warg?utm_source=api",
   "section": "Green"
  },
  {
@@ -8224,40 +8381,6 @@
   "image_small": "https://cards.scryfall.io/small/front/a/5/a5bf2146-0843-4e1b-ad07-29e3dc0e842f.jpg?1785323579",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/hoc/101/bard-heir-of-girion?utm_source=api",
-  "section": "Gold"
- },
- {
-  "name": "Constable Odo",
-  "oracle_id": "74b58f31-7634-4b51-a900-6fbfccfb3cd2",
-  "mana_cost": "{3}{W/U}{W/U}",
-  "cmc": 5.0,
-  "type_line": "Legendary Creature — Shapeshifter Detective",
-  "oracle_text": "When Constable Odo enters, choose one —\n• Tap target creature an opponent controls. Put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\n• Investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
-  "power": "4",
-  "toughness": "3",
-  "loyalty": null,
-  "colors": [
-   "U",
-   "W"
-  ],
-  "color_identity": [
-   "U",
-   "W"
-  ],
-  "layout": "normal",
-  "set": "trk",
-  "set_name": "Star Trek",
-  "collector_number": "230",
-  "rarity": "uncommon",
-  "released_at": "2026-11-13",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "trk"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/3/d/3df582e4-3bfb-4413-9b39-898f33a5c1fd.jpg?1792508297",
-  "image_small": "https://cards.scryfall.io/small/front/3/d/3df582e4-3bfb-4413-9b39-898f33a5c1fd.jpg?1792508297",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/trk/230/constable-odo?utm_source=api",
   "section": "Gold"
  },
  {
@@ -8675,40 +8798,6 @@
   "section": "Gold"
  },
  {
-  "name": "Iron Lad, Young Avenger",
-  "oracle_id": "fedcc722-ac5f-464a-bac9-c5f1d4de28d0",
-  "mana_cost": "{2}{U/R}",
-  "cmc": 3.0,
-  "type_line": "Legendary Artifact Creature — Human Hero",
-  "oracle_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNoncreature spells you cast cost {1} less to cast.",
-  "power": "2",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "R",
-   "U"
-  ],
-  "color_identity": [
-   "R",
-   "U"
-  ],
-  "layout": "normal",
-  "set": "msc",
-  "set_name": "Marvel Super Heroes Commander",
-  "collector_number": "569",
-  "rarity": "uncommon",
-  "released_at": "2026-06-26",
-  "eligibility": "new card in supplemental product",
-  "printed_in_2026": [
-   "msc"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/b/c/bce11b29-c674-4d50-b01d-b80bf7e3a73e.jpg?1783903093",
-  "image_small": "https://cards.scryfall.io/small/front/b/c/bce11b29-c674-4d50-b01d-b80bf7e3a73e.jpg?1783903093",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msc/569/iron-lad-young-avenger?utm_source=api",
-  "section": "Gold"
- },
- {
   "name": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
   "oracle_id": "a0c956dc-d7de-4f11-b76f-7537fbee1731",
   "mana_cost": "{2}{U} // ",
@@ -8917,40 +9006,6 @@
   "image_small": "https://cards.scryfall.io/small/front/0/a/0a7f0fdf-1d4b-4458-a19c-274611e8a59a.jpg?1783903640",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/sos/202/mind-into-matter?utm_source=api",
-  "section": "Gold"
- },
- {
-  "name": "Silvan Reveler",
-  "oracle_id": "11932191-4b19-49b1-bfe4-abb7b83b2e59",
-  "mana_cost": "{2}{G}{U}",
-  "cmc": 4.0,
-  "type_line": "Creature — Elf Citizen",
-  "oracle_text": "When this creature enters, draw a card, then discard a card. If you discard a land card this way, put it from your graveyard onto the battlefield tapped.\nLandfall — Whenever a land you control enters, you may pay {1}{G}{U}. If you do, return this card from your graveyard to your hand.",
-  "power": "3",
-  "toughness": "2",
-  "loyalty": null,
-  "colors": [
-   "G",
-   "U"
-  ],
-  "color_identity": [
-   "G",
-   "U"
-  ],
-  "layout": "normal",
-  "set": "hob",
-  "set_name": "The Hobbit",
-  "collector_number": "163",
-  "rarity": "uncommon",
-  "released_at": "2026-08-14",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "hob"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/c/7/c71b74fb-fb0c-4953-b536-7a3f283c6918.jpg?1784382379",
-  "image_small": "https://cards.scryfall.io/small/front/c/7/c71b74fb-fb0c-4953-b536-7a3f283c6918.jpg?1784382379",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/hob/163/silvan-reveler?utm_source=api",
   "section": "Gold"
  },
  {
@@ -9693,40 +9748,6 @@
   "section": "Gold"
  },
  {
-  "name": "Dwalin, Weaponmaster",
-  "oracle_id": "cee583b7-7cc3-40ea-a227-b760839ec291",
-  "mana_cost": "{1}{R/W}",
-  "cmc": 2.0,
-  "type_line": "Legendary Creature — Dwarf Warrior",
-  "oracle_text": "First strike\nWhenever Dwalin enters or attacks, put a hone counter on each Equipment you control. (Each hone counter on an Equipment grants +1/+0 to equipped creature.)",
-  "power": "2",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [
-   "R",
-   "W"
-  ],
-  "color_identity": [
-   "R",
-   "W"
-  ],
-  "layout": "normal",
-  "set": "hob",
-  "set_name": "The Hobbit",
-  "collector_number": "154",
-  "rarity": "rare",
-  "released_at": "2026-08-14",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "hob"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/1/9/196d9287-a37d-4b27-a83b-a5489a54f081.jpg?1785496508",
-  "image_small": "https://cards.scryfall.io/small/front/1/9/196d9287-a37d-4b27-a83b-a5489a54f081.jpg?1785496508",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/hob/154/dwalin-weaponmaster?utm_source=api",
-  "section": "Gold"
- },
- {
   "name": "Warrior's Blades",
   "oracle_id": "f47419a5-b975-4934-a987-ea064a0c7c1a",
   "mana_cost": "{2}{R}{W}",
@@ -10278,131 +10299,469 @@
   "section": "Gold"
  },
  {
-  "name": "Thanos, the Mad Titan",
-  "oracle_id": "090d815b-b2c8-48cd-a0b3-dc662d5352ac",
-  "mana_cost": "{R}{W}{B}",
+  "name": "Denzilore Fatehold",
+  "oracle_id": "0f8de7f0-c61d-415d-b4db-4959374343da",
+  "mana_cost": "{1}{W}{U}{U}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Elder Sphinx",
+  "oracle_text": "Flash\nFlying\nWhenever you scry or surveil, put a +1/+1 counter on each creature you control.",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "colors": [
+   "U",
+   "W"
+  ],
+  "color_identity": [
+   "U",
+   "W"
+  ],
+  "layout": "normal",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "128",
+  "rarity": "mythic",
+  "released_at": "2026-10-02",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "fra",
+   "pfra"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/9/8/986f9e98-9d8d-428b-9187-860745cf3269.jpg?1788878215",
+  "image_small": "https://cards.scryfall.io/small/front/9/8/986f9e98-9d8d-428b-9187-860745cf3269.jpg?1788878215",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/fra/128/denzilore-fatehold?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Bard's Company",
+  "oracle_id": "5c5bfbb2-0e63-4e43-b441-c4878983288f",
+  "mana_cost": "{2}{W}{U}",
+  "cmc": 4.0,
+  "type_line": "Creature — Human Citizen",
+  "oracle_text": "You may cast this spell as though it had flash if you control a Human.\nOther creatures you control get +1/+1.\nWhenever this creature enters or attacks, recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "U",
+   "W"
+  ],
+  "color_identity": [
+   "U",
+   "W"
+  ],
+  "layout": "normal",
+  "set": "hob",
+  "set_name": "The Hobbit",
+  "collector_number": "146",
+  "rarity": "rare",
+  "released_at": "2026-08-14",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "hob"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/d/1/d14aa2ff-7bbd-47a6-8e36-481e56302a62.jpg?1785152250",
+  "image_small": "https://cards.scryfall.io/small/front/d/1/d14aa2ff-7bbd-47a6-8e36-481e56302a62.jpg?1785152250",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/hob/146/bards-company?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Hawkeye, Avenging Archer",
+  "oracle_id": "e90d6903-5415-4ddf-88c0-15ddd8614bde",
+  "mana_cost": "{2}{U}{R}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Human Archer Hero",
+  "oracle_text": "Reach\nWhenever a creature an opponent controls dies, if Hawkeye dealt damage to it this turn, draw a card.\n{T}: Hawkeye deals 1 damage to any target.",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "colors": [
+   "R",
+   "U"
+  ],
+  "color_identity": [
+   "R",
+   "U"
+  ],
+  "layout": "normal",
+  "set": "msc",
+  "set_name": "Marvel Super Heroes Commander",
+  "collector_number": "84",
+  "rarity": "rare",
+  "released_at": "2026-06-26",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "msc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/1/f/1f394a6f-3649-4464-939b-c183b2b01768.jpg?1783903269",
+  "image_small": "https://cards.scryfall.io/small/front/1/f/1f394a6f-3649-4464-939b-c183b2b01768.jpg?1783903269",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/msc/84/hawkeye-avenging-archer?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Splatter Technique",
+  "oracle_id": "2620dcfe-8738-4f81-b23d-0c1c60cf9047",
+  "mana_cost": "{1}{U}{U}{R}{R}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose one —\n• Draw four cards.\n• Splatter Technique deals 4 damage to each creature and planeswalker.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "R",
+   "U"
+  ],
+  "color_identity": [
+   "R",
+   "U"
+  ],
+  "layout": "normal",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "231",
+  "rarity": "rare",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "psos",
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/9/6/969b6657-c3b9-47e1-a42e-95bbcccf452d.jpg?1783903629",
+  "image_small": "https://cards.scryfall.io/small/front/9/6/969b6657-c3b9-47e1-a42e-95bbcccf452d.jpg?1783903629",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/231/splatter-technique?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Quandrix, the Proof",
+  "oracle_id": "2cbccc46-bdef-4dfb-90a4-0278c5c8488a",
+  "mana_cost": "{4}{G}{U}",
+  "cmc": 6.0,
+  "type_line": "Legendary Creature — Elder Dragon",
+  "oracle_text": "Flying, trample\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nInstant and sorcery spells you cast from your hand have cascade.",
+  "power": "6",
+  "toughness": "6",
+  "loyalty": null,
+  "colors": [
+   "G",
+   "U"
+  ],
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "layout": "normal",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "218",
+  "rarity": "mythic",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "psos",
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/0/1/015afe31-af3c-4c9b-9997-d7c33b915a33.jpg?1783903635",
+  "image_small": "https://cards.scryfall.io/small/front/0/1/015afe31-af3c-4c9b-9997-d7c33b915a33.jpg?1783903635",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/218/quandrix-the-proof?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Proctor's Gaze",
+  "oracle_id": "a7fe7621-9bb1-4d0d-8b50-c179c685d79d",
+  "mana_cost": "{2}{G}{U}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "oracle_text": "Return up to one target nonland permanent to its owner's hand. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "G",
+   "U"
+  ],
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "layout": "normal",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "213",
+  "rarity": "uncommon",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/b/1/b127d543-0a90-4af6-9410-94d5cd30389e.jpg?1783903636",
+  "image_small": "https://cards.scryfall.io/small/front/b/1/b127d543-0a90-4af6-9410-94d5cd30389e.jpg?1783903636",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/213/proctors-gaze?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Vraska, the Cutting Glare",
+  "oracle_id": "580de511-863c-4b7a-9d2e-fcdf6e12d54b",
+  "mana_cost": "{B}{B}{G}",
   "cmc": 3.0,
-  "type_line": "Legendary Creature — Eternal Villain",
-  "oracle_text": "Deathtouch, lifelink\nPower-up — {C}{W}{U}{B}{R}{G}: Put two +1/+1 counters on Thanos. Choose odd or even. Destroy each other creature with mana value of the chosen quality. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn. Zero is even.)",
+  "type_line": "Legendary Creature — Gorgon Assassin",
+  "oracle_text": "Deathtouch\nWhen Vraska enters, if you control six or more lands, destroy target permanent an opponent controls. They create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
   "power": "4",
   "toughness": "4",
   "loyalty": null,
   "colors": [
    "B",
-   "R",
-   "W"
+   "G"
   ],
   "color_identity": [
    "B",
-   "G",
-   "R",
-   "U",
-   "W"
+   "G"
   ],
   "layout": "normal",
-  "set": "msh",
-  "set_name": "Marvel Super Heroes",
-  "collector_number": "233",
-  "rarity": "mythic",
-  "released_at": "2026-06-26",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "278",
+  "rarity": "rare",
+  "released_at": "2026-10-02",
   "eligibility": "main-set printing",
   "printed_in_2026": [
-   "msh"
+   "fra",
+   "pfra"
   ],
-  "image": "https://cards.scryfall.io/normal/front/e/6/e669c0b2-0011-4feb-9263-f1ecc0a98f18.jpg?1783902896",
-  "image_small": "https://cards.scryfall.io/small/front/e/6/e669c0b2-0011-4feb-9263-f1ecc0a98f18.jpg?1783902896",
+  "image": "https://cards.scryfall.io/normal/front/5/c/5c28b012-5efb-488f-a1c1-09e2dddfd6ee.jpg?1789127776",
+  "image_small": "https://cards.scryfall.io/small/front/5/c/5c28b012-5efb-488f-a1c1-09e2dddfd6ee.jpg?1789127776",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msh/233/thanos-the-mad-titan?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/fra/278/vraska-the-cutting-glare?utm_source=api",
   "section": "Gold"
  },
  {
-  "name": "Bruce Banner // The Incredible Hulk",
-  "oracle_id": "b6c0ee14-2028-4e8b-9acd-ff78821bca9b",
-  "mana_cost": "{U} // {2}{R}{R}{G}{G}",
-  "cmc": 1.0,
-  "type_line": "Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero",
-  "oracle_text": "{X}{X}, {T}: Draw X cards. Activate only as a sorcery.\n{2}{R}{R}{G}{G}: Transform Bruce Banner. Activate only as a sorcery.\n//\nReach, trample\nEnrage — Whenever The Incredible Hulk is dealt damage, put a +1/+1 counter on him. If he's attacking, untap him and there is an additional combat phase after this phase.",
+  "name": "Konstrari Charm",
+  "oracle_id": "40961b23-b153-434a-aeb9-b9c2ff613dcb",
+  "mana_cost": "{R}{G}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Choose one —\n• Konstrari Charm deals 6 damage to target creature with flying.\n• Put two +1/+1 counters on target creature. It gains trample until end of turn.\n• Add {C}{C}{C}.",
   "power": null,
   "toughness": null,
   "loyalty": null,
   "colors": [
-   "U"
+   "G",
+   "R"
   ],
   "color_identity": [
    "G",
+   "R"
+  ],
+  "layout": "normal",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "138",
+  "rarity": "uncommon",
+  "released_at": "2026-10-02",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "fra"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/7/d/7d29dfa1-9582-47bc-8f42-62b611bdcc4e.jpg?1789127645",
+  "image_small": "https://cards.scryfall.io/small/front/7/d/7d29dfa1-9582-47bc-8f42-62b611bdcc4e.jpg?1789127645",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/fra/138/konstrari-charm?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Lorehold, the Historian",
+  "oracle_id": "61a41cf1-60cc-45ba-aa98-493c14e87d9d",
+  "mana_cost": "{3}{R}{W}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Elder Dragon",
+  "oracle_text": "Flying, haste\nEach instant and sorcery card in your hand has miracle {2}. (You may cast a card for its miracle cost when you draw it if it's the first card you drew this turn.)\nAt the beginning of each opponent's upkeep, you may discard a card. If you do, draw a card.",
+  "power": "5",
+  "toughness": "5",
+  "loyalty": null,
+  "colors": [
    "R",
-   "U"
+   "W"
+  ],
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "layout": "normal",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "201",
+  "rarity": "mythic",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "psos",
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/7/1/71a6701f-40f1-43ef-bff5-a5907fd67cd6.jpg?1783903640",
+  "image_small": "https://cards.scryfall.io/small/front/7/1/71a6701f-40f1-43ef-bff5-a5907fd67cd6.jpg?1783903640",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/201/lorehold-the-historian?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Jennifer Walters // The Sensational She-Hulk",
+  "oracle_id": "c867a778-97ef-4872-b890-b088b96a1281",
+  "mana_cost": "{1}{W} // {3}{G}{W}{W}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Human Advisor Hero // Legendary Creature — Gamma Hero",
+  "oracle_text": "Your opponents can't cast spells during your turn.\n{3}{G}{W}{W}: Transform Jennifer Walters. Activate only as a sorcery.\n//\nReach, trample\nYour opponents can't cast spells during your turn.\nWhenever a creature you control is dealt damage, you may have The Sensational She-Hulk deal that much damage to any target. Do this only once each turn.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "W"
+  ],
+  "color_identity": [
+   "G",
+   "W"
   ],
   "layout": "modal_dfc",
   "set": "msh",
   "set_name": "Marvel Super Heroes",
-  "collector_number": "49",
+  "collector_number": "18",
   "rarity": "mythic",
   "released_at": "2026-06-26",
   "eligibility": "main-set printing",
   "printed_in_2026": [
    "msh"
   ],
-  "image": "https://cards.scryfall.io/normal/front/e/0/e0dbbdcf-84e1-494f-8b8c-0a094f603fa9.jpg?1783902972",
-  "image_small": "https://cards.scryfall.io/small/front/e/0/e0dbbdcf-84e1-494f-8b8c-0a094f603fa9.jpg?1783902972",
-  "image_back": "https://cards.scryfall.io/normal/back/e/0/e0dbbdcf-84e1-494f-8b8c-0a094f603fa9.jpg?1783902972",
-  "scryfall_uri": "https://scryfall.com/card/msh/49/bruce-banner-the-incredible-hulk?utm_source=api",
+  "image": "https://cards.scryfall.io/normal/front/6/1/61237530-ad49-469c-a952-67c92315708e.jpg?1783902978",
+  "image_small": "https://cards.scryfall.io/small/front/6/1/61237530-ad49-469c-a952-67c92315708e.jpg?1783902978",
+  "image_back": "https://cards.scryfall.io/normal/back/6/1/61237530-ad49-469c-a952-67c92315708e.jpg?1783902978",
+  "scryfall_uri": "https://scryfall.com/card/msh/18/jennifer-walters-the-sensational-she-hulk?utm_source=api",
   "faces": [
    {
-    "name": "Bruce Banner",
-    "mana_cost": "{U}",
-    "type_line": "Legendary Creature — Human Scientist Hero",
-    "oracle_text": "{X}{X}, {T}: Draw X cards. Activate only as a sorcery.\n{2}{R}{R}{G}{G}: Transform Bruce Banner. Activate only as a sorcery.",
-    "power": "1",
-    "toughness": "1",
+    "name": "Jennifer Walters",
+    "mana_cost": "{1}{W}",
+    "type_line": "Legendary Creature — Human Advisor Hero",
+    "oracle_text": "Your opponents can't cast spells during your turn.\n{3}{G}{W}{W}: Transform Jennifer Walters. Activate only as a sorcery.",
+    "power": "2",
+    "toughness": "3",
     "loyalty": null
    },
    {
-    "name": "The Incredible Hulk",
-    "mana_cost": "{2}{R}{R}{G}{G}",
-    "type_line": "Legendary Creature — Gamma Berserker Hero",
-    "oracle_text": "Reach, trample\nEnrage — Whenever The Incredible Hulk is dealt damage, put a +1/+1 counter on him. If he's attacking, untap him and there is an additional combat phase after this phase.",
-    "power": "8",
-    "toughness": "8",
+    "name": "The Sensational She-Hulk",
+    "mana_cost": "{3}{G}{W}{W}",
+    "type_line": "Legendary Creature — Gamma Hero",
+    "oracle_text": "Reach, trample\nYour opponents can't cast spells during your turn.\nWhenever a creature you control is dealt damage, you may have The Sensational She-Hulk deal that much damage to any target. Do this only once each turn.",
+    "power": "6",
+    "toughness": "6",
     "loyalty": null
    }
   ],
   "section": "Gold"
  },
  {
-  "name": "Auntie Ool, Cursewretch",
-  "oracle_id": "e3cd53c1-86bd-4177-adb0-a1fa693b44c6",
-  "mana_cost": "{1}{B}{R}{G}",
-  "cmc": 4.0,
-  "type_line": "Legendary Creature — Goblin Warlock",
-  "oracle_text": "Ward—Blight 2. (To blight 2, a player puts two -1/-1 counters on a creature they control.)\nWhenever one or more -1/-1 counters are put on a creature, draw a card if you control that creature. If you don't control it, its controller loses 1 life.",
+  "name": "Mind Meanderer",
+  "oracle_id": "18d1765b-3b60-4dda-93a6-d02a4e53f185",
+  "mana_cost": "{3}{G}{U}{U}",
+  "cmc": 6.0,
+  "type_line": "Creature — Bird Fish Illusion",
+  "oracle_text": "Flying\nThis creature has vigilance as long as you control a Jace planeswalker.\nWhen this creature enters, it fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)",
   "power": "4",
   "toughness": "4",
   "loyalty": null,
   "colors": [
-   "B",
    "G",
-   "R"
+   "U"
+  ],
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "layout": "normal",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "141",
+  "rarity": "uncommon",
+  "released_at": "2026-10-02",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "fra"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/9/4/94c290ce-252c-42b3-bcb0-c1ef621df566.jpg?1789470861",
+  "image_small": "https://cards.scryfall.io/small/front/9/4/94c290ce-252c-42b3-bcb0-c1ef621df566.jpg?1789470861",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/fra/141/mind-meanderer?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Hapatra, the Desert Fang",
+  "oracle_id": "6894345f-52a6-46e4-b278-0783087daee1",
+  "mana_cost": "{2}{B}{B}{G}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Cleric",
+  "oracle_text": "When Hapatra enters, for each opponent, put X -1/-1 counters on up to one target creature that player controls, where X is the greatest mana value among cards in your graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "loyalty": null,
+  "colors": [
+   "B",
+   "G"
   ],
   "color_identity": [
    "B",
-   "G",
-   "R"
+   "G"
   ],
   "layout": "normal",
-  "set": "ecc",
-  "set_name": "Lorwyn Eclipsed Commander",
-  "collector_number": "2",
-  "rarity": "mythic",
-  "released_at": "2026-01-23",
-  "eligibility": "new card in supplemental product",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "271",
+  "rarity": "uncommon",
+  "released_at": "2026-10-02",
+  "eligibility": "main-set printing",
   "printed_in_2026": [
-   "ecc"
+   "fra"
   ],
-  "image": "https://cards.scryfall.io/normal/front/9/a/9a2e4252-9fbc-4d43-8935-db2cafaa7b5f.jpg?1783904606",
-  "image_small": "https://cards.scryfall.io/small/front/9/a/9a2e4252-9fbc-4d43-8935-db2cafaa7b5f.jpg?1783904606",
+  "image": "https://cards.scryfall.io/normal/front/c/f/cf7c1534-af41-4991-b3c3-f0a34ae330b5.jpg?1789385991",
+  "image_small": "https://cards.scryfall.io/small/front/c/f/cf7c1534-af41-4991-b3c3-f0a34ae330b5.jpg?1789385991",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecc/2/auntie-ool-cursewretch?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/fra/271/hapatra-the-desert-fang?utm_source=api",
+  "section": "Gold"
+ },
+ {
+  "name": "Prismari Charm",
+  "oracle_id": "c3c25a2c-f71c-4cb7-9117-0bcda9248bfd",
+  "mana_cost": "{U}{R}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Choose one —\n• Surveil 2, then draw a card.\n• Prismari Charm deals 1 damage to each of one or two targets.\n• Return target nonland permanent to its owner's hand.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [
+   "R",
+   "U"
+  ],
+  "color_identity": [
+   "R",
+   "U"
+  ],
+  "layout": "normal",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "211",
+  "rarity": "uncommon",
+  "released_at": "2026-04-24",
+  "eligibility": "main-set printing",
+  "printed_in_2026": [
+   "sos"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/8/f/8f6c2a5e-fe13-407c-aadd-c9caf2884ff1.jpg?1783903636",
+  "image_small": "https://cards.scryfall.io/small/front/8/f/8f6c2a5e-fe13-407c-aadd-c9caf2884ff1.jpg?1783903636",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/sos/211/prismari-charm?utm_source=api",
   "section": "Gold"
  },
  {
@@ -10431,90 +10790,6 @@
   "image_small": "https://cards.scryfall.io/small/front/5/e/5e2f9f4c-dbdd-4da6-b08f-1f4d3fcb1328.jpg?1783903259",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/msc/106/herbie-lovable-robot?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "Firdoch Core",
-  "oracle_id": "126c75c0-414b-4e55-8747-2b5566ce716f",
-  "mana_cost": "{3}",
-  "cmc": 3.0,
-  "type_line": "Kindred Artifact — Shapeshifter",
-  "oracle_text": "Changeling (This card is every creature type.)\n{T}: Add one mana of any color.\n{4}: This artifact becomes a 4/4 artifact creature until end of turn.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "255",
-  "rarity": "common",
-  "released_at": "2026-01-23",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "ecl"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/8/e/8e45cd37-bf97-4742-978d-96f96ed653cd.jpg?1783904397",
-  "image_small": "https://cards.scryfall.io/small/front/8/e/8e45cd37-bf97-4742-978d-96f96ed653cd.jpg?1783904397",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/255/firdoch-core?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "Murmuring Volume",
-  "oracle_id": "4baa7847-dfcc-4aa3-aa64-2deeaa3f013b",
-  "mana_cost": "{3}",
-  "cmc": 3.0,
-  "type_line": "Artifact — Book",
-  "oracle_text": "{T}: Add one mana of any color.\n{2}, {T}, Discard a card: Draw a card.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "174",
-  "rarity": "common",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/d/6/d68eab2e-89dd-4377-b7af-01512b1804a0.jpg?1789385977",
-  "image_small": "https://cards.scryfall.io/small/front/d/6/d68eab2e-89dd-4377-b7af-01512b1804a0.jpg?1789385977",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/174/murmuring-volume?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "Foraging Wickermaw",
-  "oracle_id": "11ceb2db-021e-422d-976e-7bfe3b67a8aa",
-  "mana_cost": "{2}",
-  "cmc": 2.0,
-  "type_line": "Artifact Creature — Scarecrow",
-  "oracle_text": "When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{1}: Add one mana of any color. This creature becomes that color until end of turn. Activate only once each turn.",
-  "power": "1",
-  "toughness": "3",
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "ecl",
-  "set_name": "Lorwyn Eclipsed",
-  "collector_number": "256",
-  "rarity": "common",
-  "released_at": "2026-01-23",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "ecl"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/f/5/f524bc08-caeb-4362-b960-eb8e0e4159d0.jpg?1783904398",
-  "image_small": "https://cards.scryfall.io/small/front/f/5/f524bc08-caeb-4362-b960-eb8e0e4159d0.jpg?1783904398",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/ecl/256/foraging-wickermaw?utm_source=api",
   "section": "Colorless"
  },
  {
@@ -10665,34 +10940,6 @@
   "section": "Colorless"
  },
  {
-  "name": "Biblioplex Tomekeeper",
-  "oracle_id": "08a0e845-9ef9-4de1-b9fe-4530357346ca",
-  "mana_cost": "{4}",
-  "cmc": 4.0,
-  "type_line": "Artifact Creature — Construct",
-  "oracle_text": "When this creature enters, choose up to one —\n• Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)\n• Target creature becomes unprepared.",
-  "power": "3",
-  "toughness": "4",
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "sos",
-  "set_name": "Secrets of Strixhaven",
-  "collector_number": "247",
-  "rarity": "common",
-  "released_at": "2026-04-24",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "sos"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/b/f/bf2efdd9-d2b4-4bea-a5b9-dbb2eee4dfba.jpg?1783903623",
-  "image_small": "https://cards.scryfall.io/small/front/b/f/bf2efdd9-d2b4-4bea-a5b9-dbb2eee4dfba.jpg?1783903623",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/sos/247/biblioplex-tomekeeper?utm_source=api",
-  "section": "Colorless"
- },
- {
   "name": "The Vision",
   "oracle_id": "32aee76a-e738-4898-985a-801d1cce15ea",
   "mana_cost": "{4}",
@@ -10828,90 +11075,6 @@
   "section": "Colorless"
  },
  {
-  "name": "Omni-Cheese Pizza",
-  "oracle_id": "73144877-1d37-4c7a-8493-3cef191b9211",
-  "mana_cost": "{2}",
-  "cmc": 2.0,
-  "type_line": "Artifact — Food",
-  "oracle_text": "When this artifact enters, draw a card.\n{1}, {T}, Sacrifice this artifact: Add one mana of any color.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "tmt",
-  "set_name": "Teenage Mutant Ninja Turtles",
-  "collector_number": "176",
-  "rarity": "common",
-  "released_at": "2026-03-06",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "tmt"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/f/2/f2c8397c-2014-4a43-9ed7-41795880011f.jpg?1783904067",
-  "image_small": "https://cards.scryfall.io/small/front/f/2/f2c8397c-2014-4a43-9ed7-41795880011f.jpg?1783904067",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/tmt/176/omni-cheese-pizza?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "Tea, Earl Grey, Hot",
-  "oracle_id": "6f2e8083-29af-4cdb-a2cb-216b2f3f5616",
-  "mana_cost": "{2}",
-  "cmc": 2.0,
-  "type_line": "Artifact — Food",
-  "oracle_text": "When this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: Choose one —\n• This artifact deals 2 damage to target opponent.\n• You gain 3 life.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "trk",
-  "set_name": "Star Trek",
-  "collector_number": "269",
-  "rarity": "common",
-  "released_at": "2026-11-13",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "trk"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1793361401",
-  "image_small": "https://cards.scryfall.io/small/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1793361401",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/trk/269/tea-earl-grey-hot?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "Archive Arbiter",
-  "oracle_id": "36cb3d18-019c-464d-b591-8c87e1b81f31",
-  "mana_cost": "{6}",
-  "cmc": 6.0,
-  "type_line": "Artifact Creature — Sphinx",
-  "oracle_text": "Flying\nWhen this creature enters, choose one —\n• Destroy target noncreature, nonland permanent.\n• You gain 4 life.",
-  "power": "4",
-  "toughness": "4",
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "167",
-  "rarity": "uncommon",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/0/2/024bce1e-a5f3-4292-bc17-d0355a5d65e1.jpg?1789614867",
-  "image_small": "https://cards.scryfall.io/small/front/0/2/024bce1e-a5f3-4292-bc17-d0355a5d65e1.jpg?1789614867",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/167/archive-arbiter?utm_source=api",
-  "section": "Colorless"
- },
- {
   "name": "Tri-Sentinel, Act of Vengeance",
   "oracle_id": "d9cc9fc9-522e-4598-9a09-c95824d77acd",
   "mana_cost": "{7}",
@@ -10997,34 +11160,6 @@
   "section": "Colorless"
  },
  {
-  "name": "Henchbots",
-  "oracle_id": "1f097c91-6c2e-410f-8c8f-c021f39491af",
-  "mana_cost": "{4}",
-  "cmc": 4.0,
-  "type_line": "Artifact Creature — Robot",
-  "oracle_text": "When this creature enters, exile target tapped creature an opponent controls until this creature leaves the battlefield.",
-  "power": "2",
-  "toughness": "3",
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "tmt",
-  "set_name": "Teenage Mutant Ninja Turtles",
-  "collector_number": "174",
-  "rarity": "uncommon",
-  "released_at": "2026-03-06",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "tmt"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/d/7/d77aa46e-fa57-4427-b0a3-0a957dc994dc.jpg?1783904070",
-  "image_small": "https://cards.scryfall.io/small/front/d/7/d77aa46e-fa57-4427-b0a3-0a957dc994dc.jpg?1783904070",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/tmt/174/henchbots?utm_source=api",
-  "section": "Colorless"
- },
- {
   "name": "Kimoyo Beads",
   "oracle_id": "c7bdbf7a-8054-4e91-bb32-84f47e98553c",
   "mana_cost": "{4}",
@@ -11050,62 +11185,6 @@
   "image_small": "https://cards.scryfall.io/small/front/1/1/1138096a-0d7c-461b-af83-3c90f681722d.jpg?1783903258",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/msc/109/kimoyo-beads?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "U.S.S. Enterprise-D, Galaxy-Class",
-  "oracle_id": "d95af032-3efd-40c7-8229-ade9d974934f",
-  "mana_cost": "{3}",
-  "cmc": 3.0,
-  "type_line": "Legendary Artifact — Spacecraft",
-  "oracle_text": "Whenever one or more charge counters are put on U.S.S. Enterprise-D for the first time each turn, exile the top card of your library. You may play that card this turn.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying, vigilance",
-  "power": "4",
-  "toughness": "5",
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "trk",
-  "set_name": "Star Trek",
-  "collector_number": "273",
-  "rarity": "rare",
-  "released_at": "2026-11-13",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "trk"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784078038",
-  "image_small": "https://cards.scryfall.io/small/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784078038",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/trk/273/uss-enterprise-d-galaxy-class?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "H.E.R.B.I.E. Scout Unit",
-  "oracle_id": "393ff8c5-4da0-4290-b498-222cc0244026",
-  "mana_cost": "{4}",
-  "cmc": 4.0,
-  "type_line": "Artifact Creature — Robot Scout",
-  "oracle_text": "Flying\nWhen this creature enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.",
-  "power": "2",
-  "toughness": "1",
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "msh",
-  "set_name": "Marvel Super Heroes",
-  "collector_number": "247",
-  "rarity": "common",
-  "released_at": "2026-06-26",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "msh"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/3/4/3496d0d4-3fab-4ea4-8986-afe5a7155ec6.jpg?1783902891",
-  "image_small": "https://cards.scryfall.io/small/front/3/4/3496d0d4-3fab-4ea4-8986-afe5a7155ec6.jpg?1783902891",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msh/247/herbie-scout-unit?utm_source=api",
   "section": "Colorless"
  },
  {
@@ -11137,87 +11216,31 @@
   "section": "Colorless"
  },
  {
-  "name": "Captain America's Shield",
-  "oracle_id": "8255a797-ddd3-4db0-a3f5-dd8f38c3b908",
-  "mana_cost": "{2}",
-  "cmc": 2.0,
-  "type_line": "Legendary Artifact — Equipment",
-  "oracle_text": "Indestructible\nEquipped creature gets +0/+8 and has vigilance.\nWhenever equipped creature attacks, tap target creature defending player controls.\nEquip {2}",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "msh",
-  "set_name": "Marvel Super Heroes",
-  "collector_number": "244",
-  "rarity": "rare",
-  "released_at": "2026-06-26",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "msh"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/4/b/4b5433ac-0d36-4472-bf8b-d22f0ffd367b.jpg?1783902892",
-  "image_small": "https://cards.scryfall.io/small/front/4/b/4b5433ac-0d36-4472-bf8b-d22f0ffd367b.jpg?1783902892",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msh/244/captain-americas-shield?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "Vision, Synthezoid Avenger",
-  "oracle_id": "2f4360f6-9ac7-499f-b0a5-769550ea15ba",
-  "mana_cost": "{4}",
-  "cmc": 4.0,
-  "type_line": "Legendary Artifact Creature — Robot Hero",
-  "oracle_text": "Flying\nWhenever a player casts a spell, if it isn't that player's turn, choose one —\n• Put a +1/+1 counter on Vision.\n• Vision phases out. (Treat him and anything attached to him as though they don't exist until your next turn.)",
-  "power": "3",
-  "toughness": "3",
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "msc",
-  "set_name": "Marvel Super Heroes Commander",
-  "collector_number": "119",
-  "rarity": "rare",
-  "released_at": "2026-06-26",
-  "eligibility": "new card in supplemental product",
-  "printed_in_2026": [
-   "msc"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/f/7/f7007b77-84ec-4391-b279-8c188dd569d0.jpg?1783903252",
-  "image_small": "https://cards.scryfall.io/small/front/f/7/f7007b77-84ec-4391-b279-8c188dd569d0.jpg?1783903252",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/msc/119/vision-synthezoid-avenger?utm_source=api",
-  "section": "Colorless"
- },
- {
-  "name": "Giant's Boulder",
-  "oracle_id": "80433c2c-5196-42e0-b9fa-d7b12783f5fd",
-  "mana_cost": "{1}",
-  "cmc": 1.0,
+  "name": "Weather Maker",
+  "oracle_id": "4097fea2-ae34-4b99-ab7e-a276d608b489",
+  "mana_cost": "{3}",
+  "cmc": 3.0,
   "type_line": "Artifact",
-  "oracle_text": "When this artifact enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\n{1}, {T}: Add one mana of any color.\n{7}, {T}, Sacrifice this artifact: Destroy target permanent.",
+  "oracle_text": "Landfall — Whenever a land you control enters, put a charge counter on this artifact.\n{T}: Add one mana of any color.\n{T}, Remove two charge counters from this artifact: Add {C}{C}.\n{T}, Remove three charge counters from this artifact: It deals 3 damage to any target.",
   "power": null,
   "toughness": null,
   "loyalty": null,
   "colors": [],
   "color_identity": [],
   "layout": "normal",
-  "set": "hob",
-  "set_name": "The Hobbit",
-  "collector_number": "173",
-  "rarity": "common",
-  "released_at": "2026-08-14",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "182",
+  "rarity": "rare",
+  "released_at": "2026-03-06",
   "eligibility": "main-set printing",
   "printed_in_2026": [
-   "hob"
+   "tmt"
   ],
-  "image": "https://cards.scryfall.io/normal/front/c/e/ce254758-c928-4b43-a952-13fac1845668.jpg?1785497186",
-  "image_small": "https://cards.scryfall.io/small/front/c/e/ce254758-c928-4b43-a952-13fac1845668.jpg?1785497186",
+  "image": "https://cards.scryfall.io/normal/front/a/a/aaba62c1-760b-491b-8047-869bb1d3f67e.jpg?1783904064",
+  "image_small": "https://cards.scryfall.io/small/front/a/a/aaba62c1-760b-491b-8047-869bb1d3f67e.jpg?1783904064",
   "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/hob/173/giants-boulder?utm_source=api",
+  "scryfall_uri": "https://scryfall.com/card/tmt/182/weather-maker?utm_source=api",
   "section": "Colorless"
  },
  {
@@ -12116,124 +12139,6 @@
   "section": "Lands"
  },
  {
-  "name": "Illegitimate Business",
-  "oracle_id": "01ee70d4-6527-45ae-9600-bd3d16b3037d",
-  "mana_cost": "",
-  "cmc": 0.0,
-  "type_line": "Land",
-  "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {G}.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [
-   "B",
-   "G"
-  ],
-  "layout": "normal",
-  "set": "tmt",
-  "set_name": "Teenage Mutant Ninja Turtles",
-  "collector_number": "186",
-  "rarity": "common",
-  "released_at": "2026-03-06",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "tmt"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/7/1/71597acf-1ce6-46a8-b6c0-88755c8a377c.jpg?1783904064",
-  "image_small": "https://cards.scryfall.io/small/front/7/1/71597acf-1ce6-46a8-b6c0-88755c8a377c.jpg?1783904064",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/tmt/186/illegitimate-business?utm_source=api",
-  "section": "Lands"
- },
- {
-  "name": "Dimension X",
-  "oracle_id": "8683341a-e836-41e5-9034-4da09eb0ab42",
-  "mana_cost": "",
-  "cmc": 0.0,
-  "type_line": "Land",
-  "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {W}.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [
-   "R",
-   "W"
-  ],
-  "layout": "normal",
-  "set": "tmt",
-  "set_name": "Teenage Mutant Ninja Turtles",
-  "collector_number": "183",
-  "rarity": "common",
-  "released_at": "2026-03-06",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "tmt"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/1/c/1c244fc2-70f0-4149-b0d2-d49fc6bac2b0.jpg?1783904064",
-  "image_small": "https://cards.scryfall.io/small/front/1/c/1c244fc2-70f0-4149-b0d2-d49fc6bac2b0.jpg?1783904064",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/tmt/183/dimension-x?utm_source=api",
-  "section": "Lands"
- },
- {
-  "name": "Skycoach Waypoint",
-  "oracle_id": "2ac2b815-2d72-48e6-b43a-18884a74bf95",
-  "mana_cost": "",
-  "cmc": 0.0,
-  "type_line": "Land",
-  "oracle_text": "{T}: Add {C}.\n{3}, {T}: Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "sos",
-  "set_name": "Secrets of Strixhaven",
-  "collector_number": "261",
-  "rarity": "uncommon",
-  "released_at": "2026-04-24",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "sos"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/6/7/6747657b-5ce4-4dbd-b924-ca1f7119faf7.jpg?1783903618",
-  "image_small": "https://cards.scryfall.io/small/front/6/7/6747657b-5ce4-4dbd-b924-ca1f7119faf7.jpg?1783903618",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/sos/261/skycoach-waypoint?utm_source=api",
-  "section": "Lands"
- },
- {
-  "name": "Hexhaven Dueling Arena",
-  "oracle_id": "2cc075da-f79b-4050-84eb-2c1b9a30260c",
-  "mana_cost": "",
-  "cmc": 0.0,
-  "type_line": "Land",
-  "oracle_text": "{T}: Add {C}.\n{2}, {T}: Target creature that attacked this turn becomes prepared. Activate only as a sorcery. (Only creatures with prepare spells can become prepared.)\n{4}, {T}: Target creature becomes prepared.",
-  "power": null,
-  "toughness": null,
-  "loyalty": null,
-  "colors": [],
-  "color_identity": [],
-  "layout": "normal",
-  "set": "fra",
-  "set_name": "Reality Fracture",
-  "collector_number": "181",
-  "rarity": "uncommon",
-  "released_at": "2026-10-02",
-  "eligibility": "main-set printing",
-  "printed_in_2026": [
-   "fra"
-  ],
-  "image": "https://cards.scryfall.io/normal/front/9/1/9128ce00-6744-4d36-bfbe-ef75d78110b0.jpg?1789556985",
-  "image_small": "https://cards.scryfall.io/small/front/9/1/9128ce00-6744-4d36-bfbe-ef75d78110b0.jpg?1789556985",
-  "image_back": null,
-  "scryfall_uri": "https://scryfall.com/card/fra/181/hexhaven-dueling-arena?utm_source=api",
-  "section": "Lands"
- },
- {
   "name": "Surveillance Room",
   "oracle_id": "a3648376-dc8b-409b-b2d1-c29e326a059c",
   "mana_cost": "",
@@ -12288,6 +12193,68 @@
   "image_small": "https://cards.scryfall.io/small/front/4/2/42d92674-2664-411c-b9c5-b04da7c845f4.jpg?1783903620",
   "image_back": null,
   "scryfall_uri": "https://scryfall.com/card/sos/257/great-hall-of-the-biblioplex?utm_source=api",
+  "section": "Lands"
+ },
+ {
+  "name": "Turbulent Fen",
+  "oracle_id": "114dd40d-5ad8-4913-a08f-572b9521eb5b",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land — Swamp Forest",
+  "oracle_text": "({T}: Add {B} or {G}.)\nThis land enters tapped unless your opponents control eight or more lands.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "layout": "normal",
+  "set": "soc",
+  "set_name": "Secrets of Strixhaven Commander",
+  "collector_number": "55",
+  "rarity": "rare",
+  "released_at": "2026-04-24",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "soc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/9/7/9737159b-256c-4004-ba5f-0417c35e1b30.jpg?1783903846",
+  "image_small": "https://cards.scryfall.io/small/front/9/7/9737159b-256c-4004-ba5f-0417c35e1b30.jpg?1783903846",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/soc/55/turbulent-fen?utm_source=api",
+  "section": "Lands"
+ },
+ {
+  "name": "Turbulent Steppe",
+  "oracle_id": "db444f9d-4dde-4308-b0f2-7acfe6de871a",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land — Mountain Plains",
+  "oracle_text": "({T}: Add {R} or {W}.)\nThis land enters tapped unless your opponents control eight or more lands.",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "colors": [],
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "layout": "normal",
+  "set": "soc",
+  "set_name": "Secrets of Strixhaven Commander",
+  "collector_number": "58",
+  "rarity": "rare",
+  "released_at": "2026-04-24",
+  "eligibility": "new card in supplemental product",
+  "printed_in_2026": [
+   "soc"
+  ],
+  "image": "https://cards.scryfall.io/normal/front/c/0/c0c73dd5-0a88-4a94-9c01-c1473433e46f.jpg?1783903845",
+  "image_small": "https://cards.scryfall.io/small/front/c/0/c0c73dd5-0a88-4a94-9c01-c1473433e46f.jpg?1783903845",
+  "image_back": null,
+  "scryfall_uri": "https://scryfall.com/card/soc/58/turbulent-steppe?utm_source=api",
   "section": "Lands"
  }
 ]

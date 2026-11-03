@@ -1,5 +1,8 @@
 """Archetype / role tags for every card in the 2026 Cube.
 
+(Entries for cards cut during testing are kept so older lists can still be
+simulated; see TESTING.md.)
+
 Archetype tags name the two-colour deck(s) a card is drafted for.
 Role tags (Removal, Sweeper, Counterspell, Prepared, Reanimator, Ramp, Fixing,
 Planeswalker) mark what the card does in any deck.
@@ -361,3 +364,50 @@ TAGS = {
     "Great Hall of the Biblioplex": [UR],
     "Surveillance Room": [FIX],
 }
+
+# ---------------- v2 additions ----------------
+TAGS.update({
+    "Amazing Spider-Girl": [WU], "Imperial Hullbreachers": [RW, WB],
+    "Captain America, Liberator": [RW], "Lyra, Archangel of Dawn": [WB],
+    "Royal Talon Fighter Jet": [GW, RW], "Leader, Super-Genius": [UB],
+    "Jadzi, Steward of Fate": [WU, UB, PREP, REAN], "Retro-Mutation": [REM],
+    "Subcommander T'Pol": [UB, WU], "Giant Space Amoeba": [UB],
+    "Glen Elendra's Answer": [CTR, UB], "Decorum Dissertation": [UB],
+    "Blight Rot": [REM, BG], "Kurn, Son of Mogh": [UB, BG], "Kingpin's Enforcers": [BR],
+    "Green Goblin, Back for More": [BR, REAN], "Heirloom Auntie": [BR, BG],
+    "Thor, Asgard's Avenger": [UR, RW], "Slash, Reptile Rampager": [RW, RG],
+    "Soul Immolation": [SWP, BG, RG], "Jack of Hearts, Volatile Hero": [UR, RW],
+    "Spider-Man, Web-Spinner": [RW], "Gandalf, Spark Starter": [REM, RG],
+    "Hulk, Strongest There Is": [GW, RG], "U.S.S. Discovery, at Black Alert": [UG, RG],
+    "Benjamin Sisko, Besieged": [UG, RG], "Germination Practicum": [GW],
+    "Carnivorous Cultivator": [BG, UG, PREP], "Quarrel": [REM],
+    "Hulk, Brutal Brawler": [GW, RG], "Verdant Kraken": [UG, RG],
+    "Edgar, Moonlit Sovereign": [GW], "Denzilore Fatehold": [WU], "Bard's Company": [WU],
+    "Hawkeye, Avenging Archer": [UR, REM], "Splatter Technique": [UR, SWP],
+    "Quandrix, the Proof": [UG], "Proctor's Gaze": [UG],
+    "Vraska, the Cutting Glare": [BG, REM], "Craftwork Crusher": [RG, REM],
+    "Lorehold, the Historian": [RW], "Jennifer Walters": [GW],
+    "Weather Maker": [RAMP, FIX, UG], "Exploding Barrel": [RAMP, FIX, REM],
+})
+
+# ---------------- v3 additions / BG graveyard tagging ----------------
+TAGS.update({
+    "Mind Meanderer": [UG, REM], "Hapatra, the Desert Fang": [BG, REM],
+    "Giant-Man, Gargantuan Genius": [RG, UG, RAMP], "Rhino, Terrible Trampler": [RG, GW],
+    "Theorist's Proxy": [UB, WU], "Klingon Strike Force": [RG, BR], "Age of Ultron": [REM, BR],
+    # BG is "Blight & Graveyard": the graveyard-recursion cards belong to it too
+    "Grave Researcher": [PREP, REAN, BG], "Vastlands Scavenger": [PREP, REAN, BG],
+    "Emeritus of Abundance": [PREP, UG, BG], "Too Evil to Stay Dead": [REAN, BG],
+    "Rewrite Regrets": [REAN, BG], "Ral Zarek, Guest Lecturer": [PW, REAN, BG],
+})
+TAGS.update({"Prismari Charm": [UR, REM]})
+
+# ---------------- v4 curve fixes ----------------
+TAGS.update({
+    "Bejeweled Warg": [RG, GW], "Michelangelo, the Heart": [GW], "Noxious Newt": [RAMP, BG],
+    "Saru, Unthreatened": [GW, UG], "Tenacious Tosk": [RG, GW], "Tasha Yar, Out of Time": [RW, BR],
+    "Explosive Prodigy": [REM, RW], "Gollum, Riddle Master": [WB, BR], "Requiting Hex": [REM, BG],
+})
+
+TAGS.update({"Konstrari Charm": [RG, REM]})
+TAGS.update({"Renet, Temporal Apprentice": [UB, WU]})

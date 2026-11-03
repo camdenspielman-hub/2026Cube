@@ -10,14 +10,11 @@ Ceaseless Conflict
 Splinter, Aging Champion
 Ennis, Debate Moderator
 Elite Interceptor // Rejoinder
-Prehistoric Pet
 Rescue Girl, First Responder
 Miles O'Brien, Transporter Ops
-Flickering Hound
 Ghost of Illyria
 Quantum Entanglement
 The Mind Stone
-Joined Researchers // Secret Rendezvous
 Quill-Blade Laureate // Twofold Intent
 Leonardo, Cutting Edge
 Kinscaer Sentry
@@ -44,16 +41,17 @@ U.S.S. Enterprise-A, Free Spirit
 Enlightened Confidant
 Daydream
 Triceraton Commander
-Spell Snare
+Amazing Spider-Girl
+Imperial Hullbreachers
+Captain America, Liberator
+Lyra, Archangel of Dawn
+Royal Talon Fighter Jet
 Wild Unraveling
 Mana Sculpt
 Countersculpt
 Highly Illogical
-Brush Off
 Confusticate and Bebother
-Harmonized Trio // Brainstorm
 Emeritus of Ideation // Ancestral Recall
-Dirgur Focusmage // Braingeyser
 Seasoned Cryomancer
 Mr. Spock, Science Officer
 Spock, Logical Choice
@@ -77,7 +75,6 @@ Kitsune, Dragon's Daughter
 Variable Chaser // Arc of Fortune
 Data, Professor of Humanities
 Data, Exploring Humanity
-Daughter of the Deep
 Chandra, Chill of Compliance
 The Theorist, Jace Beleren
 Noggle the Mind
@@ -85,17 +82,22 @@ Romulan Bird-of-Prey
 Geist of Saint Thalia
 Lieutenant Commander Data
 Valeria Richards, Precocious
-Most Decrepit Old Bird // Speak Secrets
 Omni-Changeling
 Plunder the Trollshaws
 Riddles in the Dark
 Bilbo, Thief in the Night
-Energize
+Leader, Super-Genius
+Jadzi, Steward of Fate // Oracle's Gift
+Retro-Mutation
+Subcommander T'Pol
+Giant Space Amoeba
+Glen Elendra's Answer
+Theorist's Proxy
+Renet, Temporal Apprentice
 Vraska's Final Mercy
 Bilbo's Deadly Slice
 Dark Deed
 Death in the Family
-Nameless Inversion
 Resistance Is Futile
 Impossible Choice
 Lich's Relic
@@ -108,7 +110,6 @@ Emeritus of Woe // Demonic Tutor
 Grave Researcher // Reanimate
 Scheming Silvertongue // Sign in Blood
 Stensian Sanguinist // Exsanguinate
-Cheerful Osteomancer // Raise Dead
 Bitterbloom Bearer
 Super Shredder
 Doctor Doom
@@ -127,17 +128,19 @@ Shredder's Technique
 Black Widow, Super Spy
 Shark Shredder, Killer Clone
 Splinter's Technique
-Armaggon, Future Shark
 Too Evil to Stay Dead
 Rewrite Regrets
-Construct a Cosmic Cube
-Madame Masque
 Moonshadow
-Retched Wretch
 The Sackville-Bagginses
 Splinter, Hamato Yoshi
-Creakwood Safewright
 Lamentation
+Decorum Dissertation
+Blight Rot
+Kurn, Son of Mogh
+Kingpin's Enforcers
+Gollum, Riddle Master
+Heirloom Auntie
+Requiting Hex
 Emeritus of Conflict // Lightning Bolt
 Lightning Strike
 Impractical Joke
@@ -147,13 +150,10 @@ Sear
 Khaaaaaaaaaaaannn!
 End-Blaze Epiphany
 Fulminous Forte
-Snowslope Hunter
 Cinder Strike
 Avengers Disassembled
 Jennika's Technique
 Mjölnir, Hammer of Thor
-Quicksilver, Brash Blur
-Pompous Battlemage // Improvised Act
 Hawkeye, Master Marksman
 Scuzzback Scrounger
 Stingcaster Mage
@@ -163,7 +163,6 @@ Worf, Intelligence Contractor
 The Wrath of Khan
 Casey Jones, Vigilante
 Maelstrom Artisan // Rocket Volley
-Pyre Rhymer // Molten Tide
 Prismari Pianist
 Naktamun Lorespinner // Wheel of Fortune
 Charging Strifeknight
@@ -176,7 +175,6 @@ Thor, God of Thunder
 Ajani Unrelenting
 Luke Cage, Hero for Hire
 Elektra, Femme Fatale
-Kiora of Fire and Ashes
 The Vision and Scarlet Witch
 Hard-Won Jitte
 Thorin, Mountain-king
@@ -185,6 +183,13 @@ Samut, Hazoret's Champion
 Raphael, the Nightwatcher
 Village Pillagers
 Gandalf, Goblins' Bane // Flameshape
+Thor, Asgard's Avenger
+Slash, Reptile Rampager
+Soul Immolation
+Jack of Hearts, Volatile Hero
+Spider-Man, Web-Spinner
+Explosive Prodigy
+Tasha Yar, Out of Time
 Bloom Tender
 Frog Butler
 Great Forest Druid
@@ -202,10 +207,9 @@ Leatherhead, Swamp Stalker
 Michelangelo, Improviser
 Radagast of Rhosgobel
 Garruk, Curse Breaker
-Hexhaven Invigorator
-Hungering Puppetbeast
+Tenacious Tosk
 Hit-Monkey
-Mugato
+Noxious Newt
 Rok-Tahk, Budding Scientist
 Captain Kathryn Janeway
 Dr. Joseph M'Benga
@@ -215,28 +219,31 @@ Gigantic Big Bear
 Groundchuck & Dirtbag
 Michelangelo's Technique
 Celestial Reunion
-Midnight Tilling
 Mole Man, Moloid Master
 Dancing from Dark to Dawn
 Tenderize
 Super Combo
-Chomping Changeling
 Slumbering Trudge
 The Unbeatable Squirrel Girl
 Kinetic Ooze
-Mona Lisa, Science Geek
-Ambitious Augmenter
-Epic Fight
 Beorn the Fierce
-Beorn's Hospitality
-Sauron, Dino Devotee
+Michelangelo, the Heart
 Holo-Engineer
-Wood Elves
+Hulk, Strongest There Is
+U.S.S. Discovery, at Black Alert
+Benjamin Sisko, Besieged
+Germination Practicum
+Carnivorous Cultivator // Enroot
+Quarrel
+Hulk, Brutal Brawler
+Verdant Kraken
+Saru, Unthreatened
+Giant-Man, Gargantuan Genius
+Bejeweled Warg
 Don & Leo, Problem Solvers
 The Mighty Thor, Jane Foster
 King T'Challa // Black Panther, Hope Enduring
 Bard, Heir of Girion
-Constable Odo
 Proctor of Potential
 Kang, Temporal Tyrant
 Deceit
@@ -249,13 +256,11 @@ Traumatic Critique
 Saheeli, Jewel of Avishkar
 Rootha, Mastering the Moment
 Vibrant Outburst
-Iron Lad, Young Avenger
 Oko, Lorwyn Liege // Oko, Shadowmoor Scion
 Wistfulness
 Thranduil's Company
 Tam, Observant Sequencer // Deep Sight
 Mind into Matter
-Silvan Reveler
 Gowron, Eager for Battle
 L'Rell, Fierce Visionary
 Tokka & Rahzar, Terrible Twos
@@ -277,7 +282,6 @@ Hit It!
 Catharsis
 Raph & Leo, Sibling Rivals
 Quintorius, History Chaser
-Dwalin, Weaponmaster
 Warrior's Blades
 Excava, the Risen Past
 Dark Leo & Shredder
@@ -293,37 +297,35 @@ Okoye, Mighty and Adored
 Figure of Fable
 Brigid, Clachan's Heart // Brigid, Doun's Mind
 Kwia Vigorbloom
-Thanos, the Mad Titan
-Bruce Banner // The Incredible Hulk
-Auntie Ool, Cursewretch
+Denzilore Fatehold
+Bard's Company
+Hawkeye, Avenging Archer
+Splatter Technique
+Quandrix, the Proof
+Proctor's Gaze
+Vraska, the Cutting Glare
+Konstrari Charm
+Lorehold, the Historian
+Jennifer Walters // The Sensational She-Hulk
+Mind Meanderer
+Hapatra, the Desert Fang
+Prismari Charm
 H.E.R.B.I.E., Lovable Robot
-Firdoch Core
-Murmuring Volume
-Foraging Wickermaw
 Orcrist, Goblin-cleaver
 Sting, Bilbo's Sword
 Iron Man Armor
 Type-2 Phaser
 Codie, Ravenous Codex
-Biblioplex Tomekeeper
 The Vision
 The Arkenstone // Seek the Heart
 Engineered Explosives
 The Echoverse Fulcrum
-Omni-Cheese Pizza
-Tea, Earl Grey, Hot
-Archive Arbiter
 Tri-Sentinel, Act of Vengeance
 Crystalline Entity
 Emrakul, the Exigent Doom
-Henchbots
 Kimoyo Beads
-U.S.S. Enterprise-D, Galaxy-Class
-H.E.R.B.I.E. Scout Unit
 Vibranium Strike Gauntlets
-Captain America's Shield
-Vision, Synthezoid Avenger
-Giant's Boulder
+Weather Maker
 Hallowed Fountain
 Watery Grave
 Steam Vents
@@ -352,9 +354,7 @@ Gathering Place
 Scorched Geyser
 Sodden Verdure
 Eclipsed Steppe
-Illegitimate Business
-Dimension X
-Skycoach Waypoint
-Hexhaven Dueling Arena
 Surveillance Room
 Great Hall of the Biblioplex
+Turbulent Fen
+Turbulent Steppe

@@ -1,0 +1,180 @@
+"""Cube pick ratings (0-5) used by the draft simulator.
+
+5 = bomb / first pick, 4 = premium, 3 = solid playable, 2 = filler or needs
+its archetype, <2 = weak. Ratings assume a 1v1 high-power cube and account for
+how often conditional effects (prepared conditions, seek out, etc.) actually
+turn on. Lands are rated separately in draft_sim.py.
+"""
+
+RATINGS = {
+    # White
+    "Emeritus of Truce": 4.3, "Erode": 4.0, "70,000 Light-Years from Home": 3.8,
+    "Prophesied End": 3.5, "Harsh Annotation": 3.7, "Crib Swap": 3.5, "Web Up": 3.5,
+    "Malfunctioning Holodeck": 3.3, "Ceaseless Conflict": 3.8, "Splinter, Aging Champion": 3.3,
+    "Ennis, Debate Moderator": 2.8, "Elite Interceptor": 2.6, "Prehistoric Pet": 2.4,
+    "Rescue Girl, First Responder": 2.8, "Miles O'Brien, Transporter Ops": 2.8,
+    "Flickering Hound": 2.8, "Ghost of Illyria": 2.9, "Quantum Entanglement": 2.6,
+    "The Mind Stone": 3.5, "Joined Researchers": 2.6, "Quill-Blade Laureate": 2.7,
+    "Leonardo, Cutting Edge": 3.0, "Kinscaer Sentry": 3.2, "Iron Hills Blacksmith": 2.6,
+    "Captain America, Super-Soldier": 3.2, "Captain America, Wings of Freedom": 3.4,
+    "Deanna Troi, Psychic Counsel": 3.0, "Agent Bishop, Man in Black": 3.1,
+    "Captain Jean-Luc Picard": 4.0, "Ajani, Outland Chaperone": 4.2,
+    "Antiquities on the Loose": 3.3, "Leonardo, Sewer Samurai": 3.6, "Thalia, the Survivor": 3.0,
+    "Soaring Stoneglider": 3.0, "Rhys, the Evermore": 2.6, "The Queen of Dale": 2.7,
+    "Okoye, Dora Milaje Leader": 2.9, "Kíli the Resourceful": 2.5, "Endless Foot Assault": 2.8,
+    "Captain Marvel, Earth's Protector": 3.9, "Captain Marvel, Shooting Star": 3.8,
+    "Curious Colossus": 3.8, "U.S.S. Enterprise-A, Free Spirit": 3.4,
+    "Enlightened Confidant": 2.5, "Daydream": 2.3, "Triceraton Commander": 3.6,
+    # Blue
+    "Spell Snare": 2.8, "Wild Unraveling": 3.2, "Mana Sculpt": 3.3, "Countersculpt": 3.4,
+    "Highly Illogical": 3.3, "Brush Off": 2.8, "Confusticate and Bebother": 3.2,
+    "Harmonized Trio": 2.0, "Emeritus of Ideation": 4.6, "Dirgur Focusmage": 2.4,
+    "Seasoned Cryomancer": 3.7, "Mr. Spock, Science Officer": 4.0, "Spock, Logical Choice": 3.6,
+    "Quick Study": 2.9, "Seven of Nine, Unassimilated": 3.2, "Cloistered Telepath": 2.7,
+    "Glen Elendra Guardian": 3.7, "Loch Mare": 3.6, "The Wondrous Wasp": 3.2,
+    "Kang the Conqueror": 3.8, "Sphinx of False Conclusions": 3.8, "Skycoach Conductor": 3.0,
+    "Diviner of Victory": 3.0, "Justice, Vance Astrovik": 3.1, "Rescue, Pepper Potts": 2.7,
+    "Wesley Crusher, Starfleet Cadet": 3.2, "Lyra, Tolarian Archangel": 3.3,
+    "Spellbook Seeker": 2.9, "Silver Surfer, Cosmic Voyager": 3.3,
+    "Kitsune, Dragon's Daughter": 3.6, "Variable Chaser": 2.9,
+    "Data, Professor of Humanities": 3.0, "Data, Exploring Humanity": 3.2,
+    "Daughter of the Deep": 2.6, "Chandra, Chill of Compliance": 3.8,
+    "The Theorist, Jace Beleren": 4.0, "Noggle the Mind": 3.1, "Romulan Bird-of-Prey": 2.8,
+    "Geist of Saint Thalia": 2.5, "Lieutenant Commander Data": 2.7,
+    "Valeria Richards, Precocious": 2.8, "Most Decrepit Old Bird": 2.4, "Omni-Changeling": 2.8,
+    "Plunder the Trollshaws": 2.5, "Riddles in the Dark": 2.8, "Bilbo, Thief in the Night": 2.8,
+    "Energize": 2.2,
+    # Black
+    "Vraska's Final Mercy": 4.0, "Bilbo's Deadly Slice": 3.6, "Dark Deed": 3.7,
+    "Death in the Family": 3.6, "Nameless Inversion": 3.3, "Resistance Is Futile": 3.6,
+    "Impossible Choice": 3.3, "Lich's Relic": 3.7, "Elektra, Daughter of the Hand": 3.8,
+    "Azog, Moria's Ruin": 3.4, "Withering Curse": 3.6, "Garruk, Veiled Butcher": 4.2,
+    "Ral Zarek, Guest Lecturer": 4.2, "Emeritus of Woe": 4.6, "Grave Researcher": 3.3,
+    "Scheming Silvertongue": 2.6, "Stensian Sanguinist": 2.6, "Cheerful Osteomancer": 2.5,
+    "Bitterbloom Bearer": 4.2, "Super Shredder": 3.2, "Doctor Doom": 4.0,
+    "Doctor Doom, Unrivaled": 3.8, "M.O.D.O.K.": 3.8, "M.O.D.O.K., Evil Intellect": 3.5,
+    "Ultron the Annihilator": 3.7, "Head of the Hunt": 3.4, "Khan, Vengeful Heart": 3.3,
+    "Tragedy Feaster": 2.8, "Salt Vampire": 3.1, "Sinister Gnarlbark": 3.2,
+    "Grave Venerations": 3.3, "Liliana the Repentant": 2.9, "Shredder's Technique": 3.2,
+    "Black Widow, Super Spy": 3.0, "Shark Shredder, Killer Clone": 3.0,
+    "Splinter's Technique": 3.0, "Armaggon, Future Shark": 2.8, "Too Evil to Stay Dead": 2.9,
+    "Rewrite Regrets": 3.0, "Construct a Cosmic Cube": 2.6, "Madame Masque": 2.6,
+    "Moonshadow": 2.4, "Retched Wretch": 2.3, "The Sackville-Bagginses": 2.8,
+    "Splinter, Hamato Yoshi": 2.4, "Creakwood Safewright": 2.4, "Lamentation": 3.0,
+    # Red
+    "Emeritus of Conflict": 3.0, "Lightning Strike": 3.3, "Impractical Joke": 3.4,
+    "No Admittance": 3.3, "Transporter Malfunction": 3.3, "Sear": 3.4,
+    "Khaaaaaaaaaaaannn!": 3.4, "End-Blaze Epiphany": 3.5, "Fulminous Forte": 3.4,
+    "Snowslope Hunter": 2.4, "Cinder Strike": 2.9, "Avengers Disassembled": 3.2,
+    "Jennika's Technique": 2.9, "Mjölnir, Hammer of Thor": 3.6, "Quicksilver, Brash Blur": 2.4,
+    "Pompous Battlemage": 2.2, "Hawkeye, Master Marksman": 2.9, "Scuzzback Scrounger": 3.1,
+    "Stingcaster Mage": 3.1, "Molten-Core Maestro": 2.9, "Captain James T. Kirk": 3.3,
+    "Worf, Intelligence Contractor": 2.8, "The Wrath of Khan": 3.6,
+    "Casey Jones, Vigilante": 3.0, "Maelstrom Artisan": 3.0, "Pyre Rhymer": 2.9,
+    "Prismari Pianist": 2.8, "Naktamun Lorespinner": 2.9, "Charging Strifeknight": 2.9,
+    "Smaug the Magnificent": 4.0, "Spinerock Tyrant": 4.0, "Curse-Marred Demon": 3.7,
+    "Chandra, Torch of Defiance": 4.4, "Draconic Visitor": 3.6, "Thor, God of Thunder": 3.7,
+    "Ajani Unrelenting": 3.6, "Luke Cage, Hero for Hire": 3.4, "Elektra, Femme Fatale": 3.1,
+    "Kiora of Fire and Ashes": 3.1, "The Vision and Scarlet Witch": 3.2, "Hard-Won Jitte": 2.8,
+    "Thorin, Mountain-king": 3.1, "Dáin Ironfoot": 2.8, "Samut, Hazoret's Champion": 2.6,
+    "Raphael, the Nightwatcher": 3.4, "Village Pillagers": 3.3, "Gandalf, Goblins' Bane": 2.8,
+    # Green
+    "Bloom Tender": 3.6, "Frog Butler": 3.2, "Great Forest Druid": 3.0,
+    "Jadzia Dax, Living Legacy": 3.3, "Studious First-Year": 3.0, "Simulacrum Shaper": 3.1,
+    "Transdimensional Bovine": 2.9, "Tarmogoyf": 3.8, "Bristlebane Battler": 3.3,
+    "Vastlands Scavenger": 3.6, "Emeritus of Abundance": 3.7, "Formidable Speaker": 3.3,
+    "Mutable Explorer": 3.1, "Leatherhead, Swamp Stalker": 3.4, "Michelangelo, Improviser": 3.4,
+    "Radagast of Rhosgobel": 3.0, "Garruk, Curse Breaker": 4.0, "Hexhaven Invigorator": 3.2,
+    "Hungering Puppetbeast": 3.2, "Hit-Monkey": 3.3, "Mugato": 3.3,
+    "Rok-Tahk, Budding Scientist": 3.2, "Captain Kathryn Janeway": 3.5,
+    "Dr. Joseph M'Benga": 3.0, 'Dr. Leonard "Bones" McCoy': 3.0,
+    "Michelangelo, Weirdness to 11": 2.8, "Gigantic Big Bear": 3.4, "Groundchuck & Dirtbag": 3.3,
+    "Michelangelo's Technique": 3.0, "Celestial Reunion": 2.8, "Midnight Tilling": 2.4,
+    "Mole Man, Moloid Master": 2.8, "Dancing from Dark to Dawn": 3.0, "Tenderize": 2.9,
+    "Super Combo": 3.0, "Chomping Changeling": 2.4, "Slumbering Trudge": 3.0,
+    "The Unbeatable Squirrel Girl": 3.2, "Kinetic Ooze": 2.9, "Mona Lisa, Science Geek": 2.6,
+    "Ambitious Augmenter": 2.2, "Epic Fight": 2.8, "Beorn the Fierce": 3.5,
+    "Beorn's Hospitality": 2.4, "Sauron, Dino Devotee": 3.1, "Holo-Engineer": 3.0,
+    "Wood Elves": 2.8,
+    # Multicolor
+    "Don & Leo, Problem Solvers": 3.1, "The Mighty Thor, Jane Foster": 3.3, "King T'Challa": 3.3,
+    "Bard, Heir of Girion": 3.8, "Constable Odo": 3.0, "Proctor of Potential": 2.7,
+    "Kang, Temporal Tyrant": 3.0, "Deceit": 4.0, "Voracious Tome-Skimmer": 3.0,
+    "Theorix Charm": 3.0, "Uldaros Theorix": 3.4, "Null Summoner": 2.9,
+    "Colorstorm Stallion": 3.2, "Traumatic Critique": 3.6, "Saheeli, Jewel of Avishkar": 3.0,
+    "Rootha, Mastering the Moment": 3.3, "Vibrant Outburst": 3.3, "Iron Lad, Young Avenger": 2.7,
+    "Oko, Lorwyn Liege": 4.6, "Wistfulness": 3.9, "Thranduil's Company": 3.0,
+    "Tam, Observant Sequencer": 3.0, "Mind into Matter": 3.4, "Silvan Reveler": 2.8,
+    "Gowron, Eager for Battle": 3.0, "L'Rell, Fierce Visionary": 3.0,
+    "Tokka & Rahzar, Terrible Twos": 3.0, "Shadow Urchin": 3.0, "Smaug, Wicked Worm": 3.2,
+    "Stingerquill Charm": 3.2, "Professor Dellian Fel": 4.2, "The Last Ronin": 3.9,
+    "Dread Tiller": 3.0, "High Perfect Morcant": 3.2, "Witherbloom Charm": 3.2,
+    "Trystan, Callous Cultivator": 3.2, "Vibrance": 3.9, "Wolverine, Fierce Fighter": 3.4,
+    "Aerid Konstrari": 3.6, "Noggle Robber": 2.9, "Gert and Old Lace, Runaways": 2.8,
+    "Hit It!": 2.7, "Catharsis": 3.8, "Raph & Leo, Sibling Rivals": 3.2,
+    "Quintorius, History Chaser": 3.6, "Dwalin, Weaponmaster": 2.7, "Warrior's Blades": 3.2,
+    "Excava, the Risen Past": 3.5, "Dark Leo & Shredder": 3.1, "Karai, Future of the Foot": 3.1,
+    "Cloak and Dagger, Entwined": 3.5, "Emptiness": 3.9, "Abigale, Eloquent First-Year": 3.2,
+    "Turncoat Kunoichi": 3.3, "Eirdu, Carrier of Dawn": 3.7, "Mikey & Leo, Chaos & Order": 3.0,
+    "Phlox, Unorthodox Doctor": 2.9, "Okoye, Mighty and Adored": 3.4, "Figure of Fable": 3.2,
+    "Brigid, Clachan's Heart": 3.2, "Kwia Vigorbloom": 3.8, "Thanos, the Mad Titan": 3.6,
+    "Bruce Banner": 3.0, "Auntie Ool, Cursewretch": 3.0,
+    # Colorless
+    "H.E.R.B.I.E., Lovable Robot": 3.0, "Firdoch Core": 2.4, "Murmuring Volume": 2.3,
+    "Foraging Wickermaw": 2.3, "Orcrist, Goblin-cleaver": 2.8, "Sting, Bilbo's Sword": 2.6,
+    "Iron Man Armor": 2.9, "Type-2 Phaser": 2.7, "Codie, Ravenous Codex": 2.4,
+    "Biblioplex Tomekeeper": 2.2, "The Vision": 2.8, "The Arkenstone": 3.2,
+    "Engineered Explosives": 3.0, "The Echoverse Fulcrum": 2.8, "Omni-Cheese Pizza": 2.2,
+    "Tea, Earl Grey, Hot": 2.1, "Archive Arbiter": 2.8, "Tri-Sentinel, Act of Vengeance": 2.9,
+    "Crystalline Entity": 3.0, "Emrakul, the Exigent Doom": 2.9, "Henchbots": 2.6,
+    "Kimoyo Beads": 2.7, "U.S.S. Enterprise-D, Galaxy-Class": 2.4,
+    "H.E.R.B.I.E. Scout Unit": 2.3, "Vibranium Strike Gauntlets": 2.6,
+    "Captain America's Shield": 2.3, "Vision, Synthezoid Avenger": 2.6, "Giant's Boulder": 2.3,
+}
+
+# Candidates evaluated during testing (not all are in the cube; see TESTING.md)
+CANDIDATES = {
+    "Benjamin Sisko, Besieged": 3.7, "Verdant Kraken": 3.6, "Hulk, Brutal Brawler": 3.5,
+    "Giant-Man, Gargantuan Genius": 3.3, "Edgar, Moonlit Sovereign": 3.3, "Quarrel": 3.0,
+    "Wakanda Forever!": 3.2, "Gumato": 2.9, "Rhino, Terrible Trampler": 3.3,
+    "Tenacious Tosk": 3.0, "Shang-Chi, Martial Mentor": 3.0, "Proctor's Gaze": 3.3,
+    "Retro-Mutation": 3.0, "Enchanted River's Grasp": 2.9, "Quandrix Charm": 3.0,
+    "Mind Meanderer": 3.2, "Embrace the Paradox": 3.0, "Quandrix, the Proof": 3.6,
+    "Blight Rot": 3.3, "Requiting Hex": 3.0, "Darkness Descends": 3.0, "Heirloom Auntie": 2.6,
+    "Gutsplitter Gang": 2.8, "Vraska, the Cutting Glare": 3.6, "Dina's Guidance": 3.0,
+    "Vash, Freelance Archaeologist": 3.0, "Lluwen, Imperfect Naturalist": 2.8,
+    "Hapatra, the Desert Fang": 3.2, "Soul Immolation": 3.6, "Gandalf, Spark Starter": 3.4,
+    "Klingon Strike Force": 3.3, "Burn, Burn, Tree and Fern": 3.3,
+    "Smaug, the Great Calamity": 3.2, "Iron Man, Tony Stark": 3.4,
+    "Jack of Hearts, Volatile Hero": 2.9, "Spider-Man, Web-Spinner": 3.0, "Loki's Scepter": 2.8,
+    "The Misty Mountains Cold": 3.0, "Raphael's Technique": 3.0, "Goliath Daydreamer": 3.0,
+    "Savanti Romero, Time's Exile": 3.4, "Super-Skrull": 3.6, "Lorehold, the Historian": 3.7,
+    "Silverquill, the Disputant": 3.6, "Jennifer Walters": 3.4, "Monica Rambeau": 3.4,
+    "Splatter Technique": 3.5, "Moment of Reckoning": 3.5, "Ingris Stingerquill": 3.3,
+    "Bard's Company": 3.5,
+}
+RATINGS.update(CANDIDATES)
+
+# Cards added in the v2 revision that were not in CANDIDATES above
+RATINGS.update({
+    "Amazing Spider-Girl": 3.5, "Imperial Hullbreachers": 3.3, "Captain America, Liberator": 3.4,
+    "Lyra, Archangel of Dawn": 3.0, "Royal Talon Fighter Jet": 3.3, "Leader, Super-Genius": 3.4,
+    "Jadzi, Steward of Fate": 3.2, "Subcommander T'Pol": 3.0, "Giant Space Amoeba": 3.2,
+    "Glen Elendra's Answer": 3.2, "Decorum Dissertation": 3.6, "Kurn, Son of Mogh": 3.3,
+    "Kingpin's Enforcers": 2.8, "Green Goblin, Back for More": 3.6, "Thor, Asgard's Avenger": 3.6,
+    "Slash, Reptile Rampager": 3.6, "Hulk, Strongest There Is": 3.6,
+    "U.S.S. Discovery, at Black Alert": 3.6, "Germination Practicum": 3.6,
+    "Carnivorous Cultivator": 3.1, "Denzilore Fatehold": 3.5, "Hawkeye, Avenging Archer": 3.5,
+    "Craftwork Crusher": 3.3, "Weather Maker": 2.8, "Exploding Barrel": 2.7,
+})
+
+# v3 additions
+RATINGS.update({"Theorist's Proxy": 2.9, "Age of Ultron": 3.5})
+RATINGS.update({"Prismari Charm": 3.2})
+
+# v4 curve fixes
+RATINGS.update({"Bejeweled Warg": 2.9, "Michelangelo, the Heart": 3.0, "Noxious Newt": 2.9,
+                "Saru, Unthreatened": 2.8, "Tasha Yar, Out of Time": 2.8, "Explosive Prodigy": 2.8,
+                "Gollum, Riddle Master": 3.0})
+RATINGS.update({"Konstrari Charm": 3.0})
+RATINGS.update({"Renet, Temporal Apprentice": 3.2})
